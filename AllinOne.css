@@ -1019,7 +1019,7 @@
 #mapx104y132 a:before,#mapx54y76 a:before{ content:  url(https://nuhp.de/style/umgs/save__port.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx111y83 a:before,#mapx-100y-95 a:before,#mapx-827y-919 a:before{ content:  url(https://nuhp.de/style/umgs/save__port_npc.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx65y96 a:before,#mapx147y121 a:before,#mapx80y75 a:before,#mapx120y70 a:before,#mapx98y81 a:before,#mapx72y85 a:before,#mapx123y92 a:before,#mapx45y98 a:before,#mapx121y112 a:before,#mapx58y74 a:before,#mapx58y107 a:before{ content:  url(umgs/U__ring.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
-#mapx92y105 a:before{ content:  url(umgs/save__gzk.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx92y105 a:before{ content:  url(https://nuhp.de/style/umgs/save__gzk.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx-785y-786 a:before,#mapx-507y-377 a:before,#mapx-803y-808 a:before,#mapx-798y-798 a:before,#mapx-347y-693 a:before,#mapx-599y-449 a:before,#mapx-823y-778 a:before{ content:  url(https://nuhp.de/style/umgs/U__ggzk.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx98y120 a:before{ content:  url(https://nuhp.de/style/umgs/save__ring_npc.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx100y94 a:before{ content:  url(https://nuhp.de/style/umgs/save__gzk_npc.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
