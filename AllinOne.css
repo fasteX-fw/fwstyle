@@ -2257,6 +2257,120 @@ background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, 
 }
 
 
+/* Neu von mir */  
+/* Agre\0000DFive NPC blinken */
+	.aggre\0000DFivenpc 		   { font-weight: bold; color: #FF0000; text-decoration:blink; font-weight: bold;}
+
+/* Aggre\0000DFive NPCs auf der Karte */
+	.framemapbg td[id^="map"] a { position: relative; text-decoration: none; display: inline-block; width: 50px; height: 50px; }
+
+/* A: 5300 */
+/*#mapx-100y-95 a:after { content: "5300"; z-index: 2; width: 50px; position: absolute; left: 0px; top: 0px; line-height: 120%; font-size: 10px; font-weight: bold; text-align: center; color: #D20000; background: #CCCCCC; border-bottom: 1px solid #BABABA; opacity: 0.70; -moz-border-radius-bottomleft: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-left-radius: 6px; -webkit-border-bottom-right-radius: 6px; }*/
+
+/* Sichere Felder */
+#mapx-99y-94 a:before{ content:  url(https://nuhp.de/style/umgs/save__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx-100y-94 a:before{ content:  url(https://nuhp.de/style/umgs/save__npc.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx-888y-123 a:before{ content:  url(https://nuhp.de/style/umgs/save__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx-888y-122 a:before{ content:  url(https://nuhp.de/style/umgs/save__npc.svg); z-index: 1; width: 50px; position: absolute; margin-left:-0px;background:0;}
+
+/* Alvor */
+/* Hover */
+#mapx80y125:hover a:after{ content: "Urwaldeule";}
+#mapx81y125:hover a:after{ content: "Somniumor";}
+#mapx82y125:hover a:after{ content: "Somniumor";}
+#mapx82y124:hover a:after{ content: "Undaron";}
+#mapx83y124:hover a:after{ content: "Gürteltier";}
+#mapx85y124:hover a:after{ content: "Turmtaube";}
+#mapx87y124:hover a:after{ content: "Giftgrüne Eidechse";}
+#mapx83y125:hover a:after{ content: "Gürteltier";}
+#mapx84y125:hover a:after{ content: "Terramor";}
+#mapx85y125:hover a:after{ content: "Ruinen-Wurm";}
+#mapx86y125:hover a:after{ content: "Giftgrüne Eidechse";}
+#mapx87y125:hover a:after{ content: "Terramor";}
+#mapx81y126:hover a:after{ content: "Steinspinne";}
+#mapx82y126:hover a:after{ content: "Somniumor";}
+#mapx83y126:hover a:after{ content: "lethargischer Leguan";}
+#mapx84y126:hover a:after{ content: "lethargischer Leguan";}
+#mapx85y126:hover a:after{ content: "Grünbär";}
+#mapx86y126:hover a:after{ content: "Grünbär";}
+#mapx82y127 a:before{ content:  url(https://nuhp.de/style/umgs/save__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx83y127:hover a:after{ content: "lethargischer Leguan";}
+#mapx84y127:hover a:after{ content: "Silberschuppen Alligator";}
+#mapx85y127:hover a:after{ content: "Grünbär";}
+#mapx83y128 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx84y128:hover a:after{ content: "Seehase";}
+#mapx85y128:hover a:after{ content: "Undaron";}
+#mapx86y128:hover a:after{ content: "Geröllschlange";}
+#mapx82y129:hover a:after{ content: "agile Möwe";}
+#mapx83y129:hover a:after{ content: "Seehase";}
+#mapx84y129:hover a:after{ content: "Urwaldspinne";}
+#mapx85y129 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx86y129:hover a:after{ content: "Moosskarabäus";}
+#mapx81y130:hover a:after{ content: "Gezeiten Garnele";}
+#mapx81y130 a:before{ content:  url(https://nuhp.de/style/umgs/save_.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx81y130:hover a:after{ content: "Gezeiten Garnele";}
+#mapx82y130:hover a:after{ content: "Gezeiten Garnele";}
+#mapx83y130:hover a:after{ content: "Gezeiten Garnele";}
+#mapx84y130:hover a:after{ content: "agile Möwe";}
+#mapx85y130:hover a:after{ content: "Seehase";}
+#mapx84y131:hover a:after{ content: "Totenkopfkrebs";}
+#mapx84y131 a:before{ content:  url(https://nuhp.de/style/umgs/save_.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+
+/* Ende Alvor */
+
+/* Insel der träumenden Quallen */
+#mapx82y137:hover a:after{ content: "Schwammkrebs";}
+#mapx83y137:hover a:after{ content: "Fiesmuschel";}
+#mapx83y137 a:before{ content:  url(https://nuhp.de/style/umgs/save_.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx84y137:hover a:after{ content: "Zwergigel\00000aFeuertränen Qualle";}
+#mapx84y137 a:before{ content:  url(https://nuhp.de/style/umgs/save_.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx81y136:hover a:after{ content: "Zebraschlange";}
+#mapx82y136:hover a:after{ content: "Obstbienen-Sammlerin";}
+#mapx83y136:hover a:after{ content: "Rüsselkäfer";}
+#mapx84y136:hover a:after{ content: "Wetterraupe";}
+#mapx85y136:hover a:after{ content: "Obstbienen-Sammlerin";}
+#mapx82y135:hover a:after{ content: "Lava-Qualle";}
+#mapx83y135:hover a:after{ content: "Pockenqualle";}
+#mapx84y135:hover a:after{ content: "Obstbienen-Schwärmer";}
+
+/* Ende Insel der träumenden Quallen */
+
+/* Merida */
+
+/* Ende Merida */
+
+/* Zarah */
+
+/* Ende Zarah */
+
+
+/* LP-Wert größer anzeigen */
+#listrow_lifep span {
+    font-size: 16px; /* Vergrößert den LP-Wert */
+    white-space: nowrap; /* Verhindert Zeilenumbruch */
+}
+
+/* Box für den LP-Wert anpassen, aber ohne die Zeilenhöhe oder Abstände groß zu verändern */
+#listrow_lifep {
+    display: inline-block; /* Flexibler, ohne die Höhe der Box zu verändern */
+    max-width: 340px; /* Passt die maximale Breite für den LP-Wert an */
+    padding: 0px; /* Wenig Padding, um Platz zu schaffen */
+    height: auto; /* Stellt sicher, dass die Box die benötigte Höhe hat */
+}
+
+/* LP-Bezeichnung (LP:) ebenfalls größer */
+#listrow_lifep:before {
+    font-size: 16px; /* Erhöht die Schriftgröße der Bezeichnung */
+    font-weight: bold;
+}
+
+/* Den LP-Wert innerhalb der Box zentrieren */
+#listrow_lifep span, #listrow_lifep:before {
+    vertical-align: middle;
+}
+
+
+
 
 
     
