@@ -1,0 +1,233 @@
+/* runenpuzzle bilder durch zahlen ersetzen */
+	img[src$="minigame/a1.gif"], img[src$="minigame/a2.gif"], img[src$="minigame/a3.gif"], img[src$="minigame/a4.gif"], img[src$="minigame/a5.gif"],
+	img[src$="minigame/a6.gif"]	{ background-repeat: no-repeat; background-position: top left; width: 0px; height: 40px; padding-left: 40px; display: inline-block; overflow: hidden; }
+	img[src$="minigame/a1.gif"]	{ background-image: url(https://nuhp.de/style/pics/rp1.png); }
+	img[src$="minigame/a2.gif"]	{ background-image: url(https://nuhp.de/style/pics/rp2.png); }
+	img[src$="minigame/a3.gif"]	{ background-image: url(https://nuhp.de/style/pics/rp3.png); }
+	img[src$="minigame/a4.gif"]	{ background-image: url(https://nuhp.de/style/pics/rp4.png); }
+	img[src$="minigame/a5.gif"]	{ background-image: url(https://nuhp.de/style/pics/rp5.png); }
+	img[src$="minigame/a6.gif"]	{ background-image: url(https://nuhp.de/style/pics/rp6.png); }
+/* Puzzle Helper */
+.pic1:before {
+	content: "1";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic2:before {
+	content: "2";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic3:before {
+	content: "3";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic4:before {
+	content: "4";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic5:before {
+	content: "5";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic6:before {
+	content: "6";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic7:before {
+	content: "7";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic8:before {
+	content: "8";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic9:before {
+	content: "9";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic10:before {
+	content: "10";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic11:before {
+	content: "11";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic12:before {
+	content: "12";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic13:before {
+	content: "13";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic14:before {
+	content: "14";
+	width: 31px!important;
+	height: 31px!important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+	line-height: 1.5;
+	color: #ffffff9e;
+}
+.pic15:before {
+	content: "15";
+	width: 31px !important;
+	height: 31px !important;
+	position: relative;
+	background: #00000073;
+	display: inline-block;
+	padding: 0;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	border: 1px solid #ffffff3d;
+}
