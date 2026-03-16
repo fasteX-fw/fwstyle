@@ -1,20 +1,155 @@
 @charset "UTF-8";
     
-:root{
- --font: #ffffff;
- --bgm: #000000;
- --boxbg: #141714;
- --ipb: #53514d;
+@charset "UTF-8";
 
- --health-ok: #c4d94d;
- --health-med: #788c4d;
- --health-crit: #443820;
+/* ===== Parameter aus vardark URL ===== */
 
- --chat-text: #ffffff;
- --chat-global: #b9bec7;
+{
 
- --attack-size: 20px;
- --ahz: 20px;
+/* Farben */
+--font:#ffffff;
+--bgm:#000000;
+--boxbg:#141714;
+--ipb:#53514d;
+
+--hok:#c4d94d;
+--hmed:#788c4d;
+--hcrit:#443820;
+
+--ctext:#ffffff;
+--globalc:#b9bec7;
+
+/* Größen */
+--atksize:20px;
+--ahz:20px;
+
+}
+
+/* ===== Grundlayout ===== */
+
+body{
+background-color(--bgm);
+color(--font);
+margin:0;
+}
+
+/* Frames */
+
+.frameitembg,
+.framemainbg,
+.framemapbg,
+.framechattextbg{
+background-color(--boxbg);
+}
+
+/* Inputs */
+
+input[type="text"],
+input[type="number"],
+input[type="password"],
+textarea{
+background-color(--ipb);
+color(--font);
+}
+
+/* ===== Chat ===== */
+
+.chattext{
+color(--ctext);
+font-size:13px;
+}
+
+.chattextglobal{
+color(--globalc);
+}
+
+.chattextscream{
+color:#4d88f9;
+}
+
+.chattextclan{
+color:#ff6f6f;
+}
+
+.chattextgroup{
+color:#f9771b;
+}
+
+/* ===== Lebensfarben ===== */
+
+.healthok{
+color(--hok);
+}
+
+.healthmed{
+color(--hmed);
+}
+
+.healthcritical{
+color(--hcrit);
+}
+
+/* ===== Angriffgrößen ===== */
+
+.fastattack,
+.fastchase{
+font-size(--atksize);
+}
+
+/* ===== Chat Zeit Animation ===== */
+
+.chattime{
+animation 10s linear infinite;
+background-image(
+to left,
+violet,
+indigo,
+blue,
+green,
+yellow,
+orange,
+red
+);
+background-size:1100% 100%;
+color;
+-webkit-background-clip;
+font-weight:900;
+}
+
+@keyframes animateBg{
+0%{background-position:0% 0%;}
+100%{background-position:100% 0%;}
+}
+
+/* ===== Scrollbar ===== */
+
+*::-webkit-scrollbar{
+width:1em;
+}
+
+*::-webkit-scrollbar-thumb{
+background-color;
+outline:1px solid slategrey;
+}
+
+/* ===== Map ===== */
+
+.stdjpg{
+background-image(https://welt1.freewar.de/freewar/images/map/std4.jpg)!important;
+}
+
+/* ===== Attack Links ===== */
+
+a[href*="main.php?action=take&"],
+.fastattack,
+.fastchase{
+font-size(--atksize);
+}
+
+/* ===== Abschluss ===== */
+
+a[href="?finish=1"]{
+font-size(--ahz);
 }
 
 /*Anfang Aggro ANS */
