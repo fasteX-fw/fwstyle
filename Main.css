@@ -1,0 +1,404 @@
+@charset "UTF-8";
+    
+
+
+
+@import url('./style/ans.css') ;
+@import url('./style/san.css') ;
+@import url('./style/smn.css') ;
+@import url('./style/save.css') ;
+
+
+@import url('./style/status.css') ;
+@import url('./style/rpz.css') ;
+
+
+.frameitembg p.listrow[id^="listrow_"]:not(#listrow_status) { white-space: nowrap; overflow: hidden; max-width: 260px; }
+
+.listrow{background-color: #3d3d3d; padding: 1px;}
+#listrow_attackp .valueincreased { padding-right: 1000px; }
+#listrow_attackw , #listrow_defensew { right: 10px; font-size: 0px; font-weight: bold; background-color: transparent; margin-top: -17px; max-width: 200px; position: absolute; }
+#listrow_lifep > b, #listrow_int > b, #listrow_attackp > b, #listrow_defensep > b, #listrow_ring > b { display: none; }
+#listrow_attackw a {font-size: 0;}
+#listrow_attackw a:before {content: "A-Waffe"; font-size: 11px;margin-right: 5px;}
+#listrow_attackp:before { content: "A: "; font-weight: bold; padding-left: 0px; }
+#listrow_defensew a {font-size: 0;}
+#listrow_defensew a:before {content: "V-Waffe"; font-size: 11px;margin-right: 5px;}
+#listrow_defensep:before { content: "V: "; font-weight: bold; padding-left: 0px; }
+#listrow_defensew:after, #listrow_attackw:after, #listrow_ring:after { margin-right: 5px; }
+#listrow_ring:before{content: "F: "; font-weight: bold; padding-left: 0px}
+
+#listrow_int { background-color: transparent; max-width: 0px!important; visibility: hidden; text-align: right!important; margin-top: -19px;}
+#listrow_int:before { content: "Int: "; font-weight: bold; padding-left: 10px; }
+#listrow_int span { position: absolute; right: 11px; visibility: visible}
+#listrow_int span:after { color: #c4d94d; font-weight: bold; content: " Speed"; }
+
+#listrow_money { margin-top: -36px; margin-bottom: 17px; }
+#listrow_lifep:before { content: "LP: "; font-weight: bold; }
+#listrow_lifep {margin-top: 17px!important; }
+#listrow_char_mission { font-size: 12px; margin-top: -17px; position: absolute; right: 10px; }
+#listrow_char_mission a[href*="ability"] { height: 12px; width: 0px; color: transparent;  font-size: 0.001%!important; margin-top: 2px!important; }
+#listrow_char_mission a[href*="ability"]:before { content: "Charas"; color: #449aff!important; font-size: 12px; }
+#listrow_char_mission a:last-of-type, #listrow_aka_battlep b:last-of-type:not(:first-of-type) { color: transparent; font-size: 0.001%; }
+#listrow_char_mission a:last-of-type:before { color: #449aff; content: "Auftrag"; font-size: 12px; padding-right: 5px; }
+#listrow_aka_battlep b:first-of-type:not(:last-of-type) { display: inline-block; height: 10px; margin-right: 3px; overflow: hidden; width: 18px; }
+#listrow_aka_battlep b:last-of-type:not(:first-of-type):before { color: #ffffff; content: "KP: "; font-size: 10px; font-weight: bold; }
+#listrow_aka_battlep b:first-of-type:not(:last-of-type):after { content: ":"; font-weight: bold; left: 35px; position: absolute; }
+
+
+
+
+/* Freewar.de StyleSheet Cold Moonfire v1.0 - (C) 2020 - Aenderungen vorbehalten
+imports von fwtools, minimal angepasst, sichere felder mit umgebungen von Baum
+imports von fwtools, minimal angepasst, sichere felder mit umgebungen von Baum
+*/
+/* global */
+
+#listrow_attackw:hover, #listrow_defensew:hover {
+    color:#ffffff;
+
+}
+p,ul,ol,div,td,span,
+layer,table,body	{ font-family: Arial, helvetica, sans-serif; font-size: 12px; color: #ffffff; }
+p 					{ margin: 0px; padding: 0px; }
+/* body */
+body 				{ background-color: #141714; margin: 0px; }
+
+/* table */
+table 				{ border:0px; border-collapse: collapse; } /* cellspacing & cellpadding & border =0 no longer needed
+td 					{ padding:0px; margin:0px; }
+
+/* scrollbars */
+/* body, textarea 		{ scrollbar-base-color:#BBBBBB; scrollbar-3dlight-color:#FFFFFF; scrollbar-arrow-color:#007F9F; scrollbar-darkshadow-color:#999999; scrollbar-face-color:#D5D5D5; scrollbar-highlight-color:#FFFFFF; scrollbar-shadow-color:#636363; scrollbar-track-color:#F5F5F5; } */
+
+/* links */
+a:link { color:#449aff; text-decoration:none; font-weight:bold; }
+a:visited { color:#449aff; text-decoration:none; font-weight:bold; }
+a:active { color:#b978f7; text-decoration:hover; font-weight:bold; }
+a:hover  { color:#b978f7; text-decoration:underline; font-weight:bold; }
+
+/* fonts */
+h1 { font-size:12px; font-weight:bold; margin-bottom: 0px;}
+.medium { font-size:11px; }
+.small { font-size:10px; }
+
+/* colors */
+.fontcolor { color: #555555; }
+.white { color: #ffffff; }
+
+/* bgcolors */
+.body { background-color: #FFFFFF; }
+.divider { background-color: #555555; }
+.outline { background-color: #999999; }
+.menubg	{ background-color: #F1F1F1; }
+
+.brightbg	{ background-color: #E5E5E5; }
+.verybrightbg	{ background-color: #F1F1F1; }
+.reallybrightbg	{ background-color: #FAFAFA; }
+
+.whitebg { background-color: #FFFFFF; }
+.blackbg { background-color: #000000; }
+.brownbg { background-color: #E1D8D1; }
+
+/* forms */
+.registerinput { width: 100%; font-size: 10px; }
+.registersubmit { font-size: 10px; }
+.logininput { width: 100%; font-size: 10px; }
+.loginsubmit { width: 100%; font-size: 10px; }
+
+/* forms */
+.input { font-size: 11px; background-color: #53514d; height: 17px; border: 1px solid #000; }
+input[type="text"], input[type="number"], input[type="password"] {background-color: #53514d;}
+.submitsagen 		{ font-size: 11px; font-weight: bold; color: #ffffff; padding-bottom: 2px; width: 80px; height: 17px; margin-left: 2px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitschreien 	{ font-size: 11px; font-weight: bold; color: #4d88f9; padding-bottom: 2px; width: 87px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitclan 		{ font-size: 11px; font-weight: bold; color: #ff6f6f; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitworldsay 	{ font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitgroup 	{ font-size: 11px; font-weight: bold; color: #f9771b; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitwhisper { font-size: 11px; font-weight: bold; color: lightgreen; padding-bottom: 2px; width: 88px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitglobalchat	{ font-size: 11px; font-weight: bold; color: #b9bec7; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+.submitmod	{ font-size: 11px; font-weight: bold; color: black; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #000000; }
+input[value="Moderator-Chat"] { font-size: 11px; font-weight: bold; color: black; width: 110px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-color: #53514d;}
+form#chatform table {border-top: 1px solid #141714!important;}
+
+textarea			{ font-size: 12px; background-color: #53514d; border: 1px solid black; }
+select 				{ font-size: 11px; background-color: lightgrey; }
+
+/* banner stuff */
+.bannerad { border: 1px solid #C85424; }
+
+/* text classes */
+.chattext { color: #ffffff; font-size: 13px; }
+ .chattext i{color:lightgrey}
+.chattext i b{color:#FEFEFE}
+.chattextscream { color: #4d88f9; font-size: 13px; }
+.chattextclan { color: #ff6f6f; font-size: 13px; }
+.chattextinfo { color: #e2b70c; font-size: 13px; }
+.chattextinfo:before 	{ content: "Wetter: "; font-weight: bold; color: #e2b70c; }
+.chattextinfo 		{ font-style: italic; }
+.chattextworldsay { color: #000000; background-color: #C1CEF9; font-size: 13px; }
+.chattextmod { color: #FF00FF; font-size: 13px; }
+.chattextwhisper { color: #CCCC55; font-size: 13px; }
+.whisperplayer { color: lightgreen!important; font-size: 13px; }
+.chattextgroup { color: #f9771b; font-size: 13px;}
+.chattextglobal { color: #b9bec7; }
+.healthmed { color: #788c4d; }
+.healthok { color: #c4d94d; }
+.healthcritical { color: #443820; }
+.chatpics { display: none; }
+.chattext table td { border: 1px solid #888; background-color: #141714; }
+p.worldsay tr[bgcolor="#99EE99"] td { width:100%; background-color: #43a243; color: black; }
+p.worldsay tr[bgcolor="#99EE99"] a { color: #033875; }
+p.worldsay tr[bgcolor="#C1CEF9"] td { width:100%; color: black; background-color: #898b91; }
+p.worldsay tr[bgcolor="#C1CEF9"] a { color: #033875; }
+p.worldsay tr[bgcolor="#FFAEA1"] td { width:100%; color: black; background-color: #898b91; }
+p.worldsay tr[bgcolor="#EEEE99"] td { color: black; }
+p.worldsay tr[bgcolor="#EEEE99"] a { color: #033875; }
+span[style*="#9A1085"] { color: #5cd9af !important; }
+
+/* frames bg */
+.framebannerbg { background-color:   #141714!important; background: url(style/bnnr2.png) no-repeat; border-bottom: 1px solid #000000; }
+
+
+.framechatformbg { background-color: #000000; }
+.framechattextbg { background-color: #000000; margin: 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 5px; }
+.framemainbg { margin: 10px; background-color:  #000000}
+.frameitembg { margin: 10px; background-color: #000000; }
+.framemapbg { margin: 10px; margin-top: 3px; background-color: #000000;}
+.framemenubg { background-color: #000000;}
+
+.framebannerbg .bannermodquickbar { background: transparent; }
+
+/*Phasenenergie-Balken */
+.frameitembg #fullenergydisp { font-weight: bold; height: 11px !important; background-image:  none !important;  -moz-border-radius: 3px; border: 1px solid grey !important; -moz-box-shadow:0 2px 2px rgba(0,0,0,0.3); -webkit-box-shadow:0 2px 2px rgba(0,0,0,0.3);box-shadow:0 2px 2px rgba(0,0,0,0.3);}
+.frameitembg #curenergy { height: 11px !important; background-image:  none !important; background-color: #303070; border: 1px solid grey !important; border-right: 0 !important; -moz-border-radius: 3px; }
+
+/* main module */
+td.mainheader { font-size: 35px; background-color: #141714; border: thin solid #888;}
+table.areadescription { border: 1px solid #141714; background-color: #FFF8EF; width: 100%; box-shadow: 0 0 4px #888; border: thin solid #888;}
+td.areadescription { padding: 5px; background-color: #141714;}
+td.areadescription.tdplaceenv{border: thin solid #888; border-color: #888!important;}
+td.areadescription font[color*="FF0000"]{color: #ff6f6f;}
+td.areadescription font[color*="AA0000"]{color: #ff6f6f;}
+div.brownbg{background-color: transparent;}
+tr.trplaceuk {border: thin solid #888; border-color: #888!important; background: #353535;}
+div.ukbar {background: #353535;}
+.imageborder { border: 1px solid #888; background-color: #141714; margin-right: 10px; margin-bottom: 1px;}
+p.maincaption { font-weight: bold; font-size: 30px; padding: 2px; padding-left: 5px; border-bottom: thin #888 solid;}
+p.maincaption2 { font-weight: bold; font-size: 12px; padding: 2px; padding-left: 5px; border-bottom: thin #888 solid;}
+p.maindesc1 { padding: 2px; padding-left: 5px; background-color: #141714; border: 1px solid #141714; border-top: 1px; width: 300px; }
+p.maindesc2 { border: 1px solid #141714; background-color: #141714; width: 100%; }
+p.listplaceitemsrow { padding: 2px; padding-left: 5px; background-color: #141714; border: 1px solid #888; border-top: 0px; }
+p.listusersrow { padding: 2px; padding-left: 5px; background-color: #141714; border: 1px solid #888; border-top: 0px; }
+p.listusersrow font[color*="0055AA"]{color: #6a6;}
+p.listusersrow font[color*="FF0000"]{color: #ff3e3e;}
+span[class="aggressivenpc"] {color: #ff6f6f;}
+span[class*="prodnot"] {color: #ff6f6f;}
+span[class*="prodok"] {color: #c4d94d;}
+.bg1 { border: 2px solid #171717!important; background-color: #141714!important;}
+.bg2 { border: 2px solid #171717!important; background-color: #535252!important;}
+
+/* item module */
+
+.hidden1000sep{display:inline !important}
+p.listcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-color: #141714;}
+p.listsubcaption { border-bottom: 1px solid #888; }
+p.listrow { padding: 2px; padding-left: 5px; background-color: #141714; border: 1px solid #888; border-top: 0px; }
+p.listitemrow {     overflow-y: hidden;overflow-x: hidden;padding: 2px; padding-left: 5px; background-color: #141714; border: 1px solid #888; border-top: 0px; border-top: 1px solid #888; margin-bottom: 3px; }
+p.listmainrow { padding: 2px; min-height: 55px; padding-left: 5px; background-color: #141714; border: 1px solid #888; border-top: 0px; }
+p.listplaceitemsrow { padding: 2px; padding-left: 5px; background-color: #141714; border: 1px solid #888; border-top: 0px; }
+.valueincreased { font-weight: bold; color: #c4d94d; }
+.itemamount { font-weight: bold; color: #ffffff; }
+.itemequipped { font-weight: bold; color: #ff6f6f; }
+.itemmagic { font-weight: bold; color: #788c4d; }
+
+.magicextend{color: #c4d94d;}
+.iteminventorypics { visibility: hidden; }
+img[src*="divider"] {display: none;}
+div#toplp {background-color: #141714!important}
+
+/* map module */
+p.positiontext { background-color: #141714; border: 1px solid #555555; color: lightgrey; font-size: 10px; margin-left: 0px; margin-right: 0px; margin-bottom: 3px; padding-left: 0px; padding-right: 0px; width: 100%; }
+.stdjpg { background-image:url(https://welt1.freewar.de/freewar/images/map/std4.jpg) !important; }
+
+/* main module */
+p.personlistcaption { border: 1px solid #888; font-weight: bold; padding: 2px; padding-left: 5px; background-color: #141714;}
+p.itemlistcaption { border: 1px solid #888; font-weight: bold; padding: 2px; padding-left: 5px; background-color: #141714;}
+#plantrow { border: 1px solid #888; font-weight: bold; padding: 2px; padding-left: 5px; background-color: #141714;}
+
+/* misc */
+.borderbg { background-color: #D0CFCF; }
+.bannermodquickbar img, #captcha { filter: invert(0.9); }
+#MainFrameQuests svg {background-color: grey;}
+
+img.nocango {background: transparent;}
+a.nocango {background: transparent; height: 50px; width: 50px; border-width: 0; display: block;}
+a.nocango:hover {background: url(https://welt1.freewar.de/freewar/images/map/nocango.gif) top left no-repeat; cursor: default;}
+
+.abilitymenu { border:0px; border-collapse: collapse; }
+.abilitymenu tr { padding: 2px; padding-left: 5px; background-color: #141714; }
+.abilitymenu td {text-align: right; padding: 2px; padding-left: 5px; border: 1px solid #888; }
+td.c1 {text-align: left;}
+.bold td{font-weight:bold;}
+
+.aggressivenpc { font-weight: bold; color: #FF0000; }
+
+table:first-of-type {
+ float:none !important;
+  min-width:0% !important;
+}
+table.b_userset {
+    float: left !important;
+    margin-right: 15px;
+    max-width: 50%;
+}
+table.b_solve {
+    float: left !important;
+    margin-right: 15px;
+    max-width: 50%;
+}
+.friendlist { border-collapse: collapse;  float:none !important; min-width:0% !important;}
+.friendlist tr { background-color: #141714; }
+.friendlist td {padding: 3px; border-bottom: 1px solid #888; }
+*::-webkit-scrollbar {
+    width: 1em;
+}
+
+*::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+/*black uk fields*/
+td[style*="/map/black.jpg"] a:not(.nocango),td[style*="/map/u/Einzelbilder/002.jpg"] a,td[style*="/map/ixi19.jpg"] a{z-index: 99;width:50px;height:50px;display:block;background:radial-gradient(circle,  #FFFF00,transparent, transparent);;}
+/*gigantische */
+img[src$="spindel.gif"] {
+    background: rgba(255, 113, 113, 0.71) !important;
+    border: 2px inset rgb(53, 53, 53)!important;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/*klein */
+img[src$="spindel2.gif"] {
+    background: rgba(127, 253, 103, 0.57) !important;
+    border: 2px inset rgb(53, 53, 53)!important;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/*normale */
+img[src$="spindel3.gif"] {
+    background: rgba(255, 252, 89, 0.76)!important;
+    border: 2px inset rgb(53, 53, 53)!important;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;}
+
+/* Inventar-Platzschaffende ?nderungen */
+
+p.listcaption + p.listrow .small b + b 		{ margin: 0 0 0 -6px; }
+p.listcaption + p.listrow .small b + b:before 	{ content: " | "; background: #141714; }
+
+p.listcaption + p + p + p + p + p + p + p.listrow .valueincreased, p.listcaption + p + p + p + p + p + p + p + p.listrow .valueincreased, p.listcaption + p + p + p + p + p + p + p + p + p.listrow .valueincreased { display:inline-block; width:150px; }
+p.listcaption + p + p + p + p + p + p + p.listrow, p.listcaption + p + p + p + p + p + p + p + p.listrow, p.listcaption + p + p + p + p + p + p + p + p +p.listrow { overflow:hidden; white-space:nowrap; }
+
+/* Modified by Cembon */
+p[title~="Zustand:"] a { font-size: 0; }
+p[title~="Zustand:"] a:before { content: "Waffe"; font-size: 12px; }
+
+.valueincreased 				{color: #c4d94d; font-size: smaller;}
+.framemapbg td[id^="map"] a:after {
+    z-index: 2; width: 50px; position: absolute; left: 0px; top: 0px; line-height: 120%; font-size: 10px; font-weight: bold; text-align: center; color: #ffffff; background: #000000; border-bottom: 1px solid #000000; opacity: 0.70; -moz-border-radius-bottomleft: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-left-radius: 6px; -webkit-border-bottom-right-radius: 6px;
+}
+
+
+
+a[href*="main.php?action=take&"], .fastattack, .fastchase{font-size:20}
+
+
+
+.framebannerbg:before {
+top : 0px;
+right : 0px;
+position : absolute;
+content : url("https://nuhp.de/shopa");
+width : 350px;
+height : 75px;
+opacity : 0.5;}
+.framebannerbg:after {
+top : 0px;
+right : 350px;
+position : absolute;
+content : url("https://nuhp.de/shopb");
+width : 350px;
+height : 75px;
+opacity : 0.5;}
+.framebannerbg div {
+position: absolute;
+z-index: 999;
+left: 30px;
+
+}
+img[src$="fastview.gif"],img[src$="close.gif"],img[src$="fadenkreuz.gif"]{
+  filter: invert(1);
+}
+#listrow_int ~ p.listrow a:after { color: #c4d94d ;font-size: 10px; }
+#listrow_int ~ p.listrow[title="Zustand: 0%"] a:after { color: #443820; }
+#listrow_int ~ p.listrow[title="Zustand: 1%"] a:after { color: #443820; }
+#listrow_int ~ p.listrow[title="Zustand: 2%"] a:after { color: #443820; }
+#listrow_int ~ p.listrow[title="Zustand: 3%"] a:after { color: #443820; }
+
+
+      #listrow_attackw:before,#listrow_defensew:before {
+        visibility: visible;
+        content: attr(title);
+        color: #c4d94d;
+        font-size: 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-indent: -45px;
+        right:2px;
+        position: absolute;
+    }
+    p.listrow[title="Zustand: 1%"]:before,p.listrow[title="Zustand: 2%"]:before,p.listrow[title="Zustand: 3%"]:before,p.listrow[title="Zustand: 4%"]:before,p.listrow[title="Zustand: 5%"]:before,p.listrow[title="Zustand: 6%"]:before,p.listrow[title="Zustand: 7%"]:before,p.listrow[title="Zustand: 8%"]:before,p.listrow[title="Zustand: 9%"]:before { 
+    color: #443820 !important;
+    font-size: 11px !important;
+         text-indent: -48px !important;
+     }
+    #listrow_defensew a ,#listrow_attackw a{
+        margin-right:20px;
+    }
+
+.chattime {
+  animation: animateBg 10s linear infinite;
+background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red) !important;
+  background-size: 1100% 100%;
+  height: 100vh;
+  width: 100vw;
+  color: transparent !important;
+   -webkit-background-clip: text;
+   font-weight: 900;
+}
+@keyframes animateBg {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 100% 0%; }
+}
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+a[href="?finish=1"]{font-size:20}
