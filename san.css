@@ -1,0 +1,888 @@
+@charset "UTF-8";
+#mapx-50145y-80880:hover a:after{ content: "Geist der Wärme";}
+#mapx-50145y-80878:hover a:after{ content: "Geist der Ruhelosigkeit";}
+#mapx-50144y-80880:hover a:after{ content: "Geist der Heilung\00000aHakka der Brutale\00000aHakkas Beil";}
+#mapx-50144y-80879:hover a:after{ content: "Geist der Flamme";}
+#mapx-50143y-80880:hover a:after{ content: "Geist des Frostes";}
+#mapx-50143y-80879:hover a:after{ content: "Geist der heilenden Aura";}
+#mapx-50100y-69949:hover a:after{ content: "Schmetterlingsfisch\00000aSeetangfisch\00000aTaucher";}
+#mapx-50100y-69948:hover a:after,#mapx-50099y-69950:hover a:after{ content: "Schmetterlingsfisch";}
+#mapx-50099y-69949:hover a:after{ content: "angriffslustiger Riesenkrebs\00000aMeeresbürger\00000aSeetangfisch";}
+#mapx-50098y-69949:hover a:after{ content: "Königsblume";}
+#mapx-50098y-69948:hover a:after,#mapx-50097y-69947:hover a:after,#mapx-50096y-69949:hover a:after,#mapx-50096y-69946:hover a:after,#mapx-50095y-69947:hover a:after,#mapx-50094y-69947:hover a:after{ content: "Seetangfisch";}
+#mapx-50098y-69947:hover a:after{ content: "angriffslustiger Riesenkrebs\00000aSeetangfisch\00000aSeetangmagier";}
+#mapx-50097y-69949:hover a:after{ content: "Königsblume\00000aMeeresbürger\00000aSeetangfisch";}
+#mapx-50097y-69946:hover a:after{ content: "Seetangfisch\00000aSeetangmagier\00000aSeetanmagier";}
+#mapx-50096y-69948:hover a:after{ content: "Riesenkrake\00000aSeetangfisch";}
+#mapx-50096y-69947:hover a:after{ content: "angriffslustiger Riesenkrebs\00000aSeetangfisch";}
+#mapx-50096y-69945:hover a:after{ content: "Seetangfisch\00000aSeeungeheuer";}
+#mapx-50095y-69949:hover a:after{ content: "Seetangfisch\00000aSeetangmagier";}
+#mapx-50094y-69948:hover a:after{ content: "Pfeilfisch\00000aSeetangfisch";}
+#mapx-50093y-69948:hover a:after{ content: "roter Fisch\00000aSchmetterlingsfisch\00000aSeetangfisch";}
+#mapx-50050y-70060:hover a:after{ content: "Sarelia Zauberfunke und Xathos Finsterfeuer";}
+#mapx-49004y-49002:hover a:after,#mapx-49003y-49003:hover a:after,#mapx-49003y-49002:hover a:after,#mapx-49003y-49001:hover a:after,#mapx-49002y-49004:hover a:after,#mapx-49002y-49003:hover a:after,#mapx-49002y-49002:hover a:after,#mapx-49002y-49001:hover a:after,#mapx-49001y-49005:hover a:after,#mapx-49001y-49004:hover a:after,#mapx-49001y-49003:hover a:after,#mapx-49001y-49002:hover a:after,#mapx-49001y-49001:hover a:after,#mapx-49000y-49003:hover a:after,#mapx53y74:hover a:after,#mapx53y75:hover a:after,#mapx54y76:hover a:after,#mapx54y77:hover a:after,#mapx55y75:hover a:after{ content: "kleine Farbanomalie\00000amagische Farbanomalie";}
+#mapx-19999y-19998:hover a:after{ content: "betrunkener Rabauke";}
+#mapx-19997y-19998:hover a:after{ content: "Lola - Die Hauskawutze";}
+#mapx-10004y-10005:hover a:after,#mapx-10004y-10002:hover a:after,#mapx-816y-828:hover a:after,#mapx-814y-813:hover a:after,#mapx-811y-814:hover a:after,#mapx-798y-800:hover a:after,#mapx-787y-786:hover a:after,#mapx-198y-94:hover a:after,#mapx-195y-96:hover a:after,#mapx-185y-92:hover a:after,#mapx-100y-101:hover a:after,#mapx81y87:hover a:after,#mapx82y83:hover a:after,#mapx83y88:hover a:after,#mapx85y94:hover a:after,#mapx87y92:hover a:after,#mapx88y91:hover a:after,#mapx88y93:hover a:after,#mapx90y92:hover a:after,#mapx92y91:hover a:after,#mapx92y96:hover a:after,#mapx93y96:hover a:after,#mapx94y96:hover a:after,#mapx94y105:hover a:after,#mapx97y113:hover a:after,#mapx98y97:hover a:after,#mapx102y95:hover a:after,#mapx108y95:hover a:after,#mapx111y108:hover a:after{ content: "Kaklatron";}
+#mapx-10003y-10003:hover a:after,#mapx85y95:hover a:after,#mapx95y109:hover a:after,#mapx95y111:hover a:after,#mapx96y108:hover a:after,#mapx97y111:hover a:after{ content: "Erdschlurch";}
+#mapx-10003y-10001:hover a:after{ content: "Höhlenbär";}
+#mapx-10002y-10003:hover a:after,#mapx-10001y-10002:hover a:after,#mapx-818y-828:hover a:after,#mapx-811y-811:hover a:after,#mapx-780y-787:hover a:after,#mapx-198y-93:hover a:after,#mapx-101y-100:hover a:after,#mapx-100y-100:hover a:after,#mapx80y88:hover a:after,#mapx83y86:hover a:after,#mapx87y95:hover a:after,#mapx88y107:hover a:after,#mapx91y96:hover a:after,#mapx93y95:hover a:after,#mapx93y97:hover a:after,#mapx94y98:hover a:after{ content: "Klauenratte";}
+#mapx-10002y-10002:hover a:after,#mapx-818y-827:hover a:after,#mapx-781y-786:hover a:after,#mapx85y97:hover a:after,#mapx110y128:hover a:after,#mapx193y136:hover a:after,#mapx196y136:hover a:after,#mapx198y134:hover a:after,#mapx205y134:hover a:after,#mapx261y94:hover a:after{ content: "Felsenwurm";}
+#mapx-10001y-10004:hover a:after{ content: "Höhlenmensch";}
+#mapx-1299y-1398:hover a:after,#mapx-1297y-1397:hover a:after,#mapx-1295y-1394:hover a:after,#mapx-1294y-1398:hover a:after{ content: "Dunkelstern-Arbeiter";}
+#mapx-1299y-1397:hover a:after,#mapx-1299y-1396:hover a:after,#mapx-1298y-1398:hover a:after,#mapx-1298y-1396:hover a:after,#mapx-1297y-1396:hover a:after,#mapx-1297y-1395:hover a:after,#mapx-1296y-1397:hover a:after,#mapx-1296y-1396:hover a:after,#mapx-1296y-1395:hover a:after,#mapx-1296y-1394:hover a:after,#mapx-1296y-1393:hover a:after,#mapx-1295y-1398:hover a:after,#mapx-1295y-1393:hover a:after,#mapx-1294y-1397:hover a:after{ content: "Dunkelstern-Krieger";}
+#mapx-1298y-1397:hover a:after,#mapx-1298y-1395:hover a:after,#mapx-1297y-1398:hover a:after,#mapx-1296y-1398:hover a:after,#mapx-1295y-1397:hover a:after,#mapx-1295y-1396:hover a:after,#mapx-1295y-1395:hover a:after,#mapx-1294y-1396:hover a:after{ content: "Dunkelstern-Magier";}
+#mapx-1000y-1000:hover a:after{ content: "Veranstalter der Rennen";}
+#mapx-939y-556:hover a:after,#mapx-939y-555:hover a:after,#mapx-938y-557:hover a:after,#mapx-938y-556:hover a:after,#mapx-938y-555:hover a:after,#mapx-938y-554:hover a:after,#mapx-938y-553:hover a:after,#mapx-937y-557:hover a:after,#mapx-937y-555:hover a:after,#mapx-936y-558:hover a:after,#mapx-936y-557:hover a:after,#mapx-936y-555:hover a:after,#mapx-936y-554:hover a:after,#mapx-935y-558:hover a:after,#mapx-935y-557:hover a:after,#mapx-935y-556:hover a:after,#mapx-935y-555:hover a:after,#mapx-935y-554:hover a:after,#mapx-935y-553:hover a:after,#mapx-935y-552:hover a:after,#mapx-934y-557:hover a:after,#mapx-934y-556:hover a:after,#mapx-934y-555:hover a:after{ content: "Jerodar-Dieb\00000aJerodar-Lehrling";}
+#mapx-937y-558:hover a:after,#mapx-937y-556:hover a:after{ content: "Jerodar-Dieb";}
+#mapx-922y-179:hover a:after,#mapx-921y-179:hover a:after,#mapx-921y-178:hover a:after,#mapx-921y-177:hover a:after,#mapx-920y-179:hover a:after,#mapx-920y-178:hover a:after,#mapx-920y-177:hover a:after,#mapx-919y-178:hover a:after,#mapx-919y-177:hover a:after,#mapx-919y-176:hover a:after,#mapx-918y-177:hover a:after,#mapx-918y-176:hover a:after{ content: "Schattenmoos";}
+#mapx-898y-779:hover a:after{ content: "fliegende Nebelkugel\00000aNebelhüpfer";}
+#mapx-897y-779:hover a:after,#mapx-897y-778:hover a:after,#mapx-896y-779:hover a:after,#mapx-895y-779:hover a:after,#mapx-821y-777:hover a:after,#mapx-230y-539:hover a:after,#mapx47y96:hover a:after,#mapx51y95:hover a:after,#mapx53y97:hover a:after,#mapx54y95:hover a:after,#mapx54y97:hover a:after,#mapx55y95:hover a:after,#mapx55y96:hover a:after{ content: "Nebelhüpfer";}
+#mapx-897y-777:hover a:after{ content: "aufgeregter Nebelhüpfer\00000aNebelhüpfer";}
+#mapx-897y-776:hover a:after{ content: "Nebelbesen\00000aNebelhüpfer";}
+#mapx-896y-778:hover a:after{ content: "Nebelhüpfer\00000aNebelschnecke";}
+#mapx-896y-777:hover a:after{ content: "Nebelhüpfer\00000aNebelkrebs";}
+#mapx-895y-778:hover a:after{ content: "Nebelblume\00000aNebelhüpfer";}
+#mapx-850y-377:hover a:after,#mapx-848y-378:hover a:after,#mapx-848y-376:hover a:after,#mapx-847y-379:hover a:after,#mapx-846y-380:hover a:after,#mapx-846y-378:hover a:after,#mapx-846y-376:hover a:after,#mapx-846y-374:hover a:after,#mapx-845y-377:hover a:after,#mapx-844y-375:hover a:after,#mapx-844y-373:hover a:after,#mapx-843y-378:hover a:after,#mapx-841y-376:hover a:after,#mapx-840y-375:hover a:after{ content: "Blauschimmer-Ameise";}
+#mapx-849y-378:hover a:after,#mapx-848y-374:hover a:after,#mapx-846y-379:hover a:after,#mapx-845y-376:hover a:after,#mapx-845y-375:hover a:after,#mapx-844y-377:hover a:after,#mapx-844y-374:hover a:after,#mapx-843y-377:hover a:after,#mapx-842y-377:hover a:after,#mapx-840y-376:hover a:after{ content: "Rotschimmer-Ameise";}
+#mapx-849y-377:hover a:after,#mapx-849y-376:hover a:after,#mapx-848y-379:hover a:after,#mapx-848y-375:hover a:after,#mapx-847y-378:hover a:after,#mapx-847y-374:hover a:after,#mapx-847y-373:hover a:after,#mapx-846y-377:hover a:after,#mapx-846y-373:hover a:after,#mapx-845y-378:hover a:after,#mapx-845y-374:hover a:after,#mapx-844y-376:hover a:after,#mapx-843y-375:hover a:after,#mapx-842y-378:hover a:after,#mapx-842y-375:hover a:after,#mapx-841y-377:hover a:after,#mapx-841y-375:hover a:after{ content: "Grünschimmer-Ameise";}
+#mapx-845y-373:hover a:after{ content: "krumme Grünschimmer-Ameise";}
+#mapx-830y-810:hover a:after,#mapx-830y-808:hover a:after,#mapx-829y-810:hover a:after,#mapx-828y-807:hover a:after,#mapx-827y-810:hover a:after,#mapx-813y-814:hover a:after,#mapx-811y-813:hover a:after,#mapx-664y-662:hover a:after,#mapx-661y-665:hover a:after{ content: "Lava-Wurm";}
+#mapx-830y-809:hover a:after,#mapx-829y-807:hover a:after,#mapx-828y-806:hover a:after,#mapx-826y-807:hover a:after,#mapx-813y-813:hover a:after,#mapx-812y-812:hover a:after{ content: "großer Lava-Käfer";}
+#mapx-830y-807:hover a:after,#mapx-828y-810:hover a:after,#mapx-827y-806:hover a:after,#mapx-826y-809:hover a:after,#mapx-813y-812:hover a:after,#mapx-812y-814:hover a:after,#mapx-661y-660:hover a:after,#mapx-203y-829:hover a:after,#mapx88y103:hover a:after{ content: "Lava-Käfer";}
+#mapx-829y-809:hover a:after,#mapx-827y-807:hover a:after{ content: "Vulkandämon";}
+#mapx-828y-910:hover a:after,#mapx-827y-916:hover a:after,#mapx-826y-915:hover a:after,#mapx-826y-913:hover a:after,#mapx-825y-908:hover a:after,#mapx-824y-912:hover a:after,#mapx-824y-903:hover a:after,#mapx-823y-907:hover a:after,#mapx-822y-908:hover a:after,#mapx-239y-387:hover a:after{ content: "blauer Stachelschuss-Igel";}
+#mapx-827y-918:hover a:after,#mapx-827y-911:hover a:after,#mapx-826y-917:hover a:after,#mapx-826y-909:hover a:after,#mapx-824y-908:hover a:after,#mapx-586y-492:hover a:after,#mapx-585y-495:hover a:after,#mapx-585y-493:hover a:after,#mapx-584y-495:hover a:after,#mapx-584y-492:hover a:after,#mapx-583y-493:hover a:after,#mapx-583y-490:hover a:after,#mapx-582y-495:hover a:after,#mapx-582y-494:hover a:after,#mapx-582y-492:hover a:after,#mapx-578y-497:hover a:after,#mapx-576y-497:hover a:after,#mapx-567y-496:hover a:after,#mapx-566y-494:hover a:after,#mapx-559y-497:hover a:after,#mapx-558y-497:hover a:after,#mapx-548y-498:hover a:after{ content: "Dilinug";}
+#mapx-827y-914:hover a:after,#mapx-826y-912:hover a:after,#mapx-826y-908:hover a:after,#mapx-825y-911:hover a:after,#mapx-823y-912:hover a:after,#mapx-823y-906:hover a:after,#mapx-823y-903:hover a:after,#mapx-822y-910:hover a:after{ content: "kleine Grottenschlange";}
+#mapx-827y-913:hover a:after{ content: "Dilinug\00000aGeister-Undaron";}
+#mapx-827y-910:hover a:after,#mapx-826y-911:hover a:after,#mapx-825y-915:hover a:after,#mapx-825y-909:hover a:after,#mapx-822y-909:hover a:after{ content: "Grottenschlange";}
+#mapx-827y-909:hover a:after,#mapx-826y-916:hover a:after,#mapx-825y-914:hover a:after,#mapx-825y-912:hover a:after,#mapx-825y-910:hover a:after,#mapx-823y-908:hover a:after,#mapx-230y-538:hover a:after{ content: "Geister-Undaron";}
+#mapx-827y-908:hover a:after,#mapx-826y-910:hover a:after{ content: "blauer Stachelschuss-Igel\00000aDunkelgrottenpilz";}
+#mapx-826y-918:hover a:after{ content: "kranke Grottenschlange";}
+#mapx-826y-914:hover a:after{ content: "Dunkelgrottenpilz\00000aGrottenschlange";}
+#mapx-826y-904:hover a:after,#mapx-824y-905:hover a:after{ content: "blaues Glühwürmchen\00000akleine Grottenschlange";}
+#mapx-826y-903:hover a:after,#mapx-823y-905:hover a:after{ content: "blaues Glühwürmchen\00000aGeister-Undaron";}
+#mapx-826y-902:hover a:after{ content: "blauer Stachelschuss-Igel\00000ablaues Glühwürmchen";}
+#mapx-826y-901:hover a:after{ content: "blaues Glühwürmchen";}
+#mapx-826y-808:hover a:after{ content: "Lava Echse\00000aLava-Echse";}
+#mapx-825y-904:hover a:after{ content: "blaues Glühwürmchen\00000aGrottenschlange";}
+#mapx-825y-903:hover a:after{ content: "blaues Glühwürmchen\00000aDunkelgrottenpilz";}
+#mapx-825y-779:hover a:after{ content: "Nebelgeist Wrozie";}
+#mapx-825y-778:hover a:after{ content: "Nebelgeist Girie";}
+#mapx-825y-777:hover a:after{ content: "Bruder des Nebelbesens";}
+#mapx-824y-904:hover a:after{ content: "blaues Glühwürmchen\00000ahundertfüßiger Dilinug";}
+#mapx-824y-779:hover a:after{ content: "Nebelgeist Napirie";}
+#mapx-824y-778:hover a:after{ content: "Nebelgeist Bargu";}
+#mapx-824y-777:hover a:after{ content: "Nebelgeist Murahn";}
+#mapx-824y-776:hover a:after{ content: "Nebelwiesel";}
+#mapx-823y-779:hover a:after{ content: "Nebelblume";}
+#mapx-823y-778:hover a:after,#mapx50y97:hover a:after,#mapx54y96:hover a:after,#mapx63y101:hover a:after,#mapx63y102:hover a:after{ content: "Nebelschleimer";}
+#mapx-823y-777:hover a:after{ content: "Nebelgeist Sorlie";}
+#mapx-823y-776:hover a:after,#mapx50y94:hover a:after{ content: "umnebeltes Schlangentier";}
+#mapx-822y-778:hover a:after{ content: "Nebelschnecke";}
+#mapx-822y-777:hover a:after,#mapx46y96:hover a:after,#mapx48y96:hover a:after,#mapx53y95:hover a:after{ content: "kleiner Nebelkreischer";}
+#mapx-822y-776:hover a:after{ content: "Nebelgeist Viginur";}
+#mapx-821y-910:hover a:after{ content: "alte Grottenschlange";}
+#mapx-821y-780:hover a:after{ content: "Nebelgeist Argarie";}
+#mapx-821y-779:hover a:after,#mapx51y96:hover a:after,#mapx56y96:hover a:after,#mapx56y101:hover a:after,#mapx57y97:hover a:after,#mapx58y96:hover a:after,#mapx58y98:hover a:after,#mapx59y99:hover a:after,#mapx60y97:hover a:after,#mapx60y101:hover a:after,#mapx61y99:hover a:after{ content: "Nebelkreischer";}
+#mapx-821y-778:hover a:after{ content: "Nebelkrebs";}
+#mapx-820y-829:hover a:after{ content: "Magier des Schutzes";}
+#mapx-818y-829:hover a:after,#mapx58y87:hover a:after,#mapx79y89:hover a:after,#mapx81y93:hover a:after,#mapx94y95:hover a:after,#mapx97y103:hover a:after,#mapx97y108:hover a:after,#mapx98y119:hover a:after,#mapx102y102:hover a:after,#mapx105y135:hover a:after,#mapx108y100:hover a:after,#mapx110y99:hover a:after,#mapx110y102:hover a:after{ content: "Kleines Schaf";}
+#mapx-818y-826:hover a:after,#mapx-780y-789:hover a:after,#mapx-193y-95:hover a:after,#mapx-192y-95:hover a:after{ content: "Deckenkleiber";}
+#mapx-817y-829:hover a:after,#mapx-192y-94:hover a:after{ content: "Giftgrabl";}
+#mapx-816y-829:hover a:after,#mapx-198y-398:hover a:after,#mapx-197y-398:hover a:after,#mapx504y57:hover a:after,#mapx505y57:hover a:after{ content: "schwarze Keitel-Spinne";}
+#mapx-816y-826:hover a:after,#mapx-814y-812:hover a:after,#mapx-197y-96:hover a:after,#mapx-185y-93:hover a:after,#mapx-184y-96:hover a:after,#mapx58y86:hover a:after,#mapx90y97:hover a:after,#mapx92y98:hover a:after,#mapx94y97:hover a:after{ content: "Kriechlapf";}
+#mapx-812y-829:hover a:after{ content: "Giftblubberzahnmonster";}
+#mapx-812y-828:hover a:after,#mapx-810y-830:hover a:after,#mapx-810y-828:hover a:after{ content: "Staubassel";}
+#mapx-812y-827:hover a:after,#mapx-810y-829:hover a:after,#mapx-809y-829:hover a:after,#mapx-449y-447:hover a:after,#mapx-448y-449:hover a:after{ content: "Erdkäfer";}
+#mapx-812y-811:hover a:after,#mapx86y103:hover a:after,#mapx87y104:hover a:after,#mapx88y104:hover a:after{ content: "Aschenvogel";}
+#mapx-811y-812:hover a:after,#mapx-785y-788:hover a:after,#mapx72y85:hover a:after,#mapx72y86:hover a:after,#mapx72y87:hover a:after,#mapx74y84:hover a:after,#mapx75y85:hover a:after,#mapx86y94:hover a:after,#mapx87y91:hover a:after,#mapx89y92:hover a:after,#mapx89y93:hover a:after,#mapx90y89:hover a:after,#mapx90y96:hover a:after,#mapx91y92:hover a:after,#mapx91y94:hover a:after,#mapx92y90:hover a:after,#mapx92y97:hover a:after,#mapx110y110:hover a:after,#mapx111y107:hover a:after{ content: "Steinspinne";}
+#mapx-809y-828:hover a:after{ content: "Grunulum";}
+#mapx-807y-282:hover a:after{ content: "rubinroter Waldgeist";}
+#mapx-806y-282:hover a:after{ content: "Glutlichtfalter";}
+#mapx-806y-279:hover a:after{ content: "bemooster Felsblock";}
+#mapx-805y-282:hover a:after{ content: "Rotfell-Reh";}
+#mapx-805y-281:hover a:after{ content: "Rotfell-Rehkitz";}
+#mapx-805y-280:hover a:after{ content: "Blutforsch\00000aBlutwurm";}
+#mapx-805y-279:hover a:after,#mapx43y98:hover a:after{ content: "Moosspinne";}
+#mapx-804y-810:hover a:after{ content: "Kopolaspinne";}
+#mapx-804y-809:hover a:after,#mapx-803y-809:hover a:after,#mapx-802y-808:hover a:after,#mapx83y84:hover a:after{ content: "Kleine Spinne";}
+#mapx-804y-281:hover a:after{ content: "Blutforsch\00000aLaubwiesenschlange";}
+#mapx-804y-280:hover a:after{ content: "blutiges Schaf";}
+#mapx-804y-279:hover a:after{ content: "abgestürzte Lichtpflanze";}
+#mapx-803y-810:hover a:after,#mapx-803y-808:hover a:after,#mapx-802y-809:hover a:after,#mapx50y100:hover a:after,#mapx86y106:hover a:after{ content: "Silberwurmhaufen";}
+#mapx-803y-282:hover a:after{ content: "altes Blätterwesen";}
+#mapx-803y-281:hover a:after{ content: "Plätscherfluss-Krokodil";}
+#mapx-803y-280:hover a:after{ content: "roter Baumkuschler";}
+#mapx-802y-282:hover a:after{ content: "blutende Lianenschlinge\00000ablutige Peitschenliane\00000apeitschende Blutliane\00000aschlingende Lianenpeitsche";}
+#mapx-801y-282:hover a:after{ content: "Gardu-Strauchkäfer";}
+#mapx-801y-281:hover a:after{ content: "Blutapfelbaum";}
+#mapx-800y-282:hover a:after{ content: "Blutharztropfen\00000aknorrige Wurzel";}
+#mapx-800y-281:hover a:after{ content: "Gurdz-Beerenstrauch";}
+#mapx-799y-798:hover a:after,#mapx-798y-799:hover a:after,#mapx-797y-798:hover a:after,#mapx-199y-398:hover a:after,#mapx-198y-397:hover a:after,#mapx-197y-397:hover a:after{ content: "Grabfliege";}
+#mapx-799y-797:hover a:after{ content: "Staub-Maus";}
+#mapx-798y-798:hover a:after{ content: "Grabgeist der vermissten Toten";}
+#mapx-798y-797:hover a:after{ content: "Schwarze Keitel-Spinne";}
+#mapx-797y-797:hover a:after{ content: "Blutwurm";}
+#mapx-789y-786:hover a:after,#mapx85y86:hover a:after,#mapx97y114:hover a:after,#mapx100y102:hover a:after{ content: "Kleines Schlangentier";}
+#mapx-785y-790:hover a:after,#mapx-783y-786:hover a:after{ content: "Mormdat";}
+#mapx-785y-786:hover a:after{ content: "Kanal-Krake";}
+#mapx-780y-793:hover a:after{ content: "Lehrlingskiste";}
+#mapx-759y-756:hover a:after,#mapx-758y-759:hover a:after,#mapx-758y-756:hover a:after,#mapx-758y-752:hover a:after,#mapx-757y-759:hover a:after,#mapx-757y-756:hover a:after,#mapx-757y-752:hover a:after,#mapx-756y-759:hover a:after,#mapx-756y-758:hover a:after,#mapx-756y-757:hover a:after,#mapx-756y-756:hover a:after,#mapx-756y-755:hover a:after,#mapx-756y-754:hover a:after,#mapx-756y-753:hover a:after,#mapx-756y-752:hover a:after,#mapx-755y-754:hover a:after,#mapx-754y-754:hover a:after{ content: "Kanalqualle";}
+#mapx-755y-759:hover a:after,#mapx-754y-759:hover a:after,#mapx-754y-758:hover a:after,#mapx-754y-757:hover a:after{ content: "Roter Felswurm";}
+#mapx-740y-228:hover a:after,#mapx-739y-228:hover a:after,#mapx-738y-230:hover a:after,#mapx-738y-229:hover a:after,#mapx-737y-229:hover a:after,#mapx-737y-228:hover a:after,#mapx-736y-230:hover a:after,#mapx-736y-229:hover a:after,#mapx-736y-227:hover a:after{ content: "verstümmeltes Holzmonster";}
+#mapx-740y-227:hover a:after,#mapx-739y-229:hover a:after,#mapx-738y-228:hover a:after,#mapx-737y-230:hover a:after,#mapx-737y-227:hover a:after,#mapx-736y-228:hover a:after,#mapx-736y-226:hover a:after{ content: "Holzplatten-Schildkröte";}
+#mapx-719y-717:hover a:after,#mapx47y89:hover a:after,#mapx48y89:hover a:after,#mapx70y98:hover a:after,#mapx71y99:hover a:after,#mapx72y99:hover a:after,#mapx73y99:hover a:after{ content: "Tempelhüpfer";}
+#mapx-719y-716:hover a:after{ content: "weiser Ontolon";}
+#mapx-718y-718:hover a:after{ content: "schneller Tempelkrabbler";}
+#mapx-718y-717:hover a:after,#mapx-716y-718:hover a:after,#mapx-715y-718:hover a:after{ content: "Ontolon";}
+#mapx-718y-716:hover a:after{ content: "angepasster Ontolon\00000aexplosiver Tempelschleim";}
+#mapx-718y-715:hover a:after,#mapx-717y-716:hover a:after,#mapx-716y-717:hover a:after,#mapx-716y-715:hover a:after{ content: "Tempelkrabbler";}
+#mapx-717y-719:hover a:after,#mapx-717y-715:hover a:after{ content: "explosiver Tempelschleim";}
+#mapx-717y-718:hover a:after{ content: "verirrter Tempelschleim";}
+#mapx-717y-717:hover a:after{ content: "zäher Ontolon";}
+#mapx-687y-348:hover a:after,#mapx-687y-347:hover a:after,#mapx-687y-346:hover a:after,#mapx-687y-345:hover a:after,#mapx-686y-348:hover a:after,#mapx-686y-347:hover a:after,#mapx-686y-346:hover a:after,#mapx-686y-345:hover a:after,#mapx-686y-344:hover a:after,#mapx-685y-348:hover a:after,#mapx-685y-347:hover a:after,#mapx-685y-346:hover a:after,#mapx-685y-345:hover a:after,#mapx-685y-344:hover a:after,#mapx-684y-348:hover a:after,#mapx-684y-347:hover a:after,#mapx-684y-346:hover a:after,#mapx-684y-345:hover a:after,#mapx-684y-344:hover a:after,#mapx-683y-347:hover a:after,#mapx-683y-346:hover a:after,#mapx-683y-345:hover a:after{ content: "Kristall-Orwane";}
+#mapx-662y-663:hover a:after,#mapx-657y-659:hover a:after,#mapx88y102:hover a:after{ content: "Großer Lava-Käfer";}
+#mapx-647y-145:hover a:after,#mapx-647y-143:hover a:after,#mapx-645y-148:hover a:after,#mapx-643y-148:hover a:after{ content: "Wächtergolem";}
+#mapx-647y-144:hover a:after,#mapx-645y-146:hover a:after,#mapx-645y-145:hover a:after,#mapx-644y-147:hover a:after,#mapx-642y-148:hover a:after{ content: "Steinmolch";}
+#mapx-646y-146:hover a:after,#mapx-646y-144:hover a:after,#mapx-645y-147:hover a:after,#mapx-644y-146:hover a:after,#mapx-643y-147:hover a:after,#mapx108y127:hover a:after{ content: "Felsenschreier";}
+#mapx-646y-145:hover a:after{ content: "schneller Steinmolch";}
+#mapx-645y-144:hover a:after{ content: "verrosteter Wächtergolem";}
+#mapx-613y-262:hover a:after,#mapx-611y-262:hover a:after,#mapx-610y-264:hover a:after,#mapx-609y-262:hover a:after,#mapx-608y-266:hover a:after,#mapx-607y-266:hover a:after,#mapx-607y-262:hover a:after,#mapx-606y-266:hover a:after,#mapx-606y-261:hover a:after,#mapx-605y-267:hover a:after,#mapx-605y-266:hover a:after,#mapx-605y-260:hover a:after,#mapx-604y-265:hover a:after,#mapx-603y-260:hover a:after,#mapx-602y-264:hover a:after,#mapx-601y-263:hover a:after,#mapx-601y-260:hover a:after,#mapx-600y-262:hover a:after,#mapx101y84:hover a:after,#mapx101y85:hover a:after,#mapx102y83:hover a:after,#mapx103y80:hover a:after,#mapx103y81:hover a:after,#mapx103y83:hover a:after,#mapx104y75:hover a:after,#mapx104y78:hover a:after,#mapx104y79:hover a:after,#mapx105y79:hover a:after,#mapx105y80:hover a:after,#mapx106y75:hover a:after{ content: "Abgesandter der Eiswelt";}
+#mapx-613y-261:hover a:after,#mapx-612y-261:hover a:after,#mapx-612y-260:hover a:after,#mapx-610y-261:hover a:after,#mapx-608y-263:hover a:after,#mapx-608y-262:hover a:after,#mapx-607y-261:hover a:after,#mapx-606y-260:hover a:after,#mapx-605y-259:hover a:after,#mapx-604y-266:hover a:after,#mapx-604y-259:hover a:after,#mapx-603y-266:hover a:after,#mapx-603y-265:hover a:after,#mapx-602y-265:hover a:after,#mapx-602y-263:hover a:after,#mapx-602y-259:hover a:after,#mapx-601y-264:hover a:after,#mapx-600y-261:hover a:after,#mapx-600y-260:hover a:after{ content: "junger Abgesandter";}
+#mapx-612y-263:hover a:after,#mapx-610y-262:hover a:after,#mapx-609y-263:hover a:after,#mapx-607y-264:hover a:after,#mapx-607y-263:hover a:after,#mapx-606y-264:hover a:after,#mapx-605y-264:hover a:after,#mapx-605y-262:hover a:after,#mapx-605y-261:hover a:after,#mapx-604y-261:hover a:after,#mapx-603y-263:hover a:after,#mapx-603y-262:hover a:after,#mapx-603y-261:hover a:after,#mapx-602y-261:hover a:after,#mapx-602y-260:hover a:after,#mapx-600y-264:hover a:after,#mapx-600y-263:hover a:after{ content: "Vorhof-Koordinator";}
+#mapx-612y-262:hover a:after,#mapx-611y-263:hover a:after,#mapx-611y-261:hover a:after,#mapx-611y-260:hover a:after,#mapx-609y-261:hover a:after,#mapx-604y-260:hover a:after,#mapx-178y-317:hover a:after,#mapx-176y-317:hover a:after,#mapx-174y-316:hover a:after,#mapx-171y-313:hover a:after,#mapx-169y-312:hover a:after,#mapx88y82:hover a:after,#mapx92y84:hover a:after,#mapx92y86:hover a:after,#mapx93y85:hover a:after,#mapx94y84:hover a:after,#mapx94y85:hover a:after,#mapx96y82:hover a:after,#mapx96y85:hover a:after,#mapx98y85:hover a:after,#mapx99y82:hover a:after,#mapx100y85:hover a:after,#mapx104y76:hover a:after,#mapx104y82:hover a:after{ content: "Eiswurm";}
+#mapx-610y-265:hover a:after{ content: "Eiswurm\00000aerfrorenes Schaf";}
+#mapx-610y-263:hover a:after,#mapx94y86:hover a:after,#mapx94y87:hover a:after,#mapx95y83:hover a:after,#mapx96y83:hover a:after,#mapx97y83:hover a:after,#mapx103y76:hover a:after,#mapx104y81:hover a:after{ content: "Frostgeist";}
+#mapx-609y-266:hover a:after{ content: "frierender Schneewurm";}
+#mapx-609y-265:hover a:after{ content: "frierendes Schneewiesel";}
+#mapx-609y-208:hover a:after,#mapx-609y-206:hover a:after,#mapx-609y-205:hover a:after,#mapx-608y-208:hover a:after,#mapx-608y-204:hover a:after,#mapx-607y-209:hover a:after,#mapx-607y-208:hover a:after,#mapx-607y-207:hover a:after,#mapx-607y-206:hover a:after,#mapx-607y-205:hover a:after,#mapx-607y-204:hover a:after,#mapx-606y-208:hover a:after,#mapx-606y-206:hover a:after,#mapx-606y-205:hover a:after,#mapx-606y-204:hover a:after,#mapx-606y-203:hover a:after,#mapx-605y-208:hover a:after,#mapx-605y-207:hover a:after,#mapx-605y-205:hover a:after,#mapx-605y-204:hover a:after,#mapx-604y-208:hover a:after,#mapx-604y-207:hover a:after,#mapx-604y-205:hover a:after,#mapx-603y-209:hover a:after,#mapx-603y-208:hover a:after,#mapx-603y-206:hover a:after,#mapx-603y-205:hover a:after,#mapx-602y-207:hover a:after{ content: "Bernstein-Raupe";}
+#mapx-609y-207:hover a:after,#mapx-608y-205:hover a:after,#mapx-606y-207:hover a:after,#mapx-605y-206:hover a:after,#mapx-604y-209:hover a:after,#mapx-604y-206:hover a:after,#mapx-603y-207:hover a:after,#mapx-603y-204:hover a:after,#mapx-602y-208:hover a:after,#mapx-602y-206:hover a:after{ content: "Bernstein-Falke\00000aBernstein-Raupe";}
+#mapx-607y-267:hover a:after{ content: "frierender Schneekäfer";}
+#mapx-599y-498:hover a:after{ content: "Dilinug\00000aLebender Tropfstein";}
+#mapx-599y-449:hover a:after,#mapx-598y-448:hover a:after,#mapx-598y-447:hover a:after,#mapx-597y-449:hover a:after,#mapx-597y-447:hover a:after{ content: "Lichtpflanze\00000aLichtwurm";}
+#mapx-599y-448:hover a:after,#mapx-597y-448:hover a:after,#mapx-596y-449:hover a:after,#mapx-595y-448:hover a:after{ content: "Lebender Ast\00000aLichtwurm";}
+#mapx-598y-449:hover a:after,#mapx-596y-448:hover a:after{ content: "Lichtwurm";}
+#mapx-586y-493:hover a:after,#mapx-585y-492:hover a:after,#mapx-584y-493:hover a:after,#mapx-584y-491:hover a:after,#mapx-584y-490:hover a:after,#mapx-583y-494:hover a:after,#mapx-583y-491:hover a:after,#mapx-582y-491:hover a:after,#mapx-567y-497:hover a:after,#mapx-567y-495:hover a:after,#mapx-566y-496:hover a:after,#mapx-566y-495:hover a:after,#mapx-566y-493:hover a:after,#mapx-565y-497:hover a:after,#mapx-565y-495:hover a:after,#mapx-565y-494:hover a:after,#mapx-564y-496:hover a:after,#mapx-564y-495:hover a:after,#mapx88y90:hover a:after,#mapx89y91:hover a:after,#mapx90y90:hover a:after,#mapx91y90:hover a:after{ content: "Stein-Tentakel";}
+#mapx-585y-494:hover a:after,#mapx-585y-491:hover a:after,#mapx-583y-495:hover a:after,#mapx-583y-492:hover a:after,#mapx-582y-493:hover a:after,#mapx-581y-492:hover a:after,#mapx-579y-497:hover a:after,#mapx-577y-497:hover a:after,#mapx-575y-497:hover a:after,#mapx-565y-496:hover a:after,#mapx-548y-497:hover a:after{ content: "Tropfsteinwurm";}
+#mapx-548y-499:hover a:after{ content: "Klauenbartrein";}
+#mapx-543y-641:hover a:after,#mapx-543y-640:hover a:after,#mapx-543y-639:hover a:after,#mapx-542y-642:hover a:after,#mapx-542y-641:hover a:after,#mapx-542y-640:hover a:after,#mapx-542y-639:hover a:after,#mapx-542y-638:hover a:after,#mapx-541y-641:hover a:after,#mapx-541y-640:hover a:after,#mapx-541y-639:hover a:after,#mapx-540y-640:hover a:after{ content: "Eisbohrmaschine";}
+#mapx-531y-168:hover a:after,#mapx-531y-166:hover a:after,#mapx-530y-169:hover a:after,#mapx-530y-168:hover a:after,#mapx-530y-167:hover a:after,#mapx-530y-166:hover a:after,#mapx-530y-165:hover a:after,#mapx-529y-169:hover a:after,#mapx-529y-168:hover a:after,#mapx-529y-167:hover a:after,#mapx-529y-166:hover a:after,#mapx-528y-167:hover a:after{ content: "Tropfsteinwandler";}
+#mapx-509y-376:hover a:after,#mapx-508y-377:hover a:after{ content: "Schlurum";}
+#mapx-508y-376:hover a:after{ content: "benebeltes Mormdat";}
+#mapx-508y-375:hover a:after,#mapx108y77:hover a:after,#mapx109y76:hover a:after,#mapx111y77:hover a:after,#mapx112y79:hover a:after,#mapx113y79:hover a:after,#mapx114y81:hover a:after,#mapx115y80:hover a:after,#mapx116y79:hover a:after,#mapx119y79:hover a:after{ content: "temporaler Falter";}
+#mapx-507y-377:hover a:after{ content: "Schleimraupe";}
+#mapx-507y-376:hover a:after,#mapx-196y-95:hover a:after,#mapx111y119:hover a:after{ content: "kleine Spinne";}
+#mapx-486y-158:hover a:after{ content: "fliegende Kuh\00000aWolkenflatterer";}
+#mapx-486y-157:hover a:after,#mapx-485y-155:hover a:after,#mapx-484y-156:hover a:after{ content: "kleine Luftschnecke\00000aWolkenflatterer";}
+#mapx-486y-155:hover a:after{ content: "mutierte Wolkenblume\00000aWolkenblume\00000aWolkenflatterer";}
+#mapx-485y-158:hover a:after{ content: "Wolkenflatterer";}
+#mapx-485y-157:hover a:after{ content: "Wolkenflatterer\00000aWolkenschaf";}
+#mapx-470y-472:hover a:after{ content: "Mopfchen";}
+#mapx-448y-448:hover a:after{ content: "Großer Wurzelwurm";}
+#mapx-447y-447:hover a:after{ content: "Großer Erdkäfer";}
+#mapx-429y-298:hover a:after,#mapx-428y-296:hover a:after,#mapx-425y-298:hover a:after,#mapx39y97:hover a:after,#mapx51y80:hover a:after,#mapx51y90:hover a:after,#mapx53y85:hover a:after,#mapx53y98:hover a:after,#mapx53y103:hover a:after,#mapx102y121:hover a:after,#mapx103y125:hover a:after,#mapx103y126:hover a:after,#mapx103y127:hover a:after,#mapx103y128:hover a:after,#mapx104y126:hover a:after,#mapx105y125:hover a:after,#mapx106y124:hover a:after,#mapx106y127:hover a:after,#mapx106y128:hover a:after,#mapx107y127:hover a:after,#mapx116y130:hover a:after,#mapx119y89:hover a:after,#mapx121y87:hover a:after,#mapx122y87:hover a:after,#mapx126y86:hover a:after,#mapx202y134:hover a:after{ content: "Undaron";}
+#mapx-429y-297:hover a:after,#mapx84y93:hover a:after,#mapx86y86:hover a:after,#mapx92y104:hover a:after,#mapx94y107:hover a:after,#mapx100y101:hover a:after{ content: "Feuerwolf";}
+#mapx-429y-293:hover a:after,#mapx-428y-294:hover a:after,#mapx-428y-293:hover a:after,#mapx-428y-292:hover a:after,#mapx-427y-292:hover a:after,#mapx-426y-294:hover a:after,#mapx-426y-293:hover a:after,#mapx-426y-292:hover a:after,#mapx-425y-293:hover a:after,#mapx-424y-294:hover a:after{ content: "Altstadtratte";}
+#mapx-428y-298:hover a:after,#mapx-426y-297:hover a:after,#mapx-425y-296:hover a:after,#mapx-424y-298:hover a:after{ content: "blauer Todesläufer";}
+#mapx-428y-297:hover a:after,#mapx-427y-297:hover a:after,#mapx-427y-296:hover a:after,#mapx-426y-298:hover a:after,#mapx-426y-296:hover a:after,#mapx-425y-297:hover a:after{ content: "kranker Todesläufer";}
+#mapx-427y-299:hover a:after,#mapx45y81:hover a:after,#mapx54y78:hover a:after,#mapx69y86:hover a:after,#mapx79y90:hover a:after,#mapx80y75:hover a:after,#mapx81y94:hover a:after,#mapx94y94:hover a:after,#mapx97y100:hover a:after,#mapx101y100:hover a:after,#mapx101y101:hover a:after,#mapx106y100:hover a:after,#mapx108y101:hover a:after,#mapx109y99:hover a:after,#mapx110y98:hover a:after,#mapx111y99:hover a:after,#mapx117y132:hover a:after,#mapx127y86:hover a:after,#mapx129y86:hover a:after{ content: "Milchkuh";}
+#mapx-427y-298:hover a:after,#mapx52y78:hover a:after,#mapx70y90:hover a:after,#mapx71y91:hover a:after,#mapx72y91:hover a:after,#mapx73y89:hover a:after,#mapx77y88:hover a:after,#mapx121y86:hover a:after,#mapx124y86:hover a:after{ content: "Strauchkäfer";}
+#mapx-426y-299:hover a:after{ content: "blauer Todesläufer\00000agigantischer Todesläufer";}
+#mapx-349y-698:hover a:after,#mapx-349y-697:hover a:after,#mapx-348y-699:hover a:after,#mapx-348y-698:hover a:after,#mapx-348y-697:hover a:after,#mapx-348y-696:hover a:after,#mapx-348y-695:hover a:after,#mapx-348y-694:hover a:after,#mapx-348y-693:hover a:after,#mapx-347y-699:hover a:after,#mapx-347y-698:hover a:after,#mapx-347y-697:hover a:after,#mapx-347y-696:hover a:after,#mapx-347y-695:hover a:after,#mapx-347y-694:hover a:after,#mapx-347y-693:hover a:after,#mapx-346y-697:hover a:after,#mapx-346y-696:hover a:after,#mapx-346y-695:hover a:after,#mapx-346y-694:hover a:after,#mapx-346y-693:hover a:after,#mapx-345y-695:hover a:after,#mapx-345y-694:hover a:after,#mapx-345y-693:hover a:after{ content: "Glypra";}
+#mapx-340y-718:hover a:after,#mapx-338y-719:hover a:after,#mapx-338y-718:hover a:after,#mapx-336y-719:hover a:after,#mapx-335y-718:hover a:after,#mapx-334y-718:hover a:after{ content: "mutierter Morschgreifer\00000aSiedestein-Dampfgeist\00000aSiedesteinkäfer";}
+#mapx-340y-717:hover a:after,#mapx-339y-718:hover a:after,#mapx-337y-718:hover a:after,#mapx-336y-718:hover a:after,#mapx-335y-720:hover a:after,#mapx-335y-719:hover a:after{ content: "mutierter Morschgreifer\00000aSiedestein-Dampfgeist";}
+#mapx-340y-715:hover a:after,#mapx-340y-714:hover a:after,#mapx-340y-713:hover a:after,#mapx-338y-714:hover a:after,#mapx-337y-715:hover a:after,#mapx-337y-714:hover a:after,#mapx-336y-716:hover a:after,#mapx-336y-715:hover a:after,#mapx-336y-714:hover a:after,#mapx-335y-716:hover a:after,#mapx-335y-715:hover a:after,#mapx-335y-714:hover a:after,#mapx-335y-713:hover a:after,#mapx-334y-714:hover a:after,#mapx-334y-713:hover a:after,#mapx-334y-712:hover a:after,#mapx-334y-711:hover a:after,#mapx-333y-712:hover a:after{ content: "mutierter Morschgreifer";}
+#mapx-319y-319:hover a:after{ content: "Nachtgonk im dunklen Haus";}
+#mapx-319y-317:hover a:after,#mapx-317y-318:hover a:after,#mapx501y55:hover a:after,#mapx501y56:hover a:after,#mapx503y55:hover a:after,#mapx503y57:hover a:after,#mapx505y54:hover a:after,#mapx505y55:hover a:after{ content: "Krustenkäfer";}
+#mapx-316y-195:hover a:after,#mapx-312y-196:hover a:after,#mapx-311y-192:hover a:after,#mapx-309y-195:hover a:after{ content: "Gratrat-Alien";}
+#mapx-315y-192:hover a:after,#mapx-314y-196:hover a:after,#mapx-312y-198:hover a:after,#mapx-309y-193:hover a:after{ content: "Weltraum-Krake\00000aWeltraum-Kraken";}
+#mapx-310y-196:hover a:after{ content: "Sternenzerstörer";}
+#mapx-301y-197:hover a:after,#mapx-300y-194:hover a:after,#mapx-298y-194:hover a:after,#mapx-297y-198:hover a:after,#mapx-296y-194:hover a:after{ content: "schwarze Netzspinne";}
+#mapx-300y-201:hover a:after,#mapx-300y-197:hover a:after,#mapx-299y-198:hover a:after,#mapx-298y-199:hover a:after{ content: "roter Flughund";}
+#mapx-300y-200:hover a:after,#mapx-300y-198:hover a:after,#mapx-299y-197:hover a:after,#mapx-298y-197:hover a:after{ content: "Schwebehörnchen";}
+#mapx-300y-196:hover a:after,#mapx-299y-193:hover a:after,#mapx-295y-195:hover a:after{ content: "Glashautmotte";}
+#mapx-300y-193:hover a:after{ content: "weiße Fettmade";}
+#mapx-299y-200:hover a:after,#mapx-299y-199:hover a:after,#mapx-296y-196:hover a:after{ content: "Luftpferdchen";}
+#mapx-299y-192:hover a:after,#mapx-297y-194:hover a:after{ content: "Erzschnecke";}
+#mapx-298y-198:hover a:after{ content: "Luftpferdchen\00000aweiße Fettmade";}
+#mapx-298y-193:hover a:after{ content: "Erzschnecke\00000aweiße Fettmade";}
+#mapx-297y-197:hover a:after,#mapx-297y-195:hover a:after,#mapx-296y-197:hover a:after,#mapx-296y-195:hover a:after{ content: "braune Raubspinne";}
+#mapx-289y-722:hover a:after,#mapx-289y-720:hover a:after,#mapx-288y-721:hover a:after,#mapx-288y-719:hover a:after,#mapx-287y-722:hover a:after,#mapx-287y-721:hover a:after,#mapx-287y-720:hover a:after,#mapx-286y-723:hover a:after,#mapx-284y-723:hover a:after,#mapx-282y-722:hover a:after,#mapx-282y-721:hover a:after,#mapx-281y-723:hover a:after,#mapx-281y-721:hover a:after{ content: "Urwaldschnecke";}
+#mapx-289y-721:hover a:after,#mapx-288y-722:hover a:after,#mapx-288y-720:hover a:after,#mapx-286y-722:hover a:after,#mapx-286y-721:hover a:after,#mapx-286y-720:hover a:after,#mapx-286y-719:hover a:after,#mapx-285y-723:hover a:after,#mapx-285y-719:hover a:after,#mapx-283y-722:hover a:after,#mapx-283y-721:hover a:after,#mapx-283y-720:hover a:after,#mapx-283y-719:hover a:after,#mapx-282y-720:hover a:after{ content: "Pfeilschnecke";}
+#mapx-289y-476:hover a:after,#mapx-288y-477:hover a:after,#mapx-287y-478:hover a:after,#mapx-287y-476:hover a:after,#mapx-286y-478:hover a:after,#mapx-286y-477:hover a:after,#mapx-285y-478:hover a:after{ content: "Staub-Skelett";}
+#mapx-289y-472:hover a:after,#mapx-288y-472:hover a:after,#mapx-288y-467:hover a:after,#mapx-287y-472:hover a:after,#mapx-287y-467:hover a:after,#mapx-286y-472:hover a:after,#mapx-286y-471:hover a:after{ content: "glühende Staubechse";}
+#mapx-288y-476:hover a:after,#mapx-287y-477:hover a:after,#mapx-286y-479:hover a:after,#mapx-286y-476:hover a:after,#mapx-285y-476:hover a:after{ content: "Staub-Skelett\00000aStaubflatterer";}
+#mapx-287y-471:hover a:after{ content: "Bücherwurm\00000aglühende Staubechse";}
+#mapx-287y-468:hover a:after{ content: "Behüter der Kathedrale";}
+#mapx-285y-722:hover a:after,#mapx-285y-721:hover a:after,#mapx-285y-720:hover a:after,#mapx-284y-722:hover a:after,#mapx-284y-721:hover a:after,#mapx-284y-720:hover a:after{ content: "Tonar-Reptil";}
+#mapx-259y-519:hover a:after,#mapx-259y-517:hover a:after,#mapx-257y-518:hover a:after{ content: "Seuchenflügler";}
+#mapx-259y-518:hover a:after{ content: "Dunkelsand-Schmetterling\00000aStepto-Waran";}
+#mapx-259y-27:hover a:after,#mapx-258y-27:hover a:after,#mapx-258y-26:hover a:after,#mapx-257y-28:hover a:after,#mapx-257y-27:hover a:after,#mapx-257y-26:hover a:after,#mapx-257y-25:hover a:after,#mapx-256y-28:hover a:after,#mapx-256y-27:hover a:after,#mapx-256y-26:hover a:after,#mapx-256y-25:hover a:after,#mapx-255y-28:hover a:after,#mapx-255y-27:hover a:after,#mapx-255y-26:hover a:after,#mapx-254y-28:hover a:after,#mapx-254y-27:hover a:after,#mapx-253y-28:hover a:after{ content: "Feuerlaub-Echse";}
+#mapx-258y-519:hover a:after,#mapx-257y-516:hover a:after,#mapx-256y-518:hover a:after{ content: "Dunkelsand-Schmetterling\00000aRingraupe";}
+#mapx-258y-518:hover a:after{ content: "Schnellflatter-Schmetterling\00000aVertin";}
+#mapx-258y-517:hover a:after{ content: "Dunkelsand-Schmetterling\00000aSeuchenflügler\00000aStepto-Waran";}
+#mapx-258y-516:hover a:after{ content: "Schnellflatter-Schmetterling";}
+#mapx-258y-28:hover a:after{ content: "Seltsames Tier";}
+#mapx-257y-519:hover a:after{ content: "Schnellflatter-Schmetterling\00000aSeuchenflügler\00000aStepto-Waran";}
+#mapx-257y-517:hover a:after{ content: "Dunkelsand-Schmetterling";}
+#mapx-256y-519:hover a:after{ content: "Ringraupe\00000aSchnellflatter-Schmetterling";}
+#mapx-256y-517:hover a:after{ content: "Schnellflatter-Schmetterling\00000aStepto-Waran";}
+#mapx-250y-249:hover a:after,#mapx-249y-249:hover a:after,#mapx-248y-250:hover a:after,#mapx-248y-249:hover a:after,#mapx-248y-248:hover a:after,#mapx-247y-249:hover a:after,#mapx-247y-245:hover a:after,#mapx-246y-245:hover a:after,#mapx-245y-244:hover a:after{ content: "Diamantfisch";}
+#mapx-250y-248:hover a:after,#mapx-250y-246:hover a:after,#mapx-249y-250:hover a:after,#mapx-248y-245:hover a:after,#mapx-247y-250:hover a:after,#mapx-246y-247:hover a:after,#mapx-246y-244:hover a:after,#mapx-245y-245:hover a:after{ content: "Slofoyfisch";}
+#mapx-250y-51:hover a:after{ content: "Experimental-Phasenwesen";}
+#mapx-249y-349:hover a:after,#mapx-249y-348:hover a:after,#mapx-248y-348:hover a:after,#mapx-248y-347:hover a:after,#mapx-247y-348:hover a:after,#mapx-247y-347:hover a:after,#mapx-247y-346:hover a:after,#mapx-246y-349:hover a:after,#mapx-246y-348:hover a:after,#mapx-246y-347:hover a:after,#mapx-246y-346:hover a:after,#mapx-245y-349:hover a:after,#mapx-245y-348:hover a:after,#mapx-245y-347:hover a:after,#mapx-245y-346:hover a:after,#mapx-244y-349:hover a:after,#mapx-244y-348:hover a:after,#mapx-244y-347:hover a:after,#mapx-243y-349:hover a:after,#mapx-243y-348:hover a:after{ content: "Hulnodar-Heiler";}
+#mapx-249y-248:hover a:after,#mapx-249y-247:hover a:after,#mapx-249y-246:hover a:after,#mapx-248y-246:hover a:after,#mapx-247y-248:hover a:after,#mapx-247y-246:hover a:after,#mapx-246y-246:hover a:after{ content: "Anemonenfisch";}
+#mapx-248y-247:hover a:after{ content: "Rubinkoralle";}
+#mapx-247y-247:hover a:after{ content: "Roteiskoralle";}
+#mapx-238y-388:hover a:after{ content: "wütender Stachelkäfer";}
+#mapx-238y-387:hover a:after,#mapx-238y-386:hover a:after,#mapx-236y-388:hover a:after,#mapx-236y-385:hover a:after,#mapx-236y-384:hover a:after{ content: "Rotbandwurm";}
+#mapx-237y-388:hover a:after,#mapx-237y-386:hover a:after,#mapx-234y-385:hover a:after{ content: "Flachassel";}
+#mapx-237y-387:hover a:after{ content: "schneller Stachelsprungkrebs";}
+#mapx-237y-385:hover a:after,#mapx255y94:hover a:after,#mapx255y95:hover a:after,#mapx256y95:hover a:after,#mapx257y92:hover a:after,#mapx257y94:hover a:after,#mapx258y95:hover a:after,#mapx259y92:hover a:after{ content: "Stachelschildkröte";}
+#mapx-237y-384:hover a:after{ content: "entspannte Flachassel";}
+#mapx-236y-387:hover a:after{ content: "schneller Stachelsprungkrebs\00000aStachelsprungkrebs";}
+#mapx-236y-386:hover a:after,#mapx-235y-386:hover a:after,#mapx-235y-385:hover a:after,#mapx-234y-386:hover a:after,#mapx-232y-386:hover a:after{ content: "Stachelsprungkrebs";}
+#mapx-233y-386:hover a:after{ content: "Dunkelgrottenpilz";}
+#mapx-232y-368:hover a:after,#mapx-231y-367:hover a:after,#mapx-231y-366:hover a:after,#mapx-230y-368:hover a:after,#mapx-229y-366:hover a:after,#mapx-228y-369:hover a:after,#mapx-228y-367:hover a:after,#mapx-228y-366:hover a:after,#mapx-228y-365:hover a:after,#mapx-227y-367:hover a:after,#mapx-226y-369:hover a:after,#mapx-226y-368:hover a:after,#mapx-226y-365:hover a:after,#mapx-225y-368:hover a:after{ content: "Fleckfarbenfisch";}
+#mapx-231y-369:hover a:after,#mapx-229y-367:hover a:after,#mapx-227y-365:hover a:after,#mapx-225y-366:hover a:after,#mapx121y110:hover a:after,#mapx122y111:hover a:after,#mapx122y112:hover a:after,#mapx122y117:hover a:after{ content: "Rotzahnhai";}
+#mapx-229y-540:hover a:after{ content: "gefallener Spindelschreiter";}
+#mapx-229y-539:hover a:after,#mapx-228y-538:hover a:after,#mapx-227y-539:hover a:after,#mapx-227y-537:hover a:after,#mapx-226y-539:hover a:after,#mapx-226y-538:hover a:after,#mapx-225y-539:hover a:after,#mapx-225y-537:hover a:after,#mapx-224y-538:hover a:after{ content: "Stororaptor";}
+#mapx-229y-538:hover a:after,#mapx-228y-539:hover a:after,#mapx-227y-538:hover a:after,#mapx-226y-540:hover a:after,#mapx-225y-538:hover a:after,#mapx-224y-539:hover a:after{ content: "junger Stororaptor";}
+#mapx-228y-537:hover a:after{ content: "Gefährliches Tier\00000aStororaptor";}
+#mapx-227y-369:hover a:after{ content: "gieriger Barsch";}
+#mapx-226y-537:hover a:after,#mapx-192y-98:hover a:after,#mapx-186y-92:hover a:after,#mapx49y91:hover a:after,#mapx50y101:hover a:after,#mapx51y81:hover a:after,#mapx51y105:hover a:after,#mapx52y84:hover a:after,#mapx69y104:hover a:after,#mapx73y108:hover a:after,#mapx75y110:hover a:after,#mapx79y87:hover a:after,#mapx80y89:hover a:after,#mapx82y89:hover a:after,#mapx101y88:hover a:after,#mapx102y89:hover a:after,#mapx104y97:hover a:after,#mapx105y93:hover a:after,#mapx109y89:hover a:after,#mapx109y133:hover a:after,#mapx110y94:hover a:after,#mapx111y91:hover a:after,#mapx112y98:hover a:after,#mapx114y93:hover a:after,#mapx120y89:hover a:after{ content: "Schattenwiesel";}
+#mapx-225y-541:hover a:after,#mapx-225y-540:hover a:after,#mapx-223y-541:hover a:after{ content: "hinterlistiger Stororaptor";}
+#mapx-224y-541:hover a:after{ content: "hinterlistiger Stororaptor\00000ajunger Stororaptor";}
+#mapx-224y-540:hover a:after{ content: "Stororaptor\00000averwundete Nebelmaus";}
+#mapx-210y-827:hover a:after,#mapx-210y-826:hover a:after,#mapx-209y-828:hover a:after,#mapx-209y-825:hover a:after,#mapx-208y-828:hover a:after,#mapx-207y-828:hover a:after,#mapx-207y-827:hover a:after,#mapx-207y-826:hover a:after,#mapx-207y-825:hover a:after,#mapx-207y-824:hover a:after,#mapx-206y-827:hover a:after,#mapx-205y-829:hover a:after,#mapx-205y-827:hover a:after,#mapx-205y-825:hover a:after,#mapx-204y-825:hover a:after,#mapx-202y-827:hover a:after,#mapx-202y-825:hover a:after,#mapx-200y-826:hover a:after,#mapx-200y-824:hover a:after,#mapx-199y-826:hover a:after,#mapx-199y-823:hover a:after{ content: "Unterwelt-Dämon";}
+#mapx-209y-827:hover a:after,#mapx-209y-826:hover a:after,#mapx-208y-825:hover a:after,#mapx-205y-826:hover a:after{ content: "uralter Unterwelt-Dämon";}
+#mapx-209y-788:hover a:after,#mapx-208y-789:hover a:after,#mapx-208y-788:hover a:after,#mapx-208y-787:hover a:after,#mapx-207y-789:hover a:after,#mapx-206y-789:hover a:after,#mapx-206y-788:hover a:after{ content: "Nachtfledermaus\00000aSchattensalamander";}
+#mapx-208y-827:hover a:after,#mapx-208y-826:hover a:after,#mapx-206y-828:hover a:after,#mapx-206y-826:hover a:after,#mapx-206y-824:hover a:after,#mapx-201y-825:hover a:after,#mapx-199y-824:hover a:after{ content: "schwacher Unterwelt-Dämon";}
+#mapx-207y-788:hover a:after{ content: "gefrässiger Schattensalamander\00000aNachtfledermaus\00000aSchattensalamander";}
+#mapx-207y-787:hover a:after{ content: "Nachtfledermaus\00000aSchattensalamander\00000averzauberte Nachtfledermaus";}
+#mapx-206y-829:hover a:after,#mapx-204y-829:hover a:after,#mapx-202y-826:hover a:after,#mapx-201y-826:hover a:after,#mapx-201y-823:hover a:after,#mapx-200y-828:hover a:after,#mapx-200y-827:hover a:after,#mapx-200y-825:hover a:after,#mapx-198y-827:hover a:after{ content: "dummer Lavablob";}
+#mapx-206y-825:hover a:after{ content: "gemeiner Unterwelt-Dämon";}
+#mapx-203y-828:hover a:after,#mapx-203y-825:hover a:after,#mapx-202y-829:hover a:after,#mapx-202y-828:hover a:after,#mapx-202y-824:hover a:after,#mapx-201y-824:hover a:after,#mapx-200y-823:hover a:after,#mapx-200y-822:hover a:after,#mapx-199y-825:hover a:after,#mapx-198y-825:hover a:after{ content: "denkender Lavablob";}
+#mapx-202y-200:hover a:after{ content: "gestörter Schattenskorpion\00000aGlimmermade";}
+#mapx-200y-299:hover a:after{ content: "Minengolem\00000aUntoter Höllenhund";}
+#mapx-200y-298:hover a:after,#mapx-199y-300:hover a:after,#mapx-198y-300:hover a:after{ content: "Minengolem\00000auntoter Minenarbeiter";}
+#mapx-200y-94:hover a:after,#mapx-198y-96:hover a:after,#mapx51y92:hover a:after,#mapx52y91:hover a:after,#mapx86y97:hover a:after,#mapx88y92:hover a:after,#mapx89y90:hover a:after,#mapx90y93:hover a:after,#mapx91y91:hover a:after,#mapx91y93:hover a:after,#mapx91y97:hover a:after,#mapx92y95:hover a:after,#mapx93y98:hover a:after,#mapx97y110:hover a:after,#mapx97y117:hover a:after,#mapx98y88:hover a:after,#mapx101y114:hover a:after,#mapx103y95:hover a:after,#mapx107y95:hover a:after,#mapx117y131:hover a:after{ content: "Sprungechse";}
+#mapx-199y-829:hover a:after{ content: "duftendes Grünschleimwesen";}
+#mapx-199y-828:hover a:after,#mapx-199y-827:hover a:after,#mapx-198y-828:hover a:after{ content: "dämonisches Grünschleimwesen";}
+#mapx-199y-299:hover a:after,#mapx-196y-298:hover a:after{ content: "Untertage-Salamander\00000auntoter Minenarbeiter";}
+#mapx-199y-298:hover a:after,#mapx-198y-299:hover a:after,#mapx-198y-297:hover a:after{ content: "Grubensingvogel\00000auntoter Grubensingvogel";}
+#mapx-199y-200:hover a:after,#mapx-199y-199:hover a:after{ content: "gestörter Schattenskorpion";}
+#mapx-199y-94:hover a:after,#mapx-195y-94:hover a:after,#mapx-184y-94:hover a:after,#mapx85y87:hover a:after,#mapx99y102:hover a:after{ content: "Geist der Finsternis";}
+#mapx-198y-399:hover a:after{ content: "Knochensammler";}
+#mapx-198y-298:hover a:after{ content: "Edelsteinschlurch\00000aUntoter Höllenhund";}
+#mapx-198y-97:hover a:after{ content: "Geist der Depressionen";}
+#mapx-197y-298:hover a:after{ content: "Untertage-Salamander\00000aUntoter Höllenhund";}
+#mapx-197y-297:hover a:after{ content: "Edelsteinschlurch\00000auntoter Minenarbeiter";}
+#mapx-196y-297:hover a:after{ content: "Untertage-Salamander\00000auntoter Höllenhund";}
+#mapx-196y-96:hover a:after,#mapx-193y-98:hover a:after,#mapx-185y-94:hover a:after,#mapx80y87:hover a:after,#mapx81y88:hover a:after,#mapx81y89:hover a:after,#mapx82y87:hover a:after,#mapx82y90:hover a:after,#mapx84y88:hover a:after{ content: "Untoter Bürger";}
+#mapx-195y-95:hover a:after,#mapx-184y-95:hover a:after,#mapx74y87:hover a:after,#mapx100y96:hover a:after,#mapx105y96:hover a:after{ content: "kleines Schlangentier";}
+#mapx-195y-88:hover a:after,#mapx-194y-87:hover a:after,#mapx-194y-86:hover a:after{ content: "Tentakel aus Gold";}
+#mapx-195y-87:hover a:after,#mapx-195y-86:hover a:after{ content: "Goldwurm";}
+#mapx-194y-88:hover a:after{ content: "Goldwächter";}
+#mapx-185y-96:hover a:after,#mapx84y78:hover a:after,#mapx99y95:hover a:after,#mapx103y96:hover a:after,#mapx105y94:hover a:after,#mapx105y95:hover a:after,#mapx111y98:hover a:after{ content: "kleines Schaf";}
+#mapx-178y-316:hover a:after,#mapx-177y-317:hover a:after,#mapx-175y-317:hover a:after,#mapx-175y-316:hover a:after,#mapx-174y-314:hover a:after,#mapx-173y-315:hover a:after,#mapx-172y-316:hover a:after,#mapx-172y-314:hover a:after,#mapx-172y-313:hover a:after,#mapx-170y-314:hover a:after,#mapx-170y-311:hover a:after,#mapx-169y-314:hover a:after,#mapx-168y-312:hover a:after,#mapx-168y-311:hover a:after,#mapx-166y-311:hover a:after{ content: "Frostwolf";}
+#mapx-178y-274:hover a:after,#mapx-178y-272:hover a:after,#mapx-178y-271:hover a:after,#mapx-178y-270:hover a:after,#mapx-177y-277:hover a:after,#mapx-177y-276:hover a:after,#mapx-177y-275:hover a:after,#mapx-177y-274:hover a:after,#mapx-177y-273:hover a:after,#mapx-177y-272:hover a:after,#mapx-177y-271:hover a:after,#mapx-176y-271:hover a:after,#mapx-176y-270:hover a:after,#mapx-176y-269:hover a:after,#mapx-175y-272:hover a:after,#mapx-175y-271:hover a:after,#mapx-174y-271:hover a:after,#mapx-173y-271:hover a:after{ content: "Röhrenkrebs";}
+#mapx-177y-318:hover a:after,#mapx-170y-312:hover a:after,#mapx-166y-310:hover a:after{ content: "Frostwolf-Welpe";}
+#mapx-177y-316:hover a:after,#mapx-174y-317:hover a:after,#mapx-174y-315:hover a:after,#mapx-173y-316:hover a:after,#mapx-173y-313:hover a:after{ content: "erfahrener Frostwolf";}
+#mapx-177y-315:hover a:after,#mapx101y86:hover a:after,#mapx102y75:hover a:after{ content: "Schneefisch";}
+#mapx-176y-316:hover a:after,#mapx-173y-314:hover a:after,#mapx-171y-315:hover a:after,#mapx-170y-313:hover a:after,#mapx-167y-312:hover a:after,#mapx-165y-310:hover a:after{ content: "Gletscherente";}
+#mapx-176y-315:hover a:after{ content: "badender Frostwolf-Welpe";}
+#mapx-176y-275:hover a:after,#mapx-175y-276:hover a:after,#mapx-175y-275:hover a:after,#mapx-175y-274:hover a:after,#mapx-174y-274:hover a:after,#mapx-173y-276:hover a:after,#mapx-173y-275:hover a:after,#mapx-173y-274:hover a:after,#mapx-173y-273:hover a:after,#mapx-173y-272:hover a:after,#mapx-172y-276:hover a:after,#mapx-172y-275:hover a:after,#mapx-172y-274:hover a:after,#mapx-172y-273:hover a:after,#mapx-172y-272:hover a:after,#mapx-171y-276:hover a:after,#mapx-171y-274:hover a:after,#mapx-171y-272:hover a:after{ content: "Tiefsee-Aal";}
+#mapx-175y-315:hover a:after{ content: "Frostwolf\00000aGletscherente";}
+#mapx-172y-315:hover a:after,#mapx-171y-312:hover a:after,#mapx-169y-313:hover a:after,#mapx-169y-311:hover a:after{ content: "Frostwolf-Anführer";}
+#mapx-172y-277:hover a:after{ content: "dreiköpfige Wasserschlange";}
+#mapx-171y-314:hover a:after,#mapx92y85:hover a:after,#mapx95y85:hover a:after,#mapx96y86:hover a:after,#mapx97y84:hover a:after,#mapx97y85:hover a:after,#mapx98y83:hover a:after,#mapx99y79:hover a:after,#mapx99y81:hover a:after,#mapx99y83:hover a:after,#mapx100y82:hover a:after,#mapx102y76:hover a:after,#mapx106y76:hover a:after{ content: "Schneehuhn";}
+#mapx-168y-857:hover a:after,#mapx-167y-858:hover a:after,#mapx-165y-858:hover a:after,#mapx-164y-858:hover a:after,#mapx-163y-858:hover a:after,#mapx-163y-855:hover a:after,#mapx-163y-854:hover a:after,#mapx-162y-857:hover a:after{ content: "Dunkelwanze";}
+#mapx-168y-313:hover a:after,#mapx90y83:hover a:after,#mapx91y84:hover a:after,#mapx91y86:hover a:after,#mapx93y84:hover a:after,#mapx93y86:hover a:after,#mapx95y78:hover a:after,#mapx95y84:hover a:after,#mapx95y86:hover a:after,#mapx97y82:hover a:after,#mapx97y86:hover a:after,#mapx98y84:hover a:after{ content: "Schneekäfer";}
+#mapx-167y-857:hover a:after,#mapx-165y-855:hover a:after,#mapx-163y-857:hover a:after,#mapx-163y-856:hover a:after{ content: "bissiger Ölfisch";}
+#mapx-167y-311:hover a:after{ content: "einsamer Schneehase";}
+#mapx-166y-857:hover a:after,#mapx-166y-855:hover a:after,#mapx-164y-856:hover a:after{ content: "Dunkelsee-Qualle\00000aleuchtende Dunkelsee-Qualle";}
+#mapx-166y-856:hover a:after,#mapx-164y-855:hover a:after{ content: "alter Ölfisch";}
+#mapx-166y-312:hover a:after,#mapx97y77:hover a:after{ content: "Schneekäfer-Raupe";}
+#mapx-165y-857:hover a:after,#mapx-165y-856:hover a:after{ content: "Dunkelsee-Qualle";}
+#mapx-164y-857:hover a:after{ content: "alter Ölfisch\00000aleuchtende Dunkelsee-Qualle";}
+#mapx-101y-101:hover a:after{ content: "Dunkler Schamane";}
+#mapx-99y-899:hover a:after,#mapx-99y-898:hover a:after,#mapx-99y-896:hover a:after,#mapx-99y-895:hover a:after,#mapx-98y-898:hover a:after,#mapx-98y-897:hover a:after,#mapx-98y-896:hover a:after,#mapx-98y-895:hover a:after,#mapx-97y-899:hover a:after,#mapx-97y-898:hover a:after,#mapx-97y-897:hover a:after,#mapx-97y-896:hover a:after,#mapx-97y-895:hover a:after,#mapx-97y-894:hover a:after,#mapx-96y-899:hover a:after,#mapx-96y-898:hover a:after,#mapx-96y-897:hover a:after,#mapx-96y-896:hover a:after,#mapx-96y-895:hover a:after,#mapx-96y-894:hover a:after,#mapx-95y-898:hover a:after,#mapx-95y-897:hover a:after,#mapx-95y-895:hover a:after,#mapx-94y-899:hover a:after,#mapx-94y-898:hover a:after,#mapx-94y-897:hover a:after,#mapx-94y-896:hover a:after,#mapx-94y-895:hover a:after,#mapx-93y-899:hover a:after,#mapx-93y-898:hover a:after,#mapx-93y-897:hover a:after,#mapx-92y-897:hover a:after{ content: "Kristallwasserpflanze";}
+#mapx-95y-896:hover a:after{ content: "Kristallwasserpflanze\00000aTodesflossen-Fisch";}
+#mapx-18y-26:hover a:after{ content: "Parfugurn";}
+#mapx-13y-78:hover a:after,#mapx-13y-77:hover a:after,#mapx-11y-78:hover a:after{ content: "Kriechkäfer";}
+#mapx-12y-78:hover a:after{ content: "Mooskäfer";}
+#mapx-12y-77:hover a:after,#mapx-11y-76:hover a:after{ content: "Springkäfer";}
+#mapx-12y-76:hover a:after,#mapx-11y-77:hover a:after,#mapx-10y-77:hover a:after{ content: "Hornkäfer";}
+#mapx-10y-76:hover a:after{ content: "Springkäfer\00000aXander";}
+#mapx35y97:hover a:after{ content: "dickhäutiger Goldballenwurm\00000aGoldfadenwurm";}
+#mapx35y98:hover a:after{ content: "Goldballenwurm\00000aGoldfadenwurm";}
+#mapx36y96:hover a:after{ content: "wolliges Goldschaf";}
+#mapx36y97:hover a:after{ content: "Goldballenwurm\00000aGoldfadenwurm\00000aHase";}
+#mapx36y98:hover a:after{ content: "alter Goldballenwurm\00000aGoldfadenwurm";}
+#mapx37y96:hover a:after{ content: "Goldfadenwurm\00000aKnurrender Goldballenwurm";}
+#mapx37y97:hover a:after{ content: "goldener Undaronwächter\00000aGoldfadenwurm\00000aStabfisch";}
+#mapx37y98:hover a:after{ content: "goldener Flutentaucher\00000aGoldfadenwurm\00000aWasserschlange";}
+#mapx37y99:hover a:after{ content: "dickhäutiger Goldballenwurm\00000aGoldener Undaronwächter";}
+#mapx38y96:hover a:after{ content: "alter Goldballenwurm";}
+#mapx38y97:hover a:after{ content: "Goldener Undaronwächter\00000aKnurrender Goldballenwurm";}
+#mapx38y98:hover a:after,#mapx94y91:hover a:after,#mapx100y105:hover a:after,#mapx101y106:hover a:after,#mapx102y105:hover a:after{ content: "Goldkrebs";}
+#mapx38y99:hover a:after,#mapx66y111:hover a:after,#mapx66y112:hover a:after,#mapx67y112:hover a:after,#mapx68y112:hover a:after,#mapx68y113:hover a:after,#mapx68y114:hover a:after,#mapx69y112:hover a:after,#mapx69y113:hover a:after,#mapx69y114:hover a:after,#mapx69y115:hover a:after,#mapx70y114:hover a:after,#mapx70y115:hover a:after,#mapx70y128:hover a:after,#mapx71y115:hover a:after,#mapx71y116:hover a:after,#mapx71y117:hover a:after,#mapx71y128:hover a:after,#mapx72y116:hover a:after,#mapx72y117:hover a:after,#mapx72y118:hover a:after,#mapx76y123:hover a:after{ content: "Stabfisch";}
+#mapx38y100:hover a:after,#mapx44y97:hover a:after,#mapx45y96:hover a:after{ content: "wütende Mooswurzel";}
+#mapx39y98:hover a:after{ content: "Goldballenwurm\00000awütende Mooswurzel";}
+#mapx39y99:hover a:after{ content: "goldener Undaronwächter\00000aKnurrender Goldballenwurm";}
+#mapx40y97:hover a:after{ content: "Dickhäutiger Goldballenwurm";}
+#mapx40y98:hover a:after{ content: "alter Goldballenwurm";}
+#mapx43y99:hover a:after{ content: "zitternde Mooswurzel";}
+#mapx44y77:hover a:after{ content: "Graustein-Bär\00000aSilberstein-Salamander";}
+#mapx44y96:hover a:after{ content: "Schaf";}
+#mapx44y98:hover a:after,#mapx46y97:hover a:after,#mapx500y54:hover a:after,#mapx502y54:hover a:after,#mapx503y54:hover a:after,#mapx505y56:hover a:after,#mapx506y54:hover a:after{ content: "Moosgeflecht";}
+#mapx44y99:hover a:after,#mapx47y97:hover a:after{ content: "Wütende Mooswurzel";}
+#mapx45y77:hover a:after,#mapx48y77:hover a:after{ content: "junger Graustein-Bär";}
+#mapx45y78:hover a:after{ content: "kräftiger Graustein-Bär\00000aSchattenwiesel";}
+#mapx45y97:hover a:after,#mapx45y98:hover a:after{ content: "Zitternde Mooswurzel";}
+#mapx46y78:hover a:after,#mapx49y77:hover a:after{ content: "Graustein-Bär";}
+#mapx46y79:hover a:after{ content: "junger Graustein-Bär\00000aKlauenratte";}
+#mapx46y81:hover a:after,#mapx47y80:hover a:after,#mapx47y81:hover a:after,#mapx48y80:hover a:after,#mapx48y81:hover a:after,#mapx48y82:hover a:after,#mapx49y80:hover a:after,#mapx49y81:hover a:after,#mapx49y82:hover a:after,#mapx50y80:hover a:after,#mapx50y82:hover a:after,#mapx86y77:hover a:after{ content: "Schotterraupe";}
+#mapx46y82:hover a:after,#mapx47y82:hover a:after{ content: "Schotterraupe\00000averwehter Sandgeist";}
+#mapx47y76:hover a:after,#mapx47y78:hover a:after,#mapx47y79:hover a:after{ content: "kräftiger Graustein-Bär";}
+#mapx47y77:hover a:after{ content: "Graustein-Bär\00000aSprungechse";}
+#mapx48y76:hover a:after{ content: "junger Graustein-Bär\00000aMilchkuh";}
+#mapx48y78:hover a:after{ content: "Graustein-Bär\00000akleine Spinne";}
+#mapx48y79:hover a:after{ content: "geschwächtes Kaklatron\00000ajunger Graustein-Bär";}
+#mapx48y88:hover a:after,#mapx48y90:hover a:after,#mapx48y100:hover a:after,#mapx48y104:hover a:after,#mapx49y88:hover a:after,#mapx49y89:hover a:after,#mapx49y90:hover a:after,#mapx49y93:hover a:after,#mapx49y94:hover a:after,#mapx49y100:hover a:after,#mapx49y101:hover a:after,#mapx49y103:hover a:after,#mapx50y89:hover a:after,#mapx50y90:hover a:after,#mapx50y91:hover a:after,#mapx50y92:hover a:after,#mapx50y93:hover a:after,#mapx50y95:hover a:after,#mapx50y96:hover a:after,#mapx50y98:hover a:after,#mapx51y91:hover a:after,#mapx51y94:hover a:after,#mapx51y97:hover a:after,#mapx51y99:hover a:after,#mapx51y100:hover a:after,#mapx51y103:hover a:after,#mapx51y104:hover a:after,#mapx52y89:hover a:after,#mapx52y92:hover a:after,#mapx52y98:hover a:after,#mapx52y101:hover a:after,#mapx53y92:hover a:after,#mapx53y93:hover a:after,#mapx53y96:hover a:after,#mapx53y102:hover a:after,#mapx53y105:hover a:after,#mapx54y91:hover a:after,#mapx54y103:hover a:after,#mapx54y105:hover a:after,#mapx55y104:hover a:after,#mapx56y105:hover a:after{ content: "Sporenträger";}
+#mapx48y94:hover a:after,#mapx53y78:hover a:after,#mapx54y92:hover a:after,#mapx70y88:hover a:after,#mapx74y110:hover a:after,#mapx79y88:hover a:after,#mapx81y90:hover a:after,#mapx85y102:hover a:after,#mapx94y108:hover a:after,#mapx98y100:hover a:after,#mapx98y106:hover a:after,#mapx104y96:hover a:after,#mapx107y100:hover a:after,#mapx110y101:hover a:after,#mapx112y99:hover a:after{ content: "Silberfuchs";}
+#mapx48y101:hover a:after,#mapx52y102:hover a:after,#mapx55y82:hover a:after,#mapx57y106:hover a:after,#mapx79y97:hover a:after,#mapx81y99:hover a:after,#mapx81y102:hover a:after,#mapx82y97:hover a:after,#mapx82y101:hover a:after{ content: "Zukuvogel";}
+#mapx49y78:hover a:after{ content: "kleines Schaf\00000akräftiger Graustein-Bär\00000atollwütiger Graustein-Bär";}
+#mapx49y95:hover a:after,#mapx50y102:hover a:after,#mapx50y104:hover a:after,#mapx52y90:hover a:after,#mapx52y93:hover a:after,#mapx52y96:hover a:after,#mapx52y100:hover a:after{ content: "kraftvoller Sporenträger";}
+#mapx49y96:hover a:after,#mapx55y91:hover a:after,#mapx81y98:hover a:after,#mapx82y102:hover a:after,#mapx84y105:hover a:after,#mapx93y108:hover a:after{ content: "Langzahnaffe";}
+#mapx49y98:hover a:after{ content: "sterbliche Waldratte";}
+#mapx49y99:hover a:after,#mapx51y84:hover a:after,#mapx53y90:hover a:after,#mapx54y104:hover a:after,#mapx68y105:hover a:after,#mapx71y104:hover a:after,#mapx84y90:hover a:after,#mapx90y101:hover a:after,#mapx93y100:hover a:after,#mapx95y106:hover a:after{ content: "Waldschlurch";}
+#mapx49y104:hover a:after,#mapx50y105:hover a:after,#mapx53y91:hover a:after,#mapx77y98:hover a:after,#mapx78y101:hover a:after,#mapx78y105:hover a:after,#mapx79y99:hover a:after,#mapx80y103:hover a:after,#mapx81y101:hover a:after,#mapx118y86:hover a:after,#mapx120y85:hover a:after,#mapx122y86:hover a:after{ content: "riesige Gift-Dschungelschlange";}
+#mapx49y109:hover a:after,#mapx49y110:hover a:after,#mapx50y109:hover a:after,#mapx50y110:hover a:after,#mapx50y111:hover a:after,#mapx50y113:hover a:after,#mapx51y108:hover a:after,#mapx51y109:hover a:after,#mapx51y111:hover a:after,#mapx51y112:hover a:after,#mapx51y113:hover a:after,#mapx52y109:hover a:after,#mapx52y110:hover a:after,#mapx52y111:hover a:after,#mapx52y112:hover a:after,#mapx52y113:hover a:after,#mapx53y109:hover a:after,#mapx53y110:hover a:after,#mapx53y111:hover a:after,#mapx53y113:hover a:after,#mapx54y110:hover a:after,#mapx54y113:hover a:after{ content: "Feuerlurch\00000aFlammenwurm";}
+#mapx50y81:hover a:after{ content: "gefräßige Schotterraupe";}
+#mapx50y83:hover a:after,#mapx52y85:hover a:after,#mapx54y86:hover a:after,#mapx55y86:hover a:after{ content: "gefleckte Riesenlibelle";}
+#mapx50y84:hover a:after,#mapx51y82:hover a:after,#mapx51y85:hover a:after,#mapx55y88:hover a:after,#mapx57y88:hover a:after,#mapx58y88:hover a:after,#mapx58y91:hover a:after,#mapx59y84:hover a:after,#mapx59y92:hover a:after,#mapx59y93:hover a:after,#mapx60y87:hover a:after,#mapx60y88:hover a:after,#mapx60y92:hover a:after{ content: "Ektofron";}
+#mapx50y85:hover a:after,#mapx53y86:hover a:after,#mapx54y85:hover a:after,#mapx55y85:hover a:after,#mapx56y85:hover a:after,#mapx56y86:hover a:after,#mapx56y88:hover a:after,#mapx56y91:hover a:after,#mapx57y86:hover a:after,#mapx57y87:hover a:after,#mapx57y89:hover a:after,#mapx57y90:hover a:after,#mapx57y91:hover a:after,#mapx58y89:hover a:after,#mapx58y90:hover a:after,#mapx58y92:hover a:after,#mapx59y85:hover a:after,#mapx59y86:hover a:after,#mapx59y87:hover a:after,#mapx59y89:hover a:after,#mapx59y90:hover a:after,#mapx59y91:hover a:after,#mapx60y85:hover a:after{ content: "Blauwaldwurm";}
+#mapx50y103:hover a:after,#mapx52y97:hover a:after,#mapx52y104:hover a:after,#mapx78y116:hover a:after,#mapx80y118:hover a:after,#mapx81y118:hover a:after,#mapx83y117:hover a:after,#mapx84y115:hover a:after,#mapx85y114:hover a:after,#mapx85y115:hover a:after,#mapx85y117:hover a:after,#mapx86y116:hover a:after{ content: "Blaukamm-Vogel";}
+#mapx51y83:hover a:after,#mapx84y86:hover a:after,#mapx92y103:hover a:after,#mapx95y107:hover a:after,#mapx100y103:hover a:after,#mapx109y134:hover a:after{ content: "Waldspinne";}
+#mapx51y89:hover a:after,#mapx51y93:hover a:after,#mapx51y102:hover a:after,#mapx52y99:hover a:after,#mapx53y104:hover a:after,#mapx55y105:hover a:after,#mapx56y104:hover a:after{ content: "schwacher Sporenträger";}
+#mapx51y98:hover a:after{ content: "Urwaldkuh";}
+#mapx51y110:hover a:after{ content: "brennendes Schaf\00000aFeuerlurch\00000aFlammenwurm";}
+#mapx52y76:hover a:after,#mapx53y76:hover a:after,#mapx53y77:hover a:after,#mapx54y74:hover a:after,#mapx54y75:hover a:after,#mapx55y76:hover a:after,#mapx56y75:hover a:after{ content: "kleine Farbanomalie";}
+#mapx52y77:hover a:after,#mapx75y101:hover a:after,#mapx76y102:hover a:after,#mapx79y98:hover a:after,#mapx79y102:hover a:after,#mapx80y102:hover a:after,#mapx81y97:hover a:after,#mapx84y103:hover a:after,#mapx84y106:hover a:after,#mapx85y101:hover a:after,#mapx190y132:hover a:after,#mapx192y131:hover a:after,#mapx194y130:hover a:after,#mapx196y135:hover a:after,#mapx197y129:hover a:after,#mapx197y133:hover a:after{ content: "Blattspinne";}
+#mapx52y81:hover a:after,#mapx53y80:hover a:after,#mapx53y81:hover a:after,#mapx54y79:hover a:after,#mapx54y80:hover a:after{ content: "Ruinenschleicher";}
+#mapx52y103:hover a:after{ content: "Silberwurmhaufen\00000aSpindelschreiter-Überwacher";}
+#mapx53y79:hover a:after{ content: "kleine Spinne\00000aRuinenschleicher";}
+#mapx53y84:hover a:after,#mapx53y101:hover a:after,#mapx69y106:hover a:after,#mapx85y109:hover a:after,#mapx98y96:hover a:after,#mapx99y96:hover a:after,#mapx99y97:hover a:after,#mapx101y89:hover a:after,#mapx107y92:hover a:after,#mapx108y92:hover a:after,#mapx109y92:hover a:after,#mapx109y93:hover a:after,#mapx109y94:hover a:after{ content: "Waldvogel";}
+#mapx53y108:hover a:after,#mapx54y108:hover a:after{ content: "Feuerlurch";}
+#mapx54y81:hover a:after{ content: "Felsenwurm\00000aRuinenschleicher";}
+#mapx54y82:hover a:after,#mapx83y105:hover a:after{ content: "fleischfressende Sao-Pflanze";}
+#mapx54y109:hover a:after{ content: "Feuerlurch\00000aflammendes Glühwürmchen\00000aFlammenwurm";}
+#mapx55y77:hover a:after{ content: "verwirrtes Schaf";}
+#mapx55y112:hover a:after,#mapx56y111:hover a:after,#mapx56y112:hover a:after,#mapx56y113:hover a:after,#mapx56y114:hover a:after,#mapx57y110:hover a:after,#mapx57y111:hover a:after,#mapx57y112:hover a:after,#mapx57y114:hover a:after,#mapx58y111:hover a:after,#mapx58y112:hover a:after,#mapx58y114:hover a:after,#mapx59y112:hover a:after,#mapx59y113:hover a:after,#mapx59y114:hover a:after,#mapx60y112:hover a:after,#mapx60y113:hover a:after,#mapx61y112:hover a:after,#mapx61y113:hover a:after{ content: "Lebende Waldwurzel\00000aMorschwaldaffe";}
+#mapx55y113:hover a:after{ content: "Lebende Waldwurzel";}
+#mapx56y71:hover a:after,#mapx60y75:hover a:after,#mapx61y77:hover a:after{ content: "mächtiger Propellerstein\00000aPropellerstein";}
+#mapx56y76:hover a:after,#mapx95y103:hover a:after,#mapx99y101:hover a:after,#mapx99y106:hover a:after,#mapx104y106:hover a:after,#mapx108y98:hover a:after,#mapx109y135:hover a:after,#mapx111y100:hover a:after{ content: "Riesenlibelle";}
+#mapx56y81:hover a:after{ content: "Ruinenschleicher\00000aSilberwurmhaufen";}
+#mapx56y82:hover a:after{ content: "mutiges Mormdat";}
+#mapx56y89:hover a:after{ content: "Blauwaldwurm\00000akleines Schlangentier";}
+#mapx56y95:hover a:after,#mapx57y95:hover a:after,#mapx57y96:hover a:after,#mapx57y99:hover a:after,#mapx57y100:hover a:after,#mapx57y101:hover a:after,#mapx58y94:hover a:after,#mapx58y97:hover a:after,#mapx58y100:hover a:after,#mapx58y101:hover a:after,#mapx59y94:hover a:after,#mapx59y95:hover a:after,#mapx60y94:hover a:after,#mapx60y95:hover a:after,#mapx60y96:hover a:after,#mapx60y99:hover a:after,#mapx61y95:hover a:after,#mapx61y100:hover a:after,#mapx62y100:hover a:after,#mapx62y101:hover a:after{ content: "Kleiner Nebelkreischer";}
+#mapx56y106:hover a:after{ content: "Blaukamm-Vogel\00000aSilberwurmhaufen";}
+#mapx57y71:hover a:after{ content: "lebende Ruine\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx57y72:hover a:after{ content: "gigantischer Staubgeist\00000aPropellerstein";}
+#mapx57y73:hover a:after,#mapx60y71:hover a:after,#mapx60y72:hover a:after,#mapx61y71:hover a:after{ content: "lebendes Haus\00000aPropellerstein";}
+#mapx57y105:hover a:after,#mapx57y108:hover a:after,#mapx58y107:hover a:after,#mapx59y105:hover a:after,#mapx59y108:hover a:after,#mapx60y104:hover a:after{ content: "Sumpflandkröte";}
+#mapx57y107:hover a:after,#mapx57y109:hover a:after,#mapx58y105:hover a:after,#mapx58y108:hover a:after,#mapx59y106:hover a:after,#mapx59y107:hover a:after,#mapx59y109:hover a:after,#mapx60y105:hover a:after,#mapx60y106:hover a:after{ content: "Algenechse";}
+#mapx57y113:hover a:after{ content: "dicker Zukuvogel\00000aLebende Waldwurzel\00000aMorschwaldaffe";}
+#mapx58y70:hover a:after,#mapx59y71:hover a:after,#mapx59y74:hover a:after,#mapx60y73:hover a:after,#mapx60y74:hover a:after{ content: "Propellerstein";}
+#mapx58y71:hover a:after,#mapx58y74:hover a:after{ content: "lebende Ruine\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx58y72:hover a:after{ content: "lebende Straße\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx58y73:hover a:after{ content: "lebende Ruine\00000aPropellerstein";}
+#mapx58y75:hover a:after,#mapx60y76:hover a:after{ content: "kleiner Hüpfstein\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx58y99:hover a:after{ content: "Kurnotan - der dunkle Magier";}
+#mapx58y109:hover a:after{ content: "Algenechse\00000aSumpflandkröte";}
+#mapx58y113:hover a:after{ content: "Lebende Waldwurzel\00000aMorschwaldaffe\00000aStrauchkäfer";}
+#mapx59y69:hover a:after{ content: "lebender Steingipfel\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx59y70:hover a:after,#mapx59y75:hover a:after,#mapx61y74:hover a:after{ content: "kleiner Hüpfstein\00000amächtiger Propellerstein";}
+#mapx59y72:hover a:after{ content: "lebende Straße\00000aPropellerstein";}
+#mapx59y73:hover a:after{ content: "lebendes Haus\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx59y76:hover a:after{ content: "Propellerstein\00000aSteinkatze";}
+#mapx59y77:hover a:after,#mapx60y77:hover a:after,#mapx61y75:hover a:after,#mapx62y75:hover a:after{ content: "kleiner Hüpfstein\00000aPropellerstein";}
+#mapx59y78:hover a:after{ content: "lebende Mauer\00000amächtiger Propellerstein\00000aPropellerstein";}
+#mapx59y79:hover a:after,#mapx60y79:hover a:after{ content: "lebende Mauer\00000aPropellerstein";}
+#mapx59y88:hover a:after{ content: "Ektofron\00000ariesige Gift-Dschungelschlange";}
+#mapx59y96:hover a:after{ content: "großer Nebelkreischer";}
+#mapx59y97:hover a:after{ content: "Kleiner Nebelkreischer\00000aNebelwiesel";}
+#mapx59y100:hover a:after{ content: "Kleiner Nebelkreischer\00000aSchattenwolf";}
+#mapx59y101:hover a:after{ content: "durchgeknallter Nebelkreischer\00000aNebelkreischer";}
+#mapx60y70:hover a:after{ content: "Hangstelzer\00000aPropellerstein";}
+#mapx60y108:hover a:after{ content: "Algenechse\00000aSchattenwiesel";}
+#mapx60y114:hover a:after{ content: "Holz-Maus\00000aLebende Waldwurzel\00000aMorschwaldaffe";}
+#mapx61y76:hover a:after{ content: "kleiner Hüpfstein";}
+#mapx61y83:hover a:after,#mapx61y84:hover a:after,#mapx62y83:hover a:after,#mapx63y83:hover a:after,#mapx63y84:hover a:after,#mapx63y87:hover a:after,#mapx64y84:hover a:after,#mapx64y85:hover a:after,#mapx64y86:hover a:after,#mapx66y87:hover a:after,#mapx67y88:hover a:after,#mapx68y87:hover a:after{ content: "Flecken-Wolf";}
+#mapx61y85:hover a:after,#mapx62y84:hover a:after,#mapx62y88:hover a:after,#mapx63y85:hover a:after,#mapx63y88:hover a:after,#mapx64y87:hover a:after,#mapx65y84:hover a:after,#mapx65y85:hover a:after,#mapx65y87:hover a:after,#mapx65y88:hover a:after,#mapx66y84:hover a:after,#mapx66y88:hover a:after,#mapx67y83:hover a:after,#mapx67y84:hover a:after,#mapx67y87:hover a:after,#mapx68y88:hover a:after{ content: "Silbergras-Spinne";}
+#mapx61y90:hover a:after,#mapx62y90:hover a:after,#mapx62y91:hover a:after,#mapx63y90:hover a:after,#mapx64y90:hover a:after,#mapx65y91:hover a:after,#mapx66y91:hover a:after,#mapx69y90:hover a:after,#mapx69y91:hover a:after{ content: "Grasblatt-Schlange";}
+#mapx61y103:hover a:after,#mapx61y104:hover a:after,#mapx61y105:hover a:after,#mapx61y108:hover a:after,#mapx61y109:hover a:after,#mapx62y103:hover a:after,#mapx62y105:hover a:after,#mapx62y107:hover a:after,#mapx62y108:hover a:after,#mapx62y109:hover a:after,#mapx63y103:hover a:after,#mapx63y104:hover a:after,#mapx63y108:hover a:after,#mapx63y109:hover a:after,#mapx64y103:hover a:after,#mapx64y108:hover a:after,#mapx64y109:hover a:after{ content: "Todesmoor-Krokodil";}
+#mapx62y76:hover a:after{ content: "mächtiger Propellerstein\00000aPropellerstein\00000aSchimmerstein";}
+#mapx62y82:hover a:after{ content: "Hulnodar-Wächter";}
+#mapx62y85:hover a:after{ content: "Ameisenhügel\00000aFlecken-Wolf\00000aHase";}
+#mapx62y86:hover a:after,#mapx63y86:hover a:after{ content: "Solarda-Fisch";}
+#mapx62y94:hover a:after{ content: "Berghund";}
+#mapx62y96:hover a:after,#mapx63y95:hover a:after,#mapx63y96:hover a:after,#mapx64y92:hover a:after,#mapx64y93:hover a:after,#mapx64y96:hover a:after,#mapx64y97:hover a:after,#mapx65y93:hover a:after,#mapx65y95:hover a:after,#mapx65y96:hover a:after,#mapx65y97:hover a:after,#mapx66y93:hover a:after,#mapx66y94:hover a:after,#mapx66y95:hover a:after,#mapx66y96:hover a:after,#mapx67y96:hover a:after{ content: "Staubgeist";}
+#mapx62y104:hover a:after{ content: "Schattenkrokodil\00000aTodesmoor-Krokodil";}
+#mapx63y75:hover a:after{ content: "Bergpilz";}
+#mapx63y76:hover a:after,#mapx63y77:hover a:after,#mapx64y76:hover a:after,#mapx64y77:hover a:after,#mapx65y77:hover a:after,#mapx65y82:hover a:after,#mapx65y83:hover a:after,#mapx66y76:hover a:after,#mapx67y76:hover a:after,#mapx67y77:hover a:after,#mapx67y78:hover a:after,#mapx68y78:hover a:after,#mapx68y79:hover a:after,#mapx68y80:hover a:after,#mapx68y81:hover a:after{ content: "Seichtwasserpilz";}
+#mapx63y80:hover a:after,#mapx64y78:hover a:after,#mapx64y79:hover a:after,#mapx64y80:hover a:after,#mapx64y81:hover a:after,#mapx65y78:hover a:after,#mapx65y79:hover a:after,#mapx65y80:hover a:after,#mapx65y81:hover a:after,#mapx66y77:hover a:after,#mapx66y78:hover a:after,#mapx66y79:hover a:after,#mapx66y80:hover a:after,#mapx66y81:hover a:after,#mapx67y79:hover a:after,#mapx67y80:hover a:after,#mapx67y81:hover a:after{ content: "Einflügler\00000aSeichtwasserpilz";}
+#mapx63y91:hover a:after,#mapx68y91:hover a:after{ content: "Stechmücken";}
+#mapx64y75:hover a:after,#mapx65y75:hover a:after{ content: "Knunglo";}
+#mapx64y91:hover a:after{ content: "Moosgeflecht\00000aStechmücken";}
+#mapx64y95:hover a:after{ content: "Staubkrieger";}
+#mapx64y106:hover a:after,#mapx65y105:hover a:after,#mapx65y106:hover a:after,#mapx65y107:hover a:after,#mapx65y110:hover a:after,#mapx66y104:hover a:after,#mapx66y105:hover a:after,#mapx66y106:hover a:after,#mapx66y107:hover a:after,#mapx66y108:hover a:after,#mapx66y109:hover a:after,#mapx66y110:hover a:after,#mapx67y104:hover a:after,#mapx67y105:hover a:after,#mapx67y108:hover a:after,#mapx67y109:hover a:after,#mapx67y110:hover a:after,#mapx67y111:hover a:after,#mapx68y110:hover a:after,#mapx68y111:hover a:after{ content: "Stabkrebs";}
+#mapx65y76:hover a:after{ content: "Milchkuh\00000aSeichtwasserpilz";}
+#mapx65y103:hover a:after,#mapx65y108:hover a:after,#mapx66y101:hover a:after,#mapx66y102:hover a:after,#mapx66y103:hover a:after,#mapx67y102:hover a:after,#mapx67y103:hover a:after,#mapx67y113:hover a:after,#mapx68y102:hover a:after,#mapx69y101:hover a:after,#mapx69y102:hover a:after,#mapx70y109:hover a:after,#mapx70y116:hover a:after,#mapx70y117:hover a:after,#mapx70y118:hover a:after,#mapx73y116:hover a:after,#mapx73y117:hover a:after{ content: "Stabschrecke";}
+#mapx65y111:hover a:after{ content: "Stabfisch\00000aStabkrebs";}
+#mapx66y97:hover a:after{ content: "Staubgeist\00000astaubige Pilzwachtel";}
+#mapx66y120:hover a:after,#mapx68y121:hover a:after{ content: "Lastenmuli";}
+#mapx67y91:hover a:after{ content: "Grasblatt-Schlange\00000aSilberfuchs";}
+#mapx67y119:hover a:after,#mapx68y119:hover a:after{ content: "Bussard";}
+#mapx67y120:hover a:after,#mapx68y120:hover a:after{ content: "Karakal";}
+#mapx67y121:hover a:after,#mapx69y121:hover a:after{ content: "Berghase";}
+#mapx67y127:hover a:after,#mapx68y127:hover a:after,#mapx69y126:hover a:after,#mapx70y126:hover a:after{ content: "feuriger Schmetterling";}
+#mapx68y122:hover a:after,#mapx69y122:hover a:after{ content: "Ringelkatze";}
+#mapx68y123:hover a:after,#mapx69y125:hover a:after,#mapx70y123:hover a:after,#mapx70y124:hover a:after{ content: "Helmfamitsu";}
+#mapx68y125:hover a:after,#mapx69y124:hover a:after,#mapx70y125:hover a:after{ content: "Puma";}
+#mapx68y128:hover a:after,#mapx70y127:hover a:after{ content: "Feuerkäfer";}
+#mapx68y129:hover a:after,#mapx69y128:hover a:after,#mapx69y129:hover a:after,#mapx75y128:hover a:after,#mapx78y128:hover a:after,#mapx79y129:hover a:after{ content: "Pfefug-Aal";}
+#mapx69y80:hover a:after,#mapx85y78:hover a:after{ content: "Steinhuhn";}
+#mapx69y81:hover a:after{ content: "vertrockneter Seichtwasserpilz";}
+#mapx69y85:hover a:after{ content: "dreiäugiger Stier\00000aGraswiesenschlange";}
+#mapx69y87:hover a:after,#mapx70y85:hover a:after,#mapx70y86:hover a:after,#mapx71y85:hover a:after,#mapx71y86:hover a:after,#mapx71y87:hover a:after,#mapx71y88:hover a:after,#mapx73y85:hover a:after,#mapx73y86:hover a:after,#mapx73y87:hover a:after,#mapx76y87:hover a:after{ content: "Graswiesenschlange";}
+#mapx69y98:hover a:after,#mapx69y99:hover a:after,#mapx69y100:hover a:after,#mapx70y100:hover a:after,#mapx70y101:hover a:after,#mapx71y97:hover a:after,#mapx71y98:hover a:after,#mapx71y100:hover a:after,#mapx72y97:hover a:after,#mapx72y100:hover a:after,#mapx72y101:hover a:after,#mapx73y97:hover a:after,#mapx73y98:hover a:after,#mapx73y100:hover a:after,#mapx73y101:hover a:after,#mapx74y98:hover a:after,#mapx74y99:hover a:after,#mapx74y100:hover a:after,#mapx75y98:hover a:after,#mapx75y99:hover a:after,#mapx75y100:hover a:after,#mapx111y93:hover a:after{ content: "Giftbeißer";}
+#mapx69y105:hover a:after,#mapx70y104:hover a:after,#mapx71y106:hover a:after,#mapx71y108:hover a:after,#mapx73y107:hover a:after,#mapx73y109:hover a:after,#mapx74y109:hover a:after{ content: "Waldschlurch-Skelett";}
+#mapx69y109:hover a:after{ content: "Feuerwolf\00000aStabschrecke";}
+#mapx69y120:hover a:after{ content: "Gämse";}
+#mapx69y123:hover a:after{ content: "Königskäfer";}
+#mapx69y127:hover a:after{ content: "Königlicher Schmetterling";}
+#mapx70y80:hover a:after{ content: "Baby-Einflügler";}
+#mapx70y84:hover a:after,#mapx71y84:hover a:after,#mapx72y84:hover a:after,#mapx73y84:hover a:after{ content: "Dunkelsandkrebs";}
+#mapx70y87:hover a:after,#mapx82y93:hover a:after,#mapx96y100:hover a:after,#mapx111y101:hover a:after{ content: "Einäugiger Stier";}
+#mapx70y89:hover a:after{ content: "Geist der Welt\00000aGeisterfetzen";}
+#mapx70y99:hover a:after{ content: "junger Giftgrabl\00000aTempelhüpfer";}
+#mapx70y103:hover a:after,#mapx85y89:hover a:after,#mapx90y103:hover a:after,#mapx93y102:hover a:after{ content: "Gelbkatze";}
+#mapx70y105:hover a:after,#mapx70y108:hover a:after,#mapx71y105:hover a:after,#mapx71y107:hover a:after,#mapx72y106:hover a:after,#mapx73y105:hover a:after,#mapx73y106:hover a:after,#mapx74y104:hover a:after{ content: "Onlo-Skelett";}
+#mapx70y106:hover a:after{ content: "Grabfliege\00000aWaldschlurch-Skelett";}
+#mapx70y119:hover a:after,#mapx70y120:hover a:after,#mapx71y119:hover a:after{ content: "Mankei";}
+#mapx70y122:hover a:after{ content: "Komische Nachbarin der Gärtnerin\00000aTapir";}
+#mapx71y89:hover a:after{ content: "Giftsporenpilz\00000aWindgeist (Quest)";}
+#mapx71y92:hover a:after,#mapx72y93:hover a:after,#mapx73y91:hover a:after,#mapx73y92:hover a:after,#mapx76y89:hover a:after,#mapx76y90:hover a:after,#mapx77y90:hover a:after,#mapx77y92:hover a:after,#mapx77y93:hover a:after,#mapx120y92:hover a:after,#mapx121y91:hover a:after,#mapx121y93:hover a:after,#mapx122y92:hover a:after,#mapx123y92:hover a:after{ content: "Erdfisch";}
+#mapx71y96:hover a:after,#mapx75y109:hover a:after,#mapx79y86:hover a:after,#mapx90y86:hover a:after,#mapx100y98:hover a:after,#mapx104y87:hover a:after,#mapx111y105:hover a:after,#mapx113y113:hover a:after,#mapx116y90:hover a:after{ content: "Turmgeist";}
+#mapx71y118:hover a:after,#mapx71y125:hover a:after,#mapx72y124:hover a:after,#mapx77y120:hover a:after{ content: "Stielaugenforsch";}
+#mapx71y120:hover a:after{ content: "Ringelkatze\00000aTapir";}
+#mapx71y121:hover a:after,#mapx71y122:hover a:after,#mapx71y123:hover a:after{ content: "Quellhuhn";}
+#mapx71y124:hover a:after,#mapx72y120:hover a:after,#mapx72y122:hover a:after,#mapx72y123:hover a:after{ content: "Gründorn-Gurkenwurm";}
+#mapx71y126:hover a:after,#mapx71y127:hover a:after,#mapx72y126:hover a:after,#mapx72y127:hover a:after,#mapx73y127:hover a:after{ content: "Braunbär";}
+#mapx72y89:hover a:after,#mapx72y90:hover a:after{ content: "Windgeist";}
+#mapx72y94:hover a:after,#mapx73y94:hover a:after,#mapx73y95:hover a:after,#mapx74y92:hover a:after,#mapx75y91:hover a:after,#mapx75y93:hover a:after,#mapx76y92:hover a:after,#mapx76y93:hover a:after,#mapx77y91:hover a:after{ content: "Sumpfspinne";}
+#mapx72y104:hover a:after,#mapx93y99:hover a:after,#mapx95y110:hover a:after,#mapx102y130:hover a:after,#mapx112y95:hover a:after,#mapx113y91:hover a:after,#mapx113y92:hover a:after,#mapx113y95:hover a:after{ content: "Graubartechse";}
+#mapx72y105:hover a:after,#mapx73y104:hover a:after,#mapx74y103:hover a:after,#mapx75y103:hover a:after{ content: "Grabwurm";}
+#mapx72y115:hover a:after{ content: "Exil-Nomade\00000aStabschrecke";}
+#mapx72y119:hover a:after,#mapx76y122:hover a:after{ content: "Stielaugenforsch\00000aWildwassergans";}
+#mapx72y121:hover a:after{ content: "Helmfamitsu\00000aWildwassergans";}
+#mapx72y125:hover a:after,#mapx73y118:hover a:after,#mapx73y126:hover a:after,#mapx74y119:hover a:after,#mapx74y120:hover a:after,#mapx74y122:hover a:after{ content: "verwildeter, rotsilberner Glodo";}
+#mapx72y128:hover a:after,#mapx73y128:hover a:after,#mapx74y127:hover a:after,#mapx74y128:hover a:after,#mapx75y127:hover a:after,#mapx76y127:hover a:after,#mapx77y128:hover a:after{ content: "Masu-Lachs";}
+#mapx73y93:hover a:after,#mapx74y93:hover a:after,#mapx74y95:hover a:after,#mapx75y94:hover a:after,#mapx77y94:hover a:after{ content: "Sumpfschrecke";}
+#mapx73y119:hover a:after,#mapx73y122:hover a:after,#mapx74y125:hover a:after,#mapx74y126:hover a:after,#mapx75y118:hover a:after,#mapx75y122:hover a:after,#mapx76y120:hover a:after,#mapx76y121:hover a:after{ content: "Stein-Gamasche";}
+#mapx73y120:hover a:after,#mapx73y121:hover a:after{ content: "gefräßiger Grashüpfer\00000aWildwassergans";}
+#mapx73y123:hover a:after{ content: "gefräßiger Grashüpfer";}
+#mapx73y124:hover a:after,#mapx74y118:hover a:after,#mapx74y123:hover a:after,#mapx74y124:hover a:after,#mapx75y124:hover a:after,#mapx76y119:hover a:after{ content: "verwildeter, blausilberner Glodo";}
+#mapx73y125:hover a:after,#mapx74y121:hover a:after,#mapx75y119:hover a:after,#mapx75y121:hover a:after,#mapx75y123:hover a:after{ content: "Buntbachfilche";}
+#mapx74y85:hover a:after{ content: "Geisterschabe";}
+#mapx74y86:hover a:after{ content: "Geisterschabe\00000aGraswiesenschlange";}
+#mapx74y105:hover a:after{ content: "tote Kuh";}
+#mapx75y84:hover a:after,#mapx76y81:hover a:after,#mapx76y82:hover a:after,#mapx76y83:hover a:after,#mapx76y84:hover a:after,#mapx76y85:hover a:after,#mapx76y86:hover a:after,#mapx77y80:hover a:after,#mapx77y81:hover a:after,#mapx77y82:hover a:after,#mapx77y83:hover a:after,#mapx77y84:hover a:after,#mapx77y85:hover a:after,#mapx78y80:hover a:after,#mapx78y81:hover a:after,#mapx78y82:hover a:after,#mapx78y83:hover a:after,#mapx79y80:hover a:after,#mapx79y81:hover a:after,#mapx80y80:hover a:after{ content: "Morschgreifer";}
+#mapx75y115:hover a:after{ content: "Baumkuschler";}
+#mapx75y116:hover a:after{ content: "murmelndes Mormdat";}
+#mapx75y120:hover a:after{ content: "Wächter des rauschenden Flusses";}
+#mapx75y125:hover a:after{ content: "gepanzerte Eidechse";}
+#mapx75y126:hover a:after,#mapx76y126:hover a:after{ content: "grünes Schleimwesen";}
+#mapx76y101:hover a:after,#mapx77y100:hover a:after,#mapx79y101:hover a:after,#mapx81y100:hover a:after,#mapx84y104:hover a:after,#mapx85y107:hover a:after{ content: "Ameisenhügel";}
+#mapx76y115:hover a:after{ content: "harmloser Giftsporenpilz";}
+#mapx76y116:hover a:after{ content: "fleißiges Lichtwesen";}
+#mapx76y124:hover a:after,#mapx77y127:hover a:after{ content: "Urwaldspinne";}
+#mapx76y125:hover a:after{ content: "Urwaldeule";}
+#mapx76y128:hover a:after{ content: "grünes Schleimwesen\00000aMasu-Lachs";}
+#mapx77y99:hover a:after,#mapx78y100:hover a:after,#mapx78y102:hover a:after,#mapx78y104:hover a:after,#mapx80y104:hover a:after{ content: "Lianenechse";}
+#mapx77y102:hover a:after,#mapx80y97:hover a:after,#mapx80y101:hover a:after{ content: "Fleischfressende Sao-Pflanze";}
+#mapx77y108:hover a:after,#mapx78y109:hover a:after,#mapx79y107:hover a:after,#mapx79y111:hover a:after,#mapx80y108:hover a:after,#mapx81y107:hover a:after,#mapx81y111:hover a:after,#mapx82y108:hover a:after,#mapx82y110:hover a:after{ content: "Giftsporenpilz";}
+#mapx77y109:hover a:after{ content: "Alte Pilzwachtel";}
+#mapx77y110:hover a:after,#mapx78y107:hover a:after,#mapx78y108:hover a:after,#mapx78y110:hover a:after,#mapx78y111:hover a:after,#mapx79y108:hover a:after,#mapx79y109:hover a:after,#mapx80y106:hover a:after,#mapx80y107:hover a:after,#mapx80y109:hover a:after,#mapx80y110:hover a:after,#mapx80y111:hover a:after,#mapx81y108:hover a:after,#mapx81y109:hover a:after,#mapx81y110:hover a:after,#mapx82y107:hover a:after,#mapx82y109:hover a:after,#mapx82y111:hover a:after,#mapx83y108:hover a:after,#mapx83y110:hover a:after{ content: "Pilzwachtel";}
+#mapx77y121:hover a:after{ content: "Stabschrecke\00000aWildwassergans";}
+#mapx77y125:hover a:after,#mapx78y126:hover a:after,#mapx78y127:hover a:after,#mapx79y126:hover a:after,#mapx80y126:hover a:after{ content: "Gorilla";}
+#mapx77y126:hover a:after,#mapx79y127:hover a:after,#mapx79y128:hover a:after{ content: "Urwaldschlange";}
+#mapx78y78:hover a:after{ content: "Geröllschlange\00000aVerstümmelter Morschgreifer";}
+#mapx78y79:hover a:after,#mapx84y77:hover a:after{ content: "Geröllschlange";}
+#mapx78y98:hover a:after,#mapx79y100:hover a:after,#mapx82y98:hover a:after,#mapx82y103:hover a:after{ content: "Larvennest";}
+#mapx78y124:hover a:after{ content: "grüne Baumschlange\00000agrünes Schleimwesen";}
+#mapx78y125:hover a:after{ content: "grüne Baumschlange\00000aUrwaldeule";}
+#mapx79y77:hover a:after{ content: "Felsenwurm\00000aNorpi";}
+#mapx79y78:hover a:after,#mapx88y80:hover a:after{ content: "Felsenkriecher\00000aWiesenpfeifer";}
+#mapx79y104:hover a:after{ content: "unsterbliche Waldratte\00000aZukuvogel";}
+#mapx79y114:hover a:after{ content: "Turmwart";}
+#mapx79y115:hover a:after,#mapx80y115:hover a:after,#mapx81y114:hover a:after,#mapx82y114:hover a:after,#mapx83y116:hover a:after{ content: "Seeschlamm";}
+#mapx79y116:hover a:after,#mapx81y115:hover a:after,#mapx81y117:hover a:after,#mapx82y116:hover a:after,#mapx83y115:hover a:after,#mapx84y116:hover a:after,#mapx85y116:hover a:after{ content: "Stachelfisch";}
+#mapx79y124:hover a:after,#mapx79y125:hover a:after{ content: "grüne Baumschlange\00000aUrwaldspinne";}
+#mapx80y74:hover a:after{ content: "Gipfellöwe";}
+#mapx80y76:hover a:after{ content: "Felsenkriecher\00000aSteinpicker-Vogel";}
+#mapx80y77:hover a:after{ content: "Felsenechse\00000aWiesenpfeifer";}
+#mapx80y78:hover a:after{ content: "Kaklatron\00000aNorpi";}
+#mapx80y90:hover a:after,#mapx81y95:hover a:after,#mapx83y90:hover a:after,#mapx86y88:hover a:after,#mapx93y104:hover a:after,#mapx99y98:hover a:after,#mapx102y100:hover a:after,#mapx102y101:hover a:after,#mapx104y95:hover a:after,#mapx106y96:hover a:after,#mapx107y99:hover a:after{ content: "Hase";}
+#mapx80y116:hover a:after{ content: "gigantische Seerose\00000amutierte Koralle\00000aSeeschlamm";}
+#mapx81y74:hover a:after{ content: "durchgedrehter Felsenschreier\00000aFelsenkriecher";}
+#mapx81y75:hover a:after{ content: "Felsenkriecher\00000aNorpi";}
+#mapx81y76:hover a:after,#mapx82y76:hover a:after{ content: "Norpi";}
+#mapx81y77:hover a:after{ content: "Norpi\00000aWiesenpfeifer";}
+#mapx81y78:hover a:after{ content: "Schotterraupe\00000aUndaron";}
+#mapx81y116:hover a:after,#mapx102y99:hover a:after{ content: "Borstenfisch";}
+#mapx82y75:hover a:after{ content: "Felsenkriecher\00000aHangstelzer";}
+#mapx82y86:hover a:after,#mapx82y88:hover a:after,#mapx83y87:hover a:after,#mapx83y89:hover a:after,#mapx84y82:hover a:after,#mapx84y87:hover a:after,#mapx84y89:hover a:after,#mapx85y88:hover a:after{ content: "Wandschleim";}
+#mapx82y94:hover a:after{ content: "Larafstrauch";}
+#mapx82y115:hover a:after{ content: "Seeschlamm\00000aWasserkatze";}
+#mapx83y76:hover a:after{ content: "Geröllschlange\00000aHangstelzer";}
+#mapx83y77:hover a:after,#mapx111y127:hover a:after,#mapx112y127:hover a:after{ content: "Felsenkriecher";}
+#mapx83y82:hover a:after{ content: "abgestürzter Weltraum-Krake";}
+#mapx83y93:hover a:after,#mapx96y111:hover a:after,#mapx97y115:hover a:after,#mapx103y122:hover a:after{ content: "Trockenwurm";}
+#mapx84y98:hover a:after,#mapx85y100:hover a:after,#mapx88y99:hover a:after{ content: "Wurzelwurm";}
+#mapx84y99:hover a:after,#mapx86y99:hover a:after,#mapx87y100:hover a:after{ content: "Großer Bohnenschnapper";}
+#mapx85y77:hover a:after{ content: "Felsenwurm\00000aSteinhuhn";}
+#mapx85y93:hover a:after{ content: "Wegelagerer";}
+#mapx85y99:hover a:after,#mapx86y100:hover a:after,#mapx87y99:hover a:after{ content: "Koloa-Käfer";}
+#mapx85y110:hover a:after{ content: "Schattenwolf";}
+#mapx85y112:hover a:after,#mapx85y113:hover a:after,#mapx86y110:hover a:after,#mapx86y111:hover a:after,#mapx86y112:hover a:after,#mapx87y111:hover a:after{ content: "Schattenwesen";}
+#mapx86y79:hover a:after{ content: "Felsenkriecher\00000aSteinhuhn";}
+#mapx86y104:hover a:after,#mapx87y102:hover a:after{ content: "Wächter des Vulkans";}
+#mapx87y77:hover a:after{ content: "Geröllwiesenschlange";}
+#mapx87y78:hover a:after{ content: "Graswiesenschlange\00000aSteinhuhn";}
+#mapx87y79:hover a:after{ content: "Einäugiger Stier\00000aWiesenpfeifer";}
+#mapx87y80:hover a:after{ content: "Felsenwurm\00000aKaklatron";}
+#mapx87y93:hover a:after{ content: "Stein-Skelkos\00000aSteinspinne";}
+#mapx87y109:hover a:after,#mapx88y109:hover a:after{ content: "Steppenwolf";}
+#mapx87y110:hover a:after,#mapx88y110:hover a:after,#mapx89y110:hover a:after,#mapx101y113:hover a:after{ content: "Aasgeier";}
+#mapx87y116:hover a:after,#mapx88y115:hover a:after,#mapx89y114:hover a:after,#mapx89y116:hover a:after,#mapx92y113:hover a:after,#mapx92y115:hover a:after,#mapx93y115:hover a:after,#mapx94y114:hover a:after,#mapx96y114:hover a:after{ content: "Savannen-Vogel";}
+#mapx88y78:hover a:after,#mapx91y76:hover a:after{ content: "Steinturm";}
+#mapx88y79:hover a:after{ content: "Milchkuh\00000aUndaron";}
+#mapx88y81:hover a:after{ content: "Schneesturmgeist";}
+#mapx88y95:hover a:after{ content: "kleiner Steingolem";}
+#mapx88y106:hover a:after{ content: "Klapperschlange";}
+#mapx88y108:hover a:after{ content: "Lebende Statue";}
+#mapx88y116:hover a:after,#mapx90y114:hover a:after,#mapx90y116:hover a:after,#mapx91y114:hover a:after,#mapx91y115:hover a:after,#mapx92y112:hover a:after,#mapx92y114:hover a:after,#mapx93y114:hover a:after,#mapx94y115:hover a:after,#mapx95y114:hover a:after,#mapx95y115:hover a:after{ content: "Staubschleifer";}
+#mapx89y78:hover a:after{ content: "breiter Felsen\00000aGrasstein";}
+#mapx89y79:hover a:after,#mapx93y80:hover a:after{ content: "blutiger Stein";}
+#mapx89y82:hover a:after{ content: "verschneites Geröllwiesel";}
+#mapx89y103:hover a:after{ content: "Sprungechse\00000aWaldschlurch";}
+#mapx89y115:hover a:after{ content: "Graubartechse\00000aStaubschleifer";}
+#mapx90y77:hover a:after,#mapx92y78:hover a:after{ content: "Grasstein";}
+#mapx90y78:hover a:after,#mapx92y77:hover a:after,#mapx93y79:hover a:after{ content: "Sitzstein";}
+#mapx90y79:hover a:after{ content: "alter Steinbrunnen\00000aSteinturm";}
+#mapx90y80:hover a:after{ content: "Grasstein\00000aSteinturm";}
+#mapx90y91:hover a:after{ content: "Staubassel\00000aSteinspinne";}
+#mapx90y111:hover a:after{ content: "Manticore";}
+#mapx91y77:hover a:after{ content: "breiter Felsen\00000aSteinschlange";}
+#mapx91y78:hover a:after{ content: "blutiger Stein\00000aSitzstein";}
+#mapx91y79:hover a:after{ content: "blutiger Stein\00000aversteinerte Frau";}
+#mapx91y98:hover a:after{ content: "Ruinen-Wurm";}
+#mapx91y103:hover a:after,#mapx94y104:hover a:after,#mapx94y106:hover a:after{ content: "Waldratte";}
+#mapx91y113:hover a:after{ content: "Hyäne\00000aStaubschleifer";}
+#mapx92y79:hover a:after{ content: "breiter Felsen";}
+#mapx92y102:hover a:after{ content: "kleines Schlangentier\00000aumnebeltes Schlangentier";}
+#mapx92y105:hover a:after{ content: "Kleines Haus-Schaf";}
+#mapx93y94:hover a:after{ content: "Zauberer der Bergwiesen";}
+#mapx93y103:hover a:after{ content: "Teidam\00000aTeidam-Baby";}
+#mapx93y107:hover a:after{ content: "Chiup-Vogel";}
+#mapx94y77:hover a:after,#mapx96y78:hover a:after,#mapx96y80:hover a:after,#mapx97y76:hover a:after,#mapx97y79:hover a:after,#mapx98y74:hover a:after,#mapx98y78:hover a:after,#mapx99y75:hover a:after,#mapx99y78:hover a:after,#mapx101y74:hover a:after,#mapx102y73:hover a:after,#mapx102y74:hover a:after,#mapx103y84:hover a:after,#mapx105y81:hover a:after{ content: "geschwächter Abgesandter";}
+#mapx94y79:hover a:after,#mapx95y80:hover a:after,#mapx97y80:hover a:after,#mapx98y76:hover a:after,#mapx100y74:hover a:after,#mapx101y73:hover a:after,#mapx101y75:hover a:after,#mapx103y79:hover a:after,#mapx121y89:hover a:after,#mapx123y87:hover a:after,#mapx125y86:hover a:after{ content: "Dunkelmorin-Skelett";}
+#mapx94y92:hover a:after{ content: "Tentakel";}
+#mapx95y77:hover a:after,#mapx97y75:hover a:after,#mapx99y76:hover a:after{ content: "Schneewiesel";}
+#mapx95y79:hover a:after{ content: "Frost-Wiesel\00000aSchneekäfer";}
+#mapx96y77:hover a:after{ content: "Lawinengeist";}
+#mapx96y79:hover a:after,#mapx98y75:hover a:after,#mapx106y81:hover a:after,#mapx106y85:hover a:after,#mapx107y81:hover a:after,#mapx107y83:hover a:after,#mapx107y84:hover a:after,#mapx107y85:hover a:after,#mapx107y86:hover a:after,#mapx108y81:hover a:after,#mapx108y82:hover a:after,#mapx108y85:hover a:after,#mapx108y86:hover a:after,#mapx108y87:hover a:after,#mapx109y83:hover a:after,#mapx109y84:hover a:after,#mapx109y86:hover a:after,#mapx110y84:hover a:after,#mapx110y85:hover a:after,#mapx111y86:hover a:after,#mapx111y87:hover a:after{ content: "Frostdämon";}
+#mapx96y81:hover a:after{ content: "Schneekäfer\00000aSchneekäfer-Kokon";}
+#mapx96y103:hover a:after{ content: "Donnerstier";}
+#mapx97y78:hover a:after,#mapx103y78:hover a:after,#mapx104y80:hover a:after,#mapx105y76:hover a:after,#mapx105y86:hover a:after,#mapx105y87:hover a:after,#mapx106y83:hover a:after,#mapx106y84:hover a:after,#mapx106y87:hover a:after,#mapx107y82:hover a:after,#mapx108y83:hover a:after,#mapx109y85:hover a:after,#mapx110y86:hover a:after,#mapx111y84:hover a:after,#mapx111y85:hover a:after,#mapx111y88:hover a:after,#mapx112y87:hover a:after{ content: "Schneewurm";}
+#mapx97y81:hover a:after{ content: "Dunkelmorin-Skelett\00000aFrostgeist";}
+#mapx97y98:hover a:after{ content: "Alter Mann";}
+#mapx97y109:hover a:after{ content: "Doppelköpfiger Riesenskorpion";}
+#mapx97y116:hover a:after,#mapx99y116:hover a:after,#mapx104y113:hover a:after,#mapx105y110:hover a:after,#mapx105y121:hover a:after{ content: "Wüstenplankton";}
+#mapx98y77:hover a:after{ content: "ausgestoßener Glypra";}
+#mapx98y81:hover a:after{ content: "Gelbbart-Yeti";}
+#mapx98y82:hover a:after{ content: "Frostgeist\00000aGlypra-Späher";}
+#mapx98y86:hover a:after,#mapx100y95:hover a:after,#mapx101y90:hover a:after,#mapx101y95:hover a:after,#mapx104y89:hover a:after,#mapx105y89:hover a:after,#mapx105y90:hover a:after,#mapx106y91:hover a:after,#mapx106y92:hover a:after,#mapx107y89:hover a:after{ content: "kleiner Laubbär";}
+#mapx98y87:hover a:after,#mapx99y88:hover a:after,#mapx104y88:hover a:after,#mapx106y89:hover a:after,#mapx115y130:hover a:after{ content: "großer Laubbär";}
+#mapx98y104:hover a:after{ content: "Wächter der Zelle";}
+#mapx98y107:hover a:after,#mapx103y105:hover a:after,#mapx104y105:hover a:after{ content: "Feldhase";}
+#mapx98y114:hover a:after,#mapx99y117:hover a:after,#mapx103y111:hover a:after,#mapx104y115:hover a:after{ content: "Hyäne";}
+#mapx98y115:hover a:after,#mapx100y116:hover a:after,#mapx102y111:hover a:after,#mapx104y119:hover a:after,#mapx105y128:hover a:after{ content: "Wüstenmaus";}
+#mapx98y116:hover a:after,#mapx100y117:hover a:after,#mapx102y113:hover a:after,#mapx104y124:hover a:after{ content: "Wüstenspinne";}
+#mapx98y117:hover a:after,#mapx100y115:hover a:after,#mapx102y119:hover a:after,#mapx104y111:hover a:after{ content: "Sandgeist";}
+#mapx98y118:hover a:after,#mapx100y114:hover a:after,#mapx101y111:hover a:after,#mapx103y113:hover a:after,#mapx104y118:hover a:after{ content: "Wüstenschreck";}
+#mapx99y114:hover a:after,#mapx101y115:hover a:after{ content: "Nomade";}
+#mapx100y73:hover a:after{ content: "Eiswelt-Echse\00000ageschwächter Abgesandter";}
+#mapx100y75:hover a:after{ content: "frierender Schneefisch\00000aSchneefisch";}
+#mapx100y89:hover a:after{ content: "Larvennest\00000aSilberfuchs";}
+#mapx100y106:hover a:after,#mapx102y106:hover a:after{ content: "Wasserschlange";}
+#mapx100y135:hover a:after,#mapx100y136:hover a:after{ content: "Moosschildkröte";}
+#mapx101y99:hover a:after{ content: "Wasserbär";}
+#mapx101y105:hover a:after,#mapx103y106:hover a:after{ content: "Naurofbusch";}
+#mapx101y109:hover a:after{ content: "Sandechse";}
+#mapx101y110:hover a:after{ content: "dunkle Sandratte";}
+#mapx101y129:hover a:after,#mapx102y128:hover a:after{ content: "Steinkraller";}
+#mapx101y133:hover a:after{ content: "wachsende Efeuranke";}
+#mapx101y136:hover a:after,#mapx106y136:hover a:after{ content: "Wildwasserkrebs";}
+#mapx101y137:hover a:after,#mapx106y137:hover a:after,#mapx107y137:hover a:after{ content: "Wogenreiter";}
+#mapx102y77:hover a:after{ content: "verrückter Frostdämon";}
+#mapx102y78:hover a:after{ content: "schwangeres Schneehuhn";}
+#mapx102y84:hover a:after,#mapx103y75:hover a:after,#mapx1003y1006:hover a:after,#mapx1004y1006:hover a:after,#mapx1004y1007:hover a:after,#mapx1005y1007:hover a:after,#mapx1006y1003:hover a:after,#mapx1006y1006:hover a:after,#mapx1006y1007:hover a:after,#mapx1006y1008:hover a:after,#mapx1007y1002:hover a:after,#mapx1007y1004:hover a:after,#mapx1007y1007:hover a:after,#mapx1007y1008:hover a:after,#mapx1008y1004:hover a:after,#mapx1008y1006:hover a:after,#mapx1008y1007:hover a:after,#mapx1008y1008:hover a:after,#mapx1009y1004:hover a:after,#mapx1009y1006:hover a:after,#mapx1009y1007:hover a:after,#mapx1010y1005:hover a:after,#mapx1010y1006:hover a:after,#mapx1010y1007:hover a:after,#mapx1010y1008:hover a:after,#mapx1011y1006:hover a:after,#mapx1011y1007:hover a:after{ content: "Frostaugen-Bestie";}
+#mapx102y85:hover a:after{ content: "glibbriger Eiswurm";}
+#mapx102y108:hover a:after{ content: "dunkler Sandtaprap";}
+#mapx102y109:hover a:after,#mapx103y110:hover a:after,#mapx106y109:hover a:after{ content: "Stachelkäfer";}
+#mapx102y110:hover a:after,#mapx103y109:hover a:after,#mapx104y108:hover a:after,#mapx104y109:hover a:after{ content: "Lablabkaktus";}
+#mapx102y127:hover a:after{ content: "kranker Wüstensalamander";}
+#mapx102y129:hover a:after{ content: "Felsenkrabbler";}
+#mapx102y133:hover a:after,#mapx102y134:hover a:after,#mapx103y134:hover a:after,#mapx103y135:hover a:after,#mapx104y132:hover a:after,#mapx104y135:hover a:after,#mapx105y134:hover a:after,#mapx106y134:hover a:after{ content: "kreisende Wippschwanzmöwe";}
+#mapx102y136:hover a:after{ content: "Flossenflinger\00000agiftiger Saugfisch\00000akreisende Wippschwanzmöwe\00000aSaugfisch\00000aschillernder Küstling";}
+#mapx103y82:hover a:after{ content: "narbiger Schneewurm";}
+#mapx103y85:hover a:after{ content: "Eisbohrmaschine-Prototyp";}
+#mapx103y89:hover a:after,#mapx103y92:hover a:after,#mapx104y90:hover a:after,#mapx104y91:hover a:after,#mapx104y92:hover a:after,#mapx104y93:hover a:after,#mapx105y91:hover a:after,#mapx105y92:hover a:after{ content: "Moorgeist";}
+#mapx103y108:hover a:after,#mapx104y110:hover a:after,#mapx105y109:hover a:after{ content: "Stachelschreck";}
+#mapx103y120:hover a:after,#mapx104y128:hover a:after,#mapx105y122:hover a:after{ content: "Wüsten-Ektofron";}
+#mapx103y121:hover a:after,#mapx104y120:hover a:after,#mapx104y121:hover a:after,#mapx104y122:hover a:after,#mapx104y127:hover a:after,#mapx105y123:hover a:after,#mapx105y126:hover a:after,#mapx106y125:hover a:after{ content: "Wüstensalamander";}
+#mapx103y129:hover a:after{ content: "Salzpicker-Vogel";}
+#mapx103y130:hover a:after{ content: "Salz-Maus\00000aSteinkraller";}
+#mapx103y131:hover a:after{ content: "lebende Salzstatue";}
+#mapx103y136:hover a:after{ content: "Flossenflinger\00000agiftiger Saugfisch\00000akreisende Wippschwanzmöwe\00000aSaugfisch";}
+#mapx104y83:hover a:after{ content: "Abgesandter der Eiswelt\00000aentlaufene Geisterschabe";}
+#mapx104y116:hover a:after{ content: "roter Sandhund";}
+#mapx104y136:hover a:after,#mapx105y136:hover a:after{ content: "Flossenflinger\00000agiftiger Saugfisch\00000aSaugfisch\00000aschillernder Küstling";}
+#mapx105y124:hover a:after{ content: "26-köpfiger Salamander\00000aWüstensalamander";}
+#mapx105y127:hover a:after{ content: "reicher Wüstensalamander\00000aUndaron";}
+#mapx106y93:hover a:after,#mapx106y94:hover a:after,#mapx108y93:hover a:after,#mapx108y94:hover a:after,#mapx111y92:hover a:after,#mapx111y94:hover a:after,#mapx112y96:hover a:after,#mapx114y94:hover a:after,#mapx116y92:hover a:after,#mapx117y91:hover a:after{ content: "Blumenbeißer";}
+#mapx106y107:hover a:after,#mapx109y108:hover a:after,#mapx112y108:hover a:after{ content: "Busch-Frul";}
+#mapx106y108:hover a:after,#mapx107y107:hover a:after,#mapx108y107:hover a:after,#mapx109y106:hover a:after,#mapx109y109:hover a:after,#mapx109y111:hover a:after,#mapx110y108:hover a:after,#mapx110y109:hover a:after,#mapx111y109:hover a:after,#mapx112y106:hover a:after,#mapx112y107:hover a:after,#mapx113y107:hover a:after{ content: "Wawruz";}
+#mapx106y115:hover a:after,#mapx107y115:hover a:after,#mapx107y116:hover a:after,#mapx109y113:hover a:after,#mapx109y117:hover a:after,#mapx110y116:hover a:after,#mapx112y114:hover a:after,#mapx112y115:hover a:after,#mapx114y115:hover a:after{ content: "Salzwasservogel";}
+#mapx106y126:hover a:after{ content: "Wüstensalamander\00000aWüstenschreck";}
+#mapx106y135:hover a:after{ content: "Salzfleckensalamander";}
+#mapx107y76:hover a:after,#mapx111y78:hover a:after,#mapx113y77:hover a:after,#mapx115y79:hover a:after,#mapx115y82:hover a:after,#mapx117y79:hover a:after{ content: "energetischer Falter";}
+#mapx107y90:hover a:after,#mapx108y89:hover a:after{ content: "Glühwürmchen";}
+#mapx107y93:hover a:after{ content: "Wetterkontroll-Magier";}
+#mapx107y108:hover a:after,#mapx108y109:hover a:after,#mapx110y107:hover a:after,#mapx111y111:hover a:after{ content: "Steinkäfer";}
+#mapx107y114:hover a:after,#mapx108y115:hover a:after,#mapx108y116:hover a:after,#mapx110y113:hover a:after,#mapx110y117:hover a:after,#mapx110y118:hover a:after,#mapx111y114:hover a:after,#mapx111y115:hover a:after,#mapx111y118:hover a:after,#mapx112y116:hover a:after,#mapx112y117:hover a:after,#mapx113y115:hover a:after{ content: "Lebender Salzhügel";}
+#mapx107y135:hover a:after{ content: "Gartenschildkröte\00000aSilfin";}
+#mapx107y136:hover a:after{ content: "Wippschwanzmöwe";}
+#mapx108y75:hover a:after,#mapx109y78:hover a:after,#mapx110y77:hover a:after,#mapx113y78:hover a:after,#mapx114y77:hover a:after,#mapx115y78:hover a:after,#mapx116y82:hover a:after,#mapx117y83:hover a:after,#mapx118y79:hover a:after{ content: "Riesenfalter-Kokon";}
+#mapx108y76:hover a:after,#mapx109y75:hover a:after,#mapx109y77:hover a:after,#mapx112y78:hover a:after,#mapx114y78:hover a:after,#mapx114y80:hover a:after,#mapx114y82:hover a:after,#mapx117y82:hover a:after{ content: "belebender Falter";}
+#mapx108y84:hover a:after{ content: "Schneewurm\00000aUntoter Winterbürger";}
+#mapx108y99:hover a:after,#mapx109y98:hover a:after,#mapx109y101:hover a:after,#mapx112y100:hover a:after{ content: "Wiesenschrecke";}
+#mapx108y106:hover a:after{ content: "rote Steinspinne";}
+#mapx108y108:hover a:after,#mapx109y110:hover a:after{ content: "Gepforn";}
+#mapx108y114:hover a:after,#mapx108y117:hover a:after,#mapx109y114:hover a:after,#mapx109y116:hover a:after,#mapx110y114:hover a:after,#mapx111y116:hover a:after,#mapx113y114:hover a:after,#mapx113y116:hover a:after{ content: "Sandalin";}
+#mapx108y122:hover a:after,#mapx108y123:hover a:after,#mapx108y124:hover a:after,#mapx109y121:hover a:after,#mapx109y122:hover a:after,#mapx109y123:hover a:after,#mapx109y124:hover a:after,#mapx110y121:hover a:after,#mapx110y123:hover a:after,#mapx110y124:hover a:after,#mapx111y120:hover a:after,#mapx111y121:hover a:after,#mapx111y122:hover a:after,#mapx111y123:hover a:after,#mapx112y121:hover a:after,#mapx112y122:hover a:after,#mapx112y123:hover a:after,#mapx112y124:hover a:after,#mapx113y121:hover a:after,#mapx113y122:hover a:after,#mapx113y123:hover a:after,#mapx113y124:hover a:after,#mapx114y122:hover a:after,#mapx114y123:hover a:after,#mapx114y124:hover a:after,#mapx115y123:hover a:after,#mapx115y124:hover a:after,#mapx116y122:hover a:after,#mapx116y123:hover a:after,#mapx116y124:hover a:after,#mapx117y121:hover a:after,#mapx117y122:hover a:after,#mapx117y123:hover a:after,#mapx117y124:hover a:after,#mapx118y121:hover a:after,#mapx118y122:hover a:after,#mapx118y123:hover a:after,#mapx119y122:hover a:after{ content: "Energiewurm";}
+#mapx108y134:hover a:after{ content: "wuchernde Efeuranke";}
+#mapx108y135:hover a:after{ content: "Gartenschildkröte";}
+#mapx108y136:hover a:after{ content: "Südmeer-Tucan";}
+#mapx109y105:hover a:after{ content: "Lebende Bergspitze";}
+#mapx109y107:hover a:after{ content: "Steingolem";}
+#mapx109y115:hover a:after{ content: "Lebender Salzhügel\00000asalzsüchtiger Staubschleifer";}
+#mapx109y120:hover a:after{ content: "Mutter der Geysir-Schlucker";}
+#mapx109y127:hover a:after,#mapx111y128:hover a:after,#mapx111y129:hover a:after,#mapx112y126:hover a:after,#mapx112y128:hover a:after,#mapx112y129:hover a:after,#mapx112y130:hover a:after,#mapx113y128:hover a:after,#mapx113y130:hover a:after{ content: "Felsenassel";}
+#mapx109y128:hover a:after{ content: "Torpon-Schlange";}
+#mapx110y76:hover a:after,#mapx110y78:hover a:after,#mapx112y77:hover a:after,#mapx113y80:hover a:after,#mapx114y79:hover a:after,#mapx116y78:hover a:after,#mapx116y80:hover a:after,#mapx116y83:hover a:after{ content: "Nachtschattenraupe";}
+#mapx110y89:hover a:after,#mapx112y90:hover a:after,#mapx114y92:hover a:after,#mapx116y91:hover a:after{ content: "Kleiner Laubbär";}
+#mapx110y100:hover a:after{ content: "Sohn des Wiesengeistes\00000aWiesenschrecke";}
+#mapx110y106:hover a:after,#mapx110y112:hover a:after{ content: "kleines Reen";}
+#mapx110y122:hover a:after{ content: "Energiewurm\00000aGeysir-Schlucker";}
+#mapx110y127:hover a:after{ content: "Felsenechse";}
+#mapx110y131:hover a:after,#mapx110y134:hover a:after,#mapx115y133:hover a:after{ content: "Bran-Schleim";}
+#mapx110y132:hover a:after,#mapx111y131:hover a:after,#mapx113y132:hover a:after,#mapx113y134:hover a:after,#mapx116y132:hover a:after{ content: "Uhnar-Bazillus";}
+#mapx110y133:hover a:after,#mapx111y133:hover a:after,#mapx114y134:hover a:after,#mapx116y131:hover a:after{ content: "Lembrak-Kultur";}
+#mapx111y89:hover a:after,#mapx111y90:hover a:after,#mapx113y90:hover a:after,#mapx115y91:hover a:after,#mapx115y92:hover a:after{ content: "Serbanthi";}
+#mapx111y106:hover a:after{ content: "Reen";}
+#mapx111y113:hover a:after{ content: "Klapperschlange\00000aSalzwasservogel";}
+#mapx111y117:hover a:after{ content: "erschöpfte Klauenratte\00000aSandalin";}
+#mapx111y124:hover a:after,#mapx111y125:hover a:after,#mapx112y125:hover a:after,#mapx115y125:hover a:after,#mapx118y119:hover a:after,#mapx118y120:hover a:after,#mapx118y124:hover a:after{ content: "Geysir-Schlucker";}
+#mapx111y130:hover a:after,#mapx112y133:hover a:after,#mapx114y131:hover a:after,#mapx114y133:hover a:after{ content: "Mereller-Keim";}
+#mapx111y132:hover a:after,#mapx113y131:hover a:after,#mapx115y131:hover a:after,#mapx115y134:hover a:after{ content: "Brotandro-Virus";}
+#mapx112y86:hover a:after{ content: "Frostaugen-Bestie\00000aSchneewurm";}
+#mapx112y94:hover a:after,#mapx113y94:hover a:after{ content: "Kristallfisch";}
+#mapx112y101:hover a:after{ content: "Geist von Pur Pur";}
+#mapx112y120:hover a:after{ content: "ertrinkender Energiewurm";}
+#mapx112y131:hover a:after,#mapx112y132:hover a:after,#mapx113y133:hover a:after,#mapx115y132:hover a:after{ content: "Gerftar-Bakterium";}
+#mapx113y81:hover a:after,#mapx114y76:hover a:after,#mapx115y77:hover a:after,#mapx115y81:hover a:after,#mapx117y78:hover a:after{ content: "Graugoldfalter";}
+#mapx113y104:hover a:after,#mapx114y99:hover a:after,#mapx114y103:hover a:after,#mapx114y107:hover a:after,#mapx115y98:hover a:after,#mapx115y100:hover a:after,#mapx115y104:hover a:after,#mapx115y106:hover a:after,#mapx115y108:hover a:after,#mapx116y105:hover a:after,#mapx116y107:hover a:after,#mapx116y108:hover a:after,#mapx118y107:hover a:after,#mapx118y108:hover a:after{ content: "Wühlratte";}
+#mapx113y108:hover a:after,#mapx114y100:hover a:after,#mapx114y104:hover a:after,#mapx114y108:hover a:after,#mapx115y97:hover a:after,#mapx115y99:hover a:after,#mapx115y102:hover a:after,#mapx115y103:hover a:after,#mapx115y105:hover a:after,#mapx115y107:hover a:after,#mapx116y98:hover a:after,#mapx116y102:hover a:after,#mapx116y106:hover a:after{ content: "Donnersandschlange";}
+#mapx114y95:hover a:after,#mapx115y95:hover a:after,#mapx116y94:hover a:after{ content: "Baru-Giftegel";}
+#mapx114y101:hover a:after{ content: "Donnersandschlange\00000adurstige Riesenlibelle";}
+#mapx114y102:hover a:after,#mapx115y101:hover a:after,#mapx116y100:hover a:after,#mapx118y99:hover a:after,#mapx118y100:hover a:after{ content: "Schachtelmesserfarn";}
+#mapx114y132:hover a:after{ content: "Mereller-Keim\00000aStabfisch";}
+#mapx114y135:hover a:after{ content: "sterbender Brotandro-Virus";}
+#mapx115y122:hover a:after{ content: "Energiewurm\00000aSteinkatze";}
+#mapx115y135:hover a:after{ content: "sterbender Mereller-Keim";}
+#mapx116y95:hover a:after{ content: "Baru-Giftegel\00000aBaru-Schrecke";}
+#mapx116y117:hover a:after,#mapx118y111:hover a:after,#mapx118y115:hover a:after,#mapx120y110:hover a:after,#mapx120y117:hover a:after{ content: "Goldflossenfisch";}
+#mapx116y134:hover a:after{ content: "sterbendes Gerftar-Bakterium";}
+#mapx117y85:hover a:after,#mapx117y86:hover a:after,#mapx118y85:hover a:after,#mapx118y88:hover a:after,#mapx119y85:hover a:after,#mapx119y86:hover a:after,#mapx119y87:hover a:after,#mapx120y88:hover a:after,#mapx122y84:hover a:after,#mapx122y88:hover a:after,#mapx124y84:hover a:after,#mapx126y85:hover a:after{ content: "schwaches Stachelkrokodil";}
+#mapx117y108:hover a:after{ content: "totes Wawruz\00000aWühlratte";}
+#mapx117y113:hover a:after{ content: "triefender Wandschleim";}
+#mapx117y116:hover a:after,#mapx119y116:hover a:after,#mapx122y115:hover a:after,#mapx122y116:hover a:after{ content: "Sandfresserwurm";}
+#mapx118y72:hover a:after{ content: "Eiswurm\00000aFeuerskorpion\00000aMoosspinne";}
+#mapx118y75:hover a:after{ content: "Aggressiver Vipara\00000aAschenfledermaus\00000aDunkelmorin-Skelett";}
+#mapx118y78:hover a:after{ content: "Aschenvogel\00000abelebender Falter\00000agroßes Aschen-Skelett";}
+#mapx118y82:hover a:after,#mapx119y81:hover a:after,#mapx119y83:hover a:after,#mapx120y80:hover a:after,#mapx120y82:hover a:after,#mapx120y84:hover a:after,#mapx121y79:hover a:after,#mapx122y81:hover a:after,#mapx123y80:hover a:after,#mapx123y82:hover a:after,#mapx123y83:hover a:after,#mapx124y81:hover a:after,#mapx125y80:hover a:after,#mapx125y82:hover a:after,#mapx126y79:hover a:after,#mapx126y81:hover a:after{ content: "Schatten der Dunkelheit";}
+#mapx118y83:hover a:after,#mapx118y84:hover a:after,#mapx119y82:hover a:after,#mapx120y79:hover a:after,#mapx120y83:hover a:after,#mapx121y82:hover a:after,#mapx122y83:hover a:after,#mapx123y79:hover a:after,#mapx124y82:hover a:after,#mapx124y83:hover a:after,#mapx125y81:hover a:after,#mapx126y82:hover a:after,#mapx127y80:hover a:after{ content: "junger Schatten der Dunkelheit";}
+#mapx118y96:hover a:after,#mapx119y95:hover a:after,#mapx119y96:hover a:after,#mapx120y95:hover a:after,#mapx121y96:hover a:after,#mapx121y97:hover a:after,#mapx122y95:hover a:after,#mapx122y98:hover a:after,#mapx123y100:hover a:after,#mapx123y101:hover a:after,#mapx123y103:hover a:after{ content: "Langfaden-Spinne";}
+#mapx118y97:hover a:after,#mapx118y98:hover a:after,#mapx118y104:hover a:after,#mapx119y97:hover a:after,#mapx119y102:hover a:after,#mapx119y103:hover a:after,#mapx120y100:hover a:after,#mapx120y101:hover a:after,#mapx120y102:hover a:after,#mapx120y104:hover a:after{ content: "Rotpunkt-Tiger";}
+#mapx118y103:hover a:after{ content: "Rotpunkt-Tiger\00000aTempelhüter";}
+#mapx118y113:hover a:after,#mapx119y113:hover a:after,#mapx120y112:hover a:after,#mapx120y113:hover a:after,#mapx121y113:hover a:after{ content: "Steinpicker-Vogel";}
+#mapx119y71:hover a:after{ content: "Graspferd\00000amechanische Spinne\00000ariesiger Salamander";}
+#mapx119y72:hover a:after{ content: "Eisseeigel\00000aKleiner Vipara\00000ariesiger Salamander";}
+#mapx119y75:hover a:after{ content: "erfrorener Lava-Käfer\00000aGroßer Raubvogel\00000akleiner Feuerfuchs";}
+#mapx119y76:hover a:after{ content: "Aschenfledermaus\00000aGiftsporenpilz\00000aNorpi";}
+#mapx119y77:hover a:after{ content: "Aschenfledermaus\00000agroßes Aschen-Skelett\00000aKleiner Vipara";}
+#mapx119y78:hover a:after{ content: "Aschenvogel\00000abelebender Falter\00000agroßes Aschen-Skelett\00000ajunger Schatten der Dunkelheit";}
+#mapx119y80:hover a:after,#mapx120y81:hover a:after,#mapx121y80:hover a:after,#mapx121y81:hover a:after,#mapx122y80:hover a:after,#mapx122y82:hover a:after,#mapx123y81:hover a:after,#mapx124y80:hover a:after,#mapx126y80:hover a:after,#mapx127y79:hover a:after{ content: "großer Schatten der Dunkelheit";}
+#mapx119y84:hover a:after{ content: "junger Schatten der Dunkelheit\00000aSchatten-Ei";}
+#mapx119y88:hover a:after,#mapx120y86:hover a:after,#mapx121y88:hover a:after,#mapx122y85:hover a:after,#mapx123y84:hover a:after,#mapx123y86:hover a:after,#mapx124y85:hover a:after{ content: "Stachelkrokodil";}
+#mapx119y91:hover a:after,#mapx120y90:hover a:after,#mapx120y91:hover a:after,#mapx120y93:hover a:after,#mapx121y92:hover a:after,#mapx123y91:hover a:after{ content: "Schlammkaktus";}
+#mapx119y104:hover a:after{ content: "dicke, fette Strandkrabbe";}
+#mapx119y111:hover a:after,#mapx119y114:hover a:after,#mapx120y111:hover a:after,#mapx120y114:hover a:after,#mapx121y111:hover a:after,#mapx121y114:hover a:after,#mapx121y115:hover a:after{ content: "Blattalisk";}
+#mapx119y115:hover a:after{ content: "angebissene Lianenechse\00000aBlattalisk";}
+#mapx119y121:hover a:after{ content: "Geysir-Schlucker\00000averzauberter Energiewurm";}
+#mapx120y70:hover a:after{ content: "Steingolem\00000aVulkandämon";}
+#mapx120y71:hover a:after{ content: "Abgesandter der Eiswelt\00000aflammendes Glühwürmchen\00000akleiner Vipara";}
+#mapx120y72:hover a:after{ content: "Lava-Wurm\00000aSchneelangohrhase\00000aSprungechse";}
+#mapx120y73:hover a:after{ content: "Eisqualle\00000aMoosgeflecht\00000aVulkandämon";}
+#mapx120y74:hover a:after{ content: "brennendes Schaf\00000aKamel\00000aKleiner Vipara";}
+#mapx120y75:hover a:after{ content: "Geröllschlange\00000aGroßer Raubvogel\00000aLava-Käfer";}
+#mapx120y76:hover a:after{ content: "Aschenvogel\00000aUndaron\00000aZukuvogel";}
+#mapx120y94:hover a:after,#mapx120y96:hover a:after,#mapx120y97:hover a:after,#mapx120y98:hover a:after,#mapx121y94:hover a:after,#mapx121y95:hover a:after,#mapx121y98:hover a:after,#mapx121y100:hover a:after,#mapx121y101:hover a:after,#mapx121y102:hover a:after,#mapx121y103:hover a:after,#mapx121y104:hover a:after,#mapx122y99:hover a:after,#mapx122y100:hover a:after,#mapx122y101:hover a:after,#mapx122y102:hover a:after{ content: "Wassertentakel";}
+#mapx120y103:hover a:after{ content: "Rotpunkt-Tiger\00000aTempelwächter";}
+#mapx121y71:hover a:after{ content: "Blattspinne\00000aEisbohrmaschine-Prototyp\00000agroßer Lava-Käfer";}
+#mapx121y72:hover a:after{ content: "Feuerskorpion\00000aGraspferd\00000aseltsamer Pinguin";}
+#mapx121y73:hover a:after{ content: "Lava-Käfer\00000amechanische Spinne\00000aPapagei";}
+#mapx121y74:hover a:after{ content: "Aggressiver Vipara\00000aAschenfledermaus\00000aFrostaugen-Bestie";}
+#mapx121y75:hover a:after{ content: "Feuerfuchs\00000aKamel\00000aWütende Mooswurzel";}
+#mapx121y90:hover a:after{ content: "Kriechlapf\00000aSchlammkaktus";}
+#mapx121y99:hover a:after{ content: "verirrter Aasgeier\00000aWassertentakel";}
+#mapx121y112:hover a:after{ content: "altes Kaklatron\00000aSteinpicker-Vogel";}
+#mapx122y72:hover a:after{ content: "Frost-Wiesel\00000aLava-Echse\00000aMoosskarabäus\00000aseltsamer Pinguin";}
+#mapx122y73:hover a:after{ content: "Eisqualle\00000aFeuerfuchs\00000aKleiner Vipara";}
+#mapx122y74:hover a:after{ content: "Element-Wurm";}
+#mapx122y79:hover a:after{ content: "Schatten des Weltenwandlers";}
+#mapx122y114:hover a:after{ content: "Sprungechse\00000aStrandlokil";}
+#mapx123y73:hover a:after{ content: "Aschenflügel\00000aMoosgeflecht\00000aseltsamer Pinguin";}
+#mapx123y74:hover a:after{ content: "Eisseeigel\00000agroßer Lava-Käfer\00000aMoosnashorn";}
+#mapx123y75:hover a:after{ content: "aggressiver Vipara\00000aKamel\00000ariesiger Salamander";}
+#mapx123y95:hover a:after{ content: "Langfaden-Spinne\00000aMormdat";}
+#mapx123y102:hover a:after{ content: "kleiner Waldschlurch\00000aLangfaden-Spinne";}
+#mapx123y114:hover a:after{ content: "Strandlokil";}
+#mapx124y73:hover a:after{ content: "Frost-Wiesel\00000aGrasblatt-Schlange\00000ariesiger Salamander";}
+#mapx124y74:hover a:after{ content: "Fauler Eisbär\00000aFeuerskorpion\00000aGraspferd\00000aSchneelangohrhase";}
+#mapx124y75:hover a:after{ content: "Eiskaktus\00000akleiner Feuerfuchs\00000aKleiner Waldschlurch";}
+#mapx124y76:hover a:after{ content: "Eiskaktus\00000aGroßer Raubvogel\00000ariesiger Salamander";}
+#mapx124y91:hover a:after,#mapx124y92:hover a:after,#mapx125y89:hover a:after,#mapx125y90:hover a:after,#mapx125y91:hover a:after,#mapx125y92:hover a:after,#mapx126y89:hover a:after,#mapx126y91:hover a:after,#mapx126y93:hover a:after,#mapx127y89:hover a:after,#mapx127y90:hover a:after,#mapx128y89:hover a:after,#mapx128y90:hover a:after,#mapx129y88:hover a:after,#mapx129y89:hover a:after,#mapx129y90:hover a:after,#mapx130y90:hover a:after{ content: "Rote Riesenlibelle";}
+#mapx125y74:hover a:after{ content: "Aschenflügel\00000aEisseeigel\00000aWütende Mooswurzel";}
+#mapx125y75:hover a:after{ content: "aggressiver Vipara\00000aerfrorener Lava-Käfer\00000aLava-Wurm";}
+#mapx125y76:hover a:after{ content: "Aschenvogel\00000aGraswiesenschlange\00000aGroßer Erdkäfer";}
+#mapx125y93:hover a:after{ content: "Blattspinne\00000aRiesenhornisse";}
+#mapx126y75:hover a:after{ content: "Aschenfledermaus\00000aEiskaktus\00000ariesige Gift-Dschungelschlange";}
+#mapx126y76:hover a:after{ content: "Feuerfuchs\00000aKleiner Vipara\00000aSchneehuhn";}
+#mapx126y90:hover a:after,#mapx126y92:hover a:after,#mapx130y88:hover a:after,#mapx130y89:hover a:after,#mapx131y88:hover a:after,#mapx131y90:hover a:after{ content: "Riesenhornisse";}
+#mapx126y114:hover a:after{ content: "Stegovar";}
+#mapx127y75:hover a:after{ content: "Aschenflügel\00000aFenir Moosbart\00000aFrostgeist\00000aSilberfuchs";}
+#mapx127y76:hover a:after{ content: "Graspferd\00000akleiner Feuerfuchs\00000aWiesenpfeifer";}
+#mapx127y85:hover a:after{ content: "Schattensalamander";}
+#mapx127y88:hover a:after{ content: "Giftbeißer\00000aRiesenhornisse";}
+#mapx127y91:hover a:after{ content: "riesige Gift-Dschungelschlange\00000aRote Riesenlibelle";}
+#mapx127y114:hover a:after{ content: "Goldkrake";}
+#mapx128y86:hover a:after{ content: "kranke Milchkuh";}
+#mapx128y88:hover a:after{ content: "Riesenhornisse\00000azweibeinige Waldspinne";}
+#mapx132y116:hover a:after,#mapx133y115:hover a:after,#mapx133y117:hover a:after,#mapx135y114:hover a:after,#mapx136y114:hover a:after,#mapx136y115:hover a:after,#mapx137y113:hover a:after,#mapx137y114:hover a:after,#mapx138y115:hover a:after,#mapx138y116:hover a:after,#mapx138y117:hover a:after,#mapx139y114:hover a:after{ content: "Insel-Schnapper";}
+#mapx134y116:hover a:after,#mapx134y117:hover a:after,#mapx135y115:hover a:after,#mapx135y117:hover a:after,#mapx136y113:hover a:after,#mapx136y116:hover a:after,#mapx136y118:hover a:after,#mapx137y117:hover a:after,#mapx137y118:hover a:after,#mapx139y115:hover a:after,#mapx139y116:hover a:after{ content: "riesige Landmuschel";}
+#mapx135y116:hover a:after{ content: "Insel-Schnapper\00000aSilberwurmhaufen";}
+#mapx135y125:hover a:after,#mapx135y126:hover a:after,#mapx135y127:hover a:after,#mapx136y123:hover a:after,#mapx136y124:hover a:after,#mapx136y125:hover a:after,#mapx136y126:hover a:after,#mapx136y127:hover a:after,#mapx137y124:hover a:after,#mapx137y125:hover a:after,#mapx137y127:hover a:after,#mapx137y128:hover a:after,#mapx138y122:hover a:after,#mapx138y123:hover a:after,#mapx138y124:hover a:after,#mapx138y125:hover a:after,#mapx138y127:hover a:after,#mapx138y128:hover a:after,#mapx139y123:hover a:after,#mapx139y124:hover a:after,#mapx139y125:hover a:after,#mapx139y127:hover a:after,#mapx139y128:hover a:after,#mapx140y123:hover a:after,#mapx140y124:hover a:after,#mapx140y126:hover a:after,#mapx140y127:hover a:after,#mapx140y128:hover a:after,#mapx141y123:hover a:after,#mapx141y125:hover a:after,#mapx141y126:hover a:after,#mapx141y127:hover a:after,#mapx141y128:hover a:after,#mapx142y125:hover a:after,#mapx142y126:hover a:after,#mapx143y126:hover a:after{ content: "Steinschalenkäfer";}
+#mapx136y117:hover a:after{ content: "Glaswasserfisch";}
+#mapx136y128:hover a:after{ content: "Felsenwurm\00000aSteinschalenkäfer";}
+#mapx137y115:hover a:after{ content: "Insel-Schnapper\00000aTilua-Pflanze";}
+#mapx137y116:hover a:after{ content: "Glaswasserfisch\00000aschwimmendes Tentakel";}
+#mapx137y123:hover a:after{ content: "Stabkrebs\00000aSteinschalenkäfer";}
+#mapx137y126:hover a:after,#mapx138y126:hover a:after,#mapx139y126:hover a:after,#mapx140y125:hover a:after{ content: "Giftschleimer";}
+#mapx139y117:hover a:after{ content: "Insel-Schnapper\00000ariesige Landmuschel";}
+#mapx141y124:hover a:after{ content: "Stein-Tentakel\00000aSteinschalenkäfer";}
+#mapx144y126:hover a:after{ content: "Stein-Koloss\00000aSteinschalenkäfer";}
+#mapx145y120:hover a:after,#mapx145y121:hover a:after,#mapx148y118:hover a:after,#mapx151y118:hover a:after,#mapx151y119:hover a:after,#mapx152y118:hover a:after,#mapx153y119:hover a:after,#mapx153y120:hover a:after{ content: "Kreidevogel";}
+#mapx145y122:hover a:after{ content: "Kreidekrokodil\00000aKreidewurm";}
+#mapx146y119:hover a:after{ content: "geschwächter Kreidevogel";}
+#mapx146y120:hover a:after,#mapx146y121:hover a:after,#mapx147y119:hover a:after,#mapx147y121:hover a:after,#mapx147y122:hover a:after,#mapx148y122:hover a:after,#mapx149y118:hover a:after,#mapx149y122:hover a:after,#mapx150y118:hover a:after,#mapx150y120:hover a:after,#mapx150y121:hover a:after,#mapx152y120:hover a:after{ content: "Kreidewurm";}
+#mapx146y122:hover a:after,#mapx147y120:hover a:after,#mapx148y119:hover a:after,#mapx148y121:hover a:after,#mapx149y120:hover a:after,#mapx151y120:hover a:after,#mapx152y119:hover a:after{ content: "Kreidekäfer";}
+#mapx148y120:hover a:after,#mapx149y121:hover a:after,#mapx150y119:hover a:after{ content: "Kreidehirsch";}
+#mapx149y119:hover a:after{ content: "gekrümmter Kreidewurm";}
+#mapx182y137:hover a:after,#mapx183y138:hover a:after,#mapx183y139:hover a:after,#mapx184y136:hover a:after,#mapx184y137:hover a:after,#mapx184y138:hover a:after,#mapx185y135:hover a:after,#mapx185y136:hover a:after,#mapx185y138:hover a:after,#mapx186y135:hover a:after,#mapx186y139:hover a:after,#mapx187y136:hover a:after,#mapx187y137:hover a:after,#mapx187y138:hover a:after{ content: "Sandgolem";}
+#mapx182y138:hover a:after,#mapx183y137:hover a:after,#mapx188y139:hover a:after{ content: "exotischer Fisch";}
+#mapx183y136:hover a:after,#mapx185y137:hover a:after,#mapx185y139:hover a:after,#mapx186y138:hover a:after,#mapx187y139:hover a:after,#mapx188y138:hover a:after{ content: "Belpharia-Tucan";}
+#mapx184y140:hover a:after,#mapx185y140:hover a:after,#mapx186y140:hover a:after{ content: "Panzerrochen";}
+#mapx186y137:hover a:after{ content: "unbekannter Affe";}
+#mapx188y131:hover a:after,#mapx189y132:hover a:after,#mapx190y135:hover a:after,#mapx191y131:hover a:after,#mapx192y130:hover a:after,#mapx192y136:hover a:after,#mapx193y134:hover a:after,#mapx194y131:hover a:after,#mapx194y132:hover a:after,#mapx195y130:hover a:after,#mapx195y136:hover a:after,#mapx196y128:hover a:after,#mapx197y136:hover a:after,#mapx198y131:hover a:after,#mapx199y135:hover a:after{ content: "ausgewachsener Strativar";}
+#mapx189y130:hover a:after{ content: "schmatzende Blattspinne";}
+#mapx189y131:hover a:after,#mapx195y129:hover a:after{ content: "Goldkuh\00000ajunger Strativar";}
+#mapx189y133:hover a:after,#mapx190y134:hover a:after,#mapx191y130:hover a:after,#mapx191y133:hover a:after,#mapx192y134:hover a:after,#mapx193y131:hover a:after,#mapx193y135:hover a:after,#mapx195y131:hover a:after,#mapx195y133:hover a:after,#mapx195y135:hover a:after,#mapx196y130:hover a:after,#mapx196y134:hover a:after,#mapx197y128:hover a:after,#mapx197y132:hover a:after,#mapx197y135:hover a:after,#mapx198y130:hover a:after{ content: "junger Strativar";}
+#mapx189y134:hover a:after,#mapx190y130:hover a:after,#mapx190y133:hover a:after,#mapx191y132:hover a:after,#mapx191y134:hover a:after,#mapx191y135:hover a:after,#mapx192y133:hover a:after,#mapx193y132:hover a:after,#mapx193y133:hover a:after,#mapx194y133:hover a:after,#mapx194y135:hover a:after,#mapx195y132:hover a:after,#mapx195y134:hover a:after,#mapx196y131:hover a:after,#mapx196y132:hover a:after,#mapx197y131:hover a:after,#mapx197y134:hover a:after,#mapx198y129:hover a:after,#mapx198y132:hover a:after,#mapx198y133:hover a:after,#mapx198y135:hover a:after,#mapx199y132:hover a:after{ content: "Fallensteller";}
+#mapx190y131:hover a:after{ content: "gelangweilter Fallensteller";}
+#mapx191y129:hover a:after,#mapx191y136:hover a:after{ content: "Goldkuh";}
+#mapx192y132:hover a:after,#mapx194y136:hover a:after{ content: "Fallensteller\00000aGoldkuh";}
+#mapx192y135:hover a:after,#mapx193y130:hover a:after,#mapx194y134:hover a:after,#mapx196y129:hover a:after,#mapx197y130:hover a:after{ content: "brutaler Fallensteller";}
+#mapx196y133:hover a:after{ content: "ausgewachsener Strativar\00000aGoldkuh";}
+#mapx201y133:hover a:after{ content: "einsamer Waldhüpfer";}
+#mapx202y132:hover a:after,#mapx202y133:hover a:after,#mapx203y132:hover a:after,#mapx203y133:hover a:after,#mapx204y133:hover a:after,#mapx204y134:hover a:after{ content: "Waldhüpfer";}
+#mapx203y134:hover a:after{ content: "hyperaktiver Waldhüpfer";}
+#mapx252y97:hover a:after,#mapx253y97:hover a:after,#mapx253y98:hover a:after,#mapx256y93:hover a:after,#mapx256y96:hover a:after,#mapx260y95:hover a:after,#mapx262y94:hover a:after,#mapx262y95:hover a:after{ content: "Steinkratzkäfer";}
+#mapx252y98:hover a:after,#mapx253y96:hover a:after,#mapx255y96:hover a:after,#mapx257y93:hover a:after,#mapx258y92:hover a:after,#mapx260y92:hover a:after,#mapx260y94:hover a:after{ content: "saftende Itolos-Schrecke";}
+#mapx254y94:hover a:after,#mapx257y95:hover a:after,#mapx259y93:hover a:after,#mapx261y95:hover a:after{ content: "Itolos-Schrecke";}
+#mapx254y95:hover a:after,#mapx255y93:hover a:after,#mapx256y94:hover a:after,#mapx257y96:hover a:after,#mapx258y94:hover a:after,#mapx260y93:hover a:after{ content: "Brummkäfer";}
+#mapx254y96:hover a:after,#mapx258y93:hover a:after,#mapx259y95:hover a:after,#mapx261y93:hover a:after{ content: "enorme Stachelschildkröte";}
+#mapx254y97:hover a:after{ content: "roter Felswurm";}
+#mapx500y52:hover a:after,#mapx501y51:hover a:after,#mapx503y52:hover a:after,#mapx504y53:hover a:after{ content: "Das Nebelwesen\00000aNebelwesen";}
+#mapx500y53:hover a:after,#mapx502y56:hover a:after,#mapx504y54:hover a:after,#mapx506y56:hover a:after,#mapx507y54:hover a:after{ content: "Der Wolf der Finsternis\00000aWolf der Finsternis";}
+#mapx500y55:hover a:after,#mapx502y53:hover a:after,#mapx502y57:hover a:after,#mapx504y56:hover a:after,#mapx506y53:hover a:after,#mapx507y56:hover a:after{ content: "Nachtgonk";}
+#mapx501y52:hover a:after,#mapx502y51:hover a:after,#mapx502y52:hover a:after,#mapx504y52:hover a:after{ content: "Die Nebelkröte\00000aNebelkröte";}
+#mapx501y53:hover a:after,#mapx502y55:hover a:after,#mapx503y56:hover a:after,#mapx504y55:hover a:after{ content: "Schwarzwespen";}
+#mapx505y53:hover a:after{ content: "Die Nebelkrähe\00000aNebelkrähe";}
+#mapx506y57:hover a:after{ content: "Riesige Schattenfledermaus";}
+#mapx1004y1004:hover a:after,#mapx1004y1005:hover a:after,#mapx1005y1003:hover a:after,#mapx1005y1005:hover a:after,#mapx1006y1002:hover a:after,#mapx1006y1004:hover a:after,#mapx1007y1003:hover a:after,#mapx1007y1005:hover a:after,#mapx1008y1002:hover a:after,#mapx1008y1003:hover a:after,#mapx1008y1005:hover a:after,#mapx1009y1003:hover a:after,#mapx1009y1005:hover a:after,#mapx1011y1005:hover a:after{ content: "Frost-Wiesel";}
+#mapx1005y979:hover a:after{ content: "Nebelkoralle";}
+#mapx1005y1006:hover a:after{ content: "Frost-Wiesel\00000aFrostaugen-Bestie";}
+#mapx1006y977:hover a:after{ content: "nebliger Nebelkreischer";}
+#mapx1006y978:hover a:after{ content: "Nebelsoldat";}
+#mapx1006y979:hover a:after{ content: "Klippenspringer\00000aNebelkrokodil";}
+#mapx1007y977:hover a:after{ content: "singender Bettler";}
+#mapx1007y978:hover a:after{ content: "Wallwurzel";}
+#mapx1007y979:hover a:after{ content: "Nebelkoloss";}
+#mapx1008y976:hover a:after{ content: "Nebelwächter";}
+#mapx1008y978:hover a:after{ content: "Nebelhase";}
+#mapx1008y979:hover a:after{ content: "Geisterschiff";}
+#mapx1009y977:hover a:after{ content: "Nebelmöwe";}
+#mapx1009y978:hover a:after{ content: "Nebelalpaka\00000aNebelbaum";}
+#mapx1009y979:hover a:after{ content: "Nebelzwerg";}
+#mapx1009y992:hover a:after{ content: "Steinbär";}
+#mapx1009y998:hover a:after{ content: "Pinguin";}
+#mapx1009y1008:hover a:after{ content: "Frostaugen-Bestie\00000aSchneehase";}
+#mapx1010y977:hover a:after{ content: "Stadtmauersegler";}
+#mapx1010y978:hover a:after{ content: "Nebeldampfgeist\00000aNebelsteinmolch";}
+#mapx1010y979:hover a:after{ content: "Nebelwelle";}
+#mapx1010y983:hover a:after{ content: "Nebelwesen";}
+#mapx1010y987:hover a:after,#mapx1011y990:hover a:after{ content: "Seichtwasserkrokodil";}
+#mapx1011y978:hover a:after{ content: "Organist";}
+#mapx1011y979:hover a:after{ content: "Nebelmöwenschwarm";}
+#mapx1012y978:hover a:after{ content: "zwielichtiger Händler";}
+#mapx1012y979:hover a:after{ content: "Kellerassel";}
+#mapx1012y981:hover a:after{ content: "Glühnebel";}
+#mapx1013y979:hover a:after{ content: "Nebelspinne";}
