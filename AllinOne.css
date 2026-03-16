@@ -1,6 +1,21 @@
 @charset "UTF-8";
     
+:root{
+ --font: #ffffff;
+ --bgm: #000000;
+ --boxbg: #141714;
+ --ipb: #53514d;
 
+ --health-ok: #c4d94d;
+ --health-med: #788c4d;
+ --health-crit: #443820;
+
+ --chat-text: #ffffff;
+ --chat-global: #b9bec7;
+
+ --attack-size: 20px;
+ --ahz: 20px;
+}
 
 /*Anfang Aggro ANS */
 /* Agre\0000DFive NPC blinken */
