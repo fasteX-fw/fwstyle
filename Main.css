@@ -3,14 +3,14 @@
 
 
 
-@import url('./style/ans.css') ;
-@import url('./style/san.css') ;
-@import url('./style/smn.css') ;
-@import url('./style/save.css') ;
+@import url(https://raw.githubusercontent.com/fasteX-fw/fwstyle/main//ans.css) ;
+@import url(https://raw.githubusercontent.com/fasteX-fw/fwstyle/main/style/san.css) ;
+@import url(https://raw.githubusercontent.com/fasteX-fw/fwstyle/main/smn.css) ;
+@import url(https://raw.githubusercontent.com/fasteX-fw/fwstyle/main/save.css) ;
 
 
-@import url('./style/status.css') ;
-@import url('./style/rpz.css') ;
+@import url(https://raw.githubusercontent.com/fasteX-fw/fwstyle/main/status.css) ;
+@import url(https://raw.githubusercontent.com/fasteX-fw/fwstyle/main/rpz.css) ;
 
 
 .frameitembg p.listrow[id^="listrow_"]:not(#listrow_status) { white-space: nowrap; overflow: hidden; max-width: 260px; }
@@ -156,7 +156,7 @@ p.worldsay tr[bgcolor="#EEEE99"] a { color: #033875; }
 span[style*="#9A1085"] { color: #5cd9af !important; }
 
 /* frames bg */
-.framebannerbg { background-color:   #141714!important; background: url(style/bnnr2.png) no-repeat; border-bottom: 1px solid #000000; }
+.framebannerbg { background-color:   #141714!important; background: url(https://nuhp.de/style/bnnr2.png) no-repeat; border-bottom: 1px solid #000000; }
 
 
 .framechatformbg { background-color: #000000; }
