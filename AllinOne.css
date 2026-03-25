@@ -2379,7 +2379,7 @@ background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, 
 
 /* Zarah */
 #mapx81y119:hover a:after{ content: "Rotbein";}
-#mapx81y120 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx81y120:hover a:after{ content: "Grasgreifer";}
 #mapx82y120:hover a:after{ content: "Rotbein";}
 #mapx82y121:hover a:after{ content: "Blaukammvogel";}
 #mapx82y122 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
@@ -2414,7 +2414,7 @@ background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, 
 #mapx92y117:hover a:after{ content: "kleine Sandkatze";}
 #mapx92y118:hover a:after{ content: "gestreiftes Pferd";}
 #mapx92y119:hover a:after{ content: "Hopsuru";}
-#mapx92y120:hover a:after{ content: "gestreiftes Pferd";}
+#mapx92y120:hover a:after{ content: "gestreiftes Pferd\00000aSandhorn";}
 #mapx92y121:hover a:after{ content: "unheimliches Steintor";}
 #mapx92y122 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx92y123 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
@@ -2422,7 +2422,7 @@ background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, 
 #mapx92y125:hover a:after{ content: "kleine Sandkatze";}
 #mapx93y116 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
 #mapx93y117 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
-#mapx93y118 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx93y118:hover a:after{ content: "Sandhorn ";}
 #mapx93y119:hover a:after{ content: "Stabfisch";}
 #mapx93y120:hover a:after{ content: "Sandbär";}
 #mapx93y122 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
@@ -2433,7 +2433,7 @@ background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, 
 #mapx94y122:hover a:after{ content: "kleine Spinne";}
 #mapx94y123:hover a:after{ content: "unheimliches Steintor";}
 #mapx94y125:hover a:after{ content: "Sandbär";}
-#mapx95y122 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
+#mapx95y122:hover a:after{ content: "kleine Sandkatze";}
 #mapx95y123 a:before{ content:  url(https://nuhp.de/style/umgs/U__npc.svg); z-index: 2; width: 50px; position: absolute; margin-left:-0px;background:0;}
 /* Ende Zarah */
 
@@ -2474,7 +2474,7 @@ background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, 
 
 
 
-
+.framemapbg td[id^="map"] a { width: inherit !important; height: inherit !important; }
 
 
 
